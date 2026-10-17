@@ -1,0 +1,1046 @@
+{
+  "file": "15_crowd_pedestrian_rush.mp4",
+  "created": "2026-10-17T10:08:32+07:00",
+  "model": "violence_precision_20261015.pt:9a5f3db7d9b1",
+  "duration_seconds": 8.0,
+  "visual_mean": 0.2098247335253437,
+  "decoded_frames": 200,
+  "reported_frames": 200,
+  "source_fps": 25.0,
+  "visual_peak": 0.521590256690979,
+  "timeline": [
+    {
+      "second": 1.0,
+      "visual": 0.10336146073209847,
+      "smooth": 0.0895038525651654,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 7,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 25,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 1.2,
+      "visual": 0.08882889753971314,
+      "smooth": 0.08923387055498448,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 6,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 30,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 1.4,
+      "visual": 0.10186431529541835,
+      "smooth": 0.09428604845115802,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 9,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 35,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 1.6,
+      "visual": 0.07379764732180548,
+      "smooth": 0.08609068799941699,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 8,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 40,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 1.8,
+      "visual": 0.09995253463411018,
+      "smooth": 0.09163542665329427,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 8,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 45,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 2.0,
+      "visual": 0.15878242350868846,
+      "smooth": 0.11849422539545196,
+      "interaction": {
+        "supported": false,
+        "passing": true,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 9,
+        "pairs": [],
+        "reason": "Chuyển động đi ngang/đi cạnh nhau; chưa có tương tác mạnh; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 50,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 2.2,
+      "visual": 0.24934245868113294,
+      "smooth": 0.17083351870972435,
+      "interaction": {
+        "supported": false,
+        "passing": true,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 9,
+        "pairs": [],
+        "reason": "Chuyển động đi ngang/đi cạnh nhau; chưa có tương tác mạnh; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 55,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 2.4,
+      "visual": 0.18406161282970288,
+      "smooth": 0.17612475635771574,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 10,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 60,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 2.6,
+      "visual": 0.1748570367784737,
+      "smooth": 0.17561766852601893,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 9,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 65,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 2.8,
+      "visual": 0.09978043717703713,
+      "smooth": 0.14528277598642622,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 14,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 70,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 3.0,
+      "visual": 0.06837221944058455,
+      "smooth": 0.11451855336808954,
+      "interaction": {
+        "supported": false,
+        "passing": true,
+        "contact_pairs": 2,
+        "confirmed_since": null,
+        "observed_people": 14,
+        "pairs": [],
+        "reason": "Chuyển động đi ngang/đi cạnh nhau; chưa có tương tác mạnh; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 75,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 3.2,
+      "visual": 0.1891230552738307,
+      "smooth": 0.144360354130386,
+      "interaction": {
+        "supported": false,
+        "passing": true,
+        "contact_pairs": 3,
+        "confirmed_since": null,
+        "observed_people": 16,
+        "pairs": [],
+        "reason": "Chuyển động đi ngang/đi cạnh nhau; chưa có tương tác mạnh; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 80,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 3.4,
+      "visual": 0.07330560390341816,
+      "smooth": 0.11593845403959886,
+      "interaction": {
+        "supported": false,
+        "passing": true,
+        "contact_pairs": 3,
+        "confirmed_since": null,
+        "observed_people": 15,
+        "pairs": [],
+        "reason": "Chuyển động đi ngang/đi cạnh nhau; chưa có tương tác mạnh; Khớp cơ thể thiếu/bị che khuất; cần xem camera; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Khớp cơ thể thiếu/bị che khuất; cần xem camera",
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 85,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 3.6,
+      "visual": 0.09543440176503282,
+      "smooth": 0.10773683312977245,
+      "interaction": {
+        "supported": false,
+        "passing": true,
+        "contact_pairs": 3,
+        "confirmed_since": null,
+        "observed_people": 13,
+        "pairs": [],
+        "reason": "Chuyển động đi ngang/đi cạnh nhau; chưa có tương tác mạnh; Khớp cơ thể thiếu/bị che khuất; cần xem camera; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Khớp cơ thể thiếu/bị che khuất; cần xem camera",
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 90,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 3.8,
+      "visual": 0.11367410951188504,
+      "smooth": 0.11011174368261747,
+      "interaction": {
+        "supported": false,
+        "passing": true,
+        "contact_pairs": 3,
+        "confirmed_since": null,
+        "observed_people": 15,
+        "pairs": [],
+        "reason": "Chuyển động đi ngang/đi cạnh nhau; chưa có tương tác mạnh; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 95,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 4.0,
+      "visual": 0.12613439142819516,
+      "smooth": 0.11652080278084855,
+      "interaction": {
+        "supported": false,
+        "passing": true,
+        "contact_pairs": 2,
+        "confirmed_since": null,
+        "observed_people": 16,
+        "pairs": [],
+        "reason": "Chuyển động đi ngang/đi cạnh nhau; chưa có tương tác mạnh; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 100,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 4.2,
+      "visual": 0.07779572784102129,
+      "smooth": 0.10103077280491764,
+      "interaction": {
+        "supported": false,
+        "passing": true,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 17,
+        "pairs": [],
+        "reason": "Chuyển động đi ngang/đi cạnh nhau; chưa có tương tác mạnh; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 105,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 4.4,
+      "visual": 0.11841648902019415,
+      "smooth": 0.10798505929102824,
+      "interaction": {
+        "supported": false,
+        "passing": true,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 15,
+        "pairs": [],
+        "reason": "Chuyển động đi ngang/đi cạnh nhau; chưa có tương tác mạnh; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 110,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 4.6,
+      "visual": 0.11496209014268857,
+      "smooth": 0.11077587163169236,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 13,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 115,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 4.8,
+      "visual": 0.16069258514021953,
+      "smooth": 0.13074255703510324,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 12,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Khớp cơ thể thiếu/bị che khuất; cần xem camera; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Khớp cơ thể thiếu/bị che khuất; cần xem camera",
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 120,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 5.0,
+      "visual": 0.1992351830609891,
+      "smooth": 0.1581396074454576,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 11,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 125,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 5.2,
+      "visual": 0.13098314921520568,
+      "smooth": 0.1472770241533568,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 14,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 130,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 5.4,
+      "visual": 0.2222545672784122,
+      "smooth": 0.17726804140337896,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 7,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 135,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 5.6,
+      "visual": 0.356952707559708,
+      "smooth": 0.24914190786591056,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 6,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 140,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 5.8,
+      "visual": 0.41849521339754575,
+      "smooth": 0.3168832300785646,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 6,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 145,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 6.0,
+      "visual": 0.3490222005195392,
+      "smooth": 0.32973881825495444,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 6,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 150,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 6.2,
+      "visual": 0.45766471577808265,
+      "smooth": 0.3809091772642058,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 6,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Đang theo dõi",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 155,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 6.4,
+      "visual": 0.40110502615571025,
+      "smooth": 0.38898751682080757,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 5,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Đang theo dõi",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 160,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 6.6,
+      "visual": 0.4146117106080055,
+      "smooth": 0.3992371943356867,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 6,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Đang theo dõi",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 165,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 6.8,
+      "visual": 0.521590256690979,
+      "smooth": 0.44817841927780366,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 6,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Đang theo dõi",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 170,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 7.0,
+      "visual": 0.35120449662208564,
+      "smooth": 0.4093888502155164,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 6,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Đang theo dõi",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 175,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 7.2,
+      "visual": 0.4462470173835754,
+      "smooth": 0.42413211708273996,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 6,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Đang theo dõi",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 180,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 7.4,
+      "visual": 0.2881358236074448,
+      "smooth": 0.3697335996926219,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 6,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Đang theo dõi",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 185,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 7.6,
+      "visual": 0.21866502473130822,
+      "smooth": 0.3093061697080964,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 9,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 190,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 7.8,
+      "visual": 0.09515908281318844,
+      "smooth": 0.2236473349501332,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 10,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 195,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    }
+  ],
+  "automatic_alerts": [],
+  "action_timeline": [],
+  "action_context_enabled": false,
+  "action_decode_audit": null,
+  "person_model": "models/yolov8s-pose.pt",
+  "cancelled": false,
+  "note": "AI có thể báo nhầm hoặc bỏ sót. AI không dùng để kết luận hoặc kỷ luật học sinh. Người phụ trách vẫn cần xem camera định kỳ.",
+  "visual_signal": {
+    "label": "Chưa đủ bằng chứng xô xát",
+    "risk": "review",
+    "corroborated": false
+  },
+  "decision": {
+    "label": "Chưa đủ bằng chứng xô xát",
+    "risk": "review",
+    "corroborated": false
+  }
+}

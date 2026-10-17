@@ -1,0 +1,1199 @@
+{
+  "file": "01_play_goofing_hallway.mp4",
+  "created": "2026-10-17T10:54:02+07:00",
+  "model": "violence_fresh_development_20261017.pt:a39c9d2ceaaa",
+  "duration_seconds": 8.93,
+  "visual_mean": 0.02209889678588015,
+  "decoded_frames": 130,
+  "reported_frames": 130,
+  "source_fps": 14.55,
+  "visual_peak": 0.11899242997169496,
+  "timeline": [
+    {
+      "second": 1.031,
+      "visual": 0.026531831271313422,
+      "smooth": 0.04321514794730425,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 3,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 15,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 1.237,
+      "visual": 0.022279481049304196,
+      "smooth": 0.034840881188104224,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 18,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 1.443,
+      "visual": 0.11899242997169496,
+      "smooth": 0.06850150070154053,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 3,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 21,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 1.649,
+      "visual": 0.02836618572473526,
+      "smooth": 0.052447374710818416,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 24,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 1.856,
+      "visual": 0.1180656172335148,
+      "smooth": 0.07869467171989697,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 2,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 27,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 2.062,
+      "visual": 0.009972663270309568,
+      "smooth": 0.05120586834006201,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 30,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 2.268,
+      "visual": 0.006911263358779252,
+      "smooth": 0.0334880263475489,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 33,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 2.474,
+      "visual": 0.03812038914766163,
+      "smooth": 0.035340971467594,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 36,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 2.68,
+      "visual": 0.015291163409710862,
+      "smooth": 0.02732104824444074,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 2,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 39,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 2.887,
+      "visual": 0.05969575707858894,
+      "smooth": 0.040270931778100025,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 42,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 3.093,
+      "visual": 0.06073232941635069,
+      "smooth": 0.0484554908334003,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 45,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 3.299,
+      "visual": 0.008297144590324023,
+      "smooth": 0.03239215233616979,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 48,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 3.505,
+      "visual": 0.00562300126930495,
+      "smooth": 0.021684491909423852,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 51,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 3.711,
+      "visual": 0.01392434983399653,
+      "smooth": 0.018580435079252923,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 2,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 54,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 3.918,
+      "visual": 0.013945084353508719,
+      "smooth": 0.016726294788955244,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 0,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 57,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 4.124,
+      "visual": 0.003282608658219033,
+      "smooth": 0.011348820336660757,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 2,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 60,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 4.33,
+      "visual": 0.006704403628123146,
+      "smooth": 0.009491053653245714,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 2,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 63,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 4.536,
+      "visual": 0.009849017641045068,
+      "smooth": 0.009634239248365456,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 2,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 66,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 4.742,
+      "visual": 0.018071604516131854,
+      "smooth": 0.013009185355472016,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 2,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 69,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 4.948,
+      "visual": 0.00937392180181007,
+      "smooth": 0.011555079934007239,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 2,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 72,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 5.155,
+      "visual": 0.002725656974847368,
+      "smooth": 0.00802331075034329,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 75,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 5.361,
+      "visual": 0.0029691486263700995,
+      "smooth": 0.006001645900754013,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 78,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 5.567,
+      "visual": 0.0024377024755171564,
+      "smooth": 0.004576068530659271,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 81,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 5.773,
+      "visual": 0.002649042866213236,
+      "smooth": 0.0038052582648808566,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 2,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 84,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 5.979,
+      "visual": 0.002573289457627581,
+      "smooth": 0.003312470741979546,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 2,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 87,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 6.186,
+      "visual": 0.002052742103185601,
+      "smooth": 0.0028085792864619677,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 0,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 90,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 6.392,
+      "visual": 0.0012889726750248797,
+      "smooth": 0.002200736641887133,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 2,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 93,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 6.598,
+      "visual": 0.07318135369429797,
+      "smooth": 0.030592983462851463,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 0,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 96,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 6.804,
+      "visual": 0.01335535759216384,
+      "smooth": 0.023697933114576415,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 0,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 99,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 7.01,
+      "visual": 0.006168246262681976,
+      "smooth": 0.01668605837381864,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 0,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 102,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 7.216,
+      "visual": 0.002763678527107061,
+      "smooth": 0.011117106435134007,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 105,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 7.423,
+      "visual": 0.004278831379409098,
+      "smooth": 0.008381796412844042,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 108,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 7.629,
+      "visual": 0.011956182872077649,
+      "smooth": 0.009811550996537483,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 111,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 7.835,
+      "visual": 0.016155249208040345,
+      "smooth": 0.012349030281138628,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 0,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 114,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 8.041,
+      "visual": 0.03374986689022137,
+      "smooth": 0.020909364924771728,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 0,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 117,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 8.247,
+      "visual": 0.020210248983335077,
+      "smooth": 0.020629718548197066,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 0,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 120,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 8.454,
+      "visual": 0.056984558387881634,
+      "smooth": 0.03517165448407089,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 123,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 8.66,
+      "visual": 0.009341747458083206,
+      "smooth": 0.02483969167367582,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa đủ dữ liệu để xác minh tương tác: chưa thấy đủ hai người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 126,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 8.866,
+      "visual": 0.00298485099081347,
+      "smooth": 0.01609775540053088,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 2,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 129,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    }
+  ],
+  "automatic_alerts": [],
+  "action_timeline": [],
+  "action_context_enabled": false,
+  "action_decode_audit": null,
+  "person_model": "models/yolov8s-pose.pt",
+  "cancelled": false,
+  "note": "AI có thể báo nhầm hoặc bỏ sót. AI không dùng để kết luận hoặc kỷ luật học sinh. Người phụ trách vẫn cần xem camera định kỳ.",
+  "visual_signal": {
+    "label": "Chưa đủ bằng chứng xô xát",
+    "risk": "low",
+    "corroborated": false
+  },
+  "decision": {
+    "label": "Chưa đủ bằng chứng xô xát",
+    "risk": "low",
+    "corroborated": false
+  },
+  "source_sha256": "17f708ad10d3a72a308845705ac1fd26687d52133b4ae3779ea98d19b0cb4f94",
+  "signature": {
+    "code": {
+      "main2.py": "3e84244e0d61fa36e3b20c7840bfc4876e078d0795e470578addd35e098a89cd",
+      "short_contact.py": "044eaba690ab37f7d7d6189d10eaaa309f830411e5f75824635ce4718a8c5ef4",
+      "confidence_head.py": "e405aa77cf506f6ed6784c188a83cf73dceec84e8c84e9f23a5233bffeb1b202",
+      "school_policy.py": "48ee8c2543c74b572f41367030c11197ccfcaaea9a99c6b483a2f2c167ef89c2",
+      "temporal_visual.py": "b20eb8b1e19a95439a4b32b39780d57eea9cfd95fb02f3635713f02153871317",
+      "action_runtime.py": "93719638d3a85ac0d3d7ae049fe66eba4fe7bfc9e516727a2a825e56f9a3e36e"
+    },
+    "models": {
+      "models/violence_fresh_development_20261017.pt": "a39c9d2ceaaae3dfd495ccf374308bd42d736d48a07d47f66062ccf6dff333a4",
+      "models/yolov8s-pose.pt": "234314cd8baf62616791aceb9ea6ad5c19f26cf6c0d8f3a1bfce1e23b186cfb3"
+    },
+    "config": {
+      "model": {
+        "backend": "resnet",
+        "path": "models/violence_fresh_development_20261017.pt",
+        "keras_path": "model_gop.h5",
+        "input_size": 160,
+        "sequence_length": 10,
+        "feature_weights": "",
+        "device": "cpu",
+        "threads": 2,
+        "video_context_enabled": false,
+        "video_context_kind": "r3d",
+        "video_context_backbone": "models/r3d_18_kinetics400.pt",
+        "video_context_head": "models/action_recall_public_20261016.pt"
+      },
+      "person": {
+        "enabled": true,
+        "path": "models/yolov8s-pose.pt",
+        "confidence": 0.2,
+        "imgsz": 640,
+        "body_occlusion": true,
+        "min_body_confidence": 0.1,
+        "enhanced": false
+      },
+      "detection": {
+        "threshold": 0.75,
+        "interaction_threshold": 0.5,
+        "release_threshold": 0.35,
+        "sustain_seconds": 0.6,
+        "max_gap_seconds": 0.25,
+        "release_seconds": 1.5,
+        "cooldown_seconds": 30,
+        "analysis_fps": 5,
+        "require_interaction": true,
+        "motion_threshold": 2.8,
+        "short_kicks_enabled": true,
+        "short_punches_enabled": true
+      },
+      "school_policy": {
+        "mode": "standard",
+        "default_mode": "strict",
+        "periods": [
+          {
+            "start": "06:45",
+            "end": "09:00",
+            "mode": "strict",
+            "patrol": false
+          },
+          {
+            "start": "09:00",
+            "end": "09:20",
+            "mode": "anti_false",
+            "patrol": true
+          },
+          {
+            "start": "09:20",
+            "end": "11:30",
+            "mode": "strict",
+            "patrol": false
+          },
+          {
+            "start": "13:00",
+            "end": "15:00",
+            "mode": "strict",
+            "patrol": false
+          },
+          {
+            "start": "15:00",
+            "end": "15:20",
+            "mode": "anti_false",
+            "patrol": true
+          },
+          {
+            "start": "15:20",
+            "end": "23:59",
+            "mode": "strict",
+            "patrol": false
+          }
+        ],
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "anti_false_seconds": 3.0,
+        "gather_seconds": 15.0,
+        "fall_seconds": 5.0,
+        "occlusion_seconds": 8.0,
+        "patrol_times": [
+          "17:00"
+        ],
+        "patrol_enabled": false,
+        "camera_health": true,
+        "health_seconds": 5.0
+      }
+    }
+  },
+  "inference_wall_seconds": 7.49,
+  "observations_sha256": "63e00d8a54f8ad01b647ac330a12458ac931a14c179da4e9be6efd65f4a90cba"
+}

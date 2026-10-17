@@ -1,0 +1,248 @@
+{
+  "created_at": "2026-10-16T12:15:20.558369+00:00",
+  "records": [
+    {
+      "source_group": "AIRTLab:violent:scene83",
+      "kind": "airtlab",
+      "category": "fight",
+      "label": true,
+      "revision": "1f7747e104301ccaa82ef5a2f6804b51ced1c398",
+      "source_url": "https://raw.githubusercontent.com/airtlab/A-Dataset-for-Automatic-Violence-Detection-in-Videos/1f7747e104301ccaa82ef5a2f6804b51ced1c398/violence-detection-dataset/violent/cam1/83.mp4",
+      "filename": "airtlab_violent_83.mp4",
+      "camera_sibling_exclusion": "Source group covers both original cam1 and cam2 views of scene."
+    },
+    {
+      "source_group": "AIRTLab:violent:scene84",
+      "kind": "airtlab",
+      "category": "fight",
+      "label": true,
+      "revision": "1f7747e104301ccaa82ef5a2f6804b51ced1c398",
+      "source_url": "https://raw.githubusercontent.com/airtlab/A-Dataset-for-Automatic-Violence-Detection-in-Videos/1f7747e104301ccaa82ef5a2f6804b51ced1c398/violence-detection-dataset/violent/cam1/84.mp4",
+      "filename": "airtlab_violent_84.mp4",
+      "camera_sibling_exclusion": "Source group covers both original cam1 and cam2 views of scene."
+    },
+    {
+      "source_group": "AIRTLab:violent:scene85",
+      "kind": "airtlab",
+      "category": "fight",
+      "label": true,
+      "revision": "1f7747e104301ccaa82ef5a2f6804b51ced1c398",
+      "source_url": "https://raw.githubusercontent.com/airtlab/A-Dataset-for-Automatic-Violence-Detection-in-Videos/1f7747e104301ccaa82ef5a2f6804b51ced1c398/violence-detection-dataset/violent/cam1/85.mp4",
+      "filename": "airtlab_violent_85.mp4",
+      "camera_sibling_exclusion": "Source group covers both original cam1 and cam2 views of scene."
+    },
+    {
+      "source_group": "AIRTLab:violent:scene86",
+      "kind": "airtlab",
+      "category": "fight",
+      "label": true,
+      "revision": "1f7747e104301ccaa82ef5a2f6804b51ced1c398",
+      "source_url": "https://raw.githubusercontent.com/airtlab/A-Dataset-for-Automatic-Violence-Detection-in-Videos/1f7747e104301ccaa82ef5a2f6804b51ced1c398/violence-detection-dataset/violent/cam1/86.mp4",
+      "filename": "airtlab_violent_86.mp4",
+      "camera_sibling_exclusion": "Source group covers both original cam1 and cam2 views of scene."
+    },
+    {
+      "source_group": "AIRTLab:violent:scene87",
+      "kind": "airtlab",
+      "category": "fight",
+      "label": true,
+      "revision": "1f7747e104301ccaa82ef5a2f6804b51ced1c398",
+      "source_url": "https://raw.githubusercontent.com/airtlab/A-Dataset-for-Automatic-Violence-Detection-in-Videos/1f7747e104301ccaa82ef5a2f6804b51ced1c398/violence-detection-dataset/violent/cam1/87.mp4",
+      "filename": "airtlab_violent_87.mp4",
+      "camera_sibling_exclusion": "Source group covers both original cam1 and cam2 views of scene."
+    },
+    {
+      "source_group": "AIRTLab:violent:scene88",
+      "kind": "airtlab",
+      "category": "fight",
+      "label": true,
+      "revision": "1f7747e104301ccaa82ef5a2f6804b51ced1c398",
+      "source_url": "https://raw.githubusercontent.com/airtlab/A-Dataset-for-Automatic-Violence-Detection-in-Videos/1f7747e104301ccaa82ef5a2f6804b51ced1c398/violence-detection-dataset/violent/cam1/88.mp4",
+      "filename": "airtlab_violent_88.mp4",
+      "camera_sibling_exclusion": "Source group covers both original cam1 and cam2 views of scene."
+    },
+    {
+      "source_group": "AIRTLab:violent:scene89",
+      "kind": "airtlab",
+      "category": "fight",
+      "label": true,
+      "revision": "1f7747e104301ccaa82ef5a2f6804b51ced1c398",
+      "source_url": "https://raw.githubusercontent.com/airtlab/A-Dataset-for-Automatic-Violence-Detection-in-Videos/1f7747e104301ccaa82ef5a2f6804b51ced1c398/violence-detection-dataset/violent/cam1/89.mp4",
+      "filename": "airtlab_violent_89.mp4",
+      "camera_sibling_exclusion": "Source group covers both original cam1 and cam2 views of scene."
+    },
+    {
+      "source_group": "AIRTLab:violent:scene90",
+      "kind": "airtlab",
+      "category": "fight",
+      "label": true,
+      "revision": "1f7747e104301ccaa82ef5a2f6804b51ced1c398",
+      "source_url": "https://raw.githubusercontent.com/airtlab/A-Dataset-for-Automatic-Violence-Detection-in-Videos/1f7747e104301ccaa82ef5a2f6804b51ced1c398/violence-detection-dataset/violent/cam1/90.mp4",
+      "filename": "airtlab_violent_90.mp4",
+      "camera_sibling_exclusion": "Source group covers both original cam1 and cam2 views of scene."
+    },
+    {
+      "source_group": "HMDB51:8yroldBasketballhighlight2006",
+      "kind": "hmdb",
+      "category": "sports",
+      "label": false,
+      "source_action": "shoot_ball",
+      "archive_member": "shoot_ball/8yroldBasketballhighlight2006_shoot_ball_f_cm_np1_le_med_0.avi",
+      "revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "filename": "hmdb_8yroldBasketballhighlight2006_shoot_ball_f_cm_np1_le_med_0.avi"
+    },
+    {
+      "source_group": "HMDB51:SarahPlayingBasketBall",
+      "kind": "hmdb",
+      "category": "sports",
+      "label": false,
+      "source_action": "shoot_ball",
+      "archive_member": "shoot_ball/SarahPlayingBasketBall_shoot_ball_f_cm_np1_le_med_0.avi",
+      "revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "filename": "hmdb_SarahPlayingBasketBall_shoot_ball_f_cm_np1_le_med_0.avi"
+    },
+    {
+      "source_group": "HMDB51:Basic_Basketball_Moves",
+      "kind": "hmdb",
+      "category": "sports",
+      "label": false,
+      "source_action": "dribble",
+      "archive_member": "dribble/Basic_Basketball_Moves_dribble_f_cm_np1_ba_goo_4.avi",
+      "revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "filename": "hmdb_Basic_Basketball_Moves_dribble_f_cm_np1_ba_goo_4.avi"
+    },
+    {
+      "source_group": "HMDB51:Basketball_Training-_Amazing_3_ball_and_4_ball_dribbling",
+      "kind": "hmdb",
+      "category": "sports",
+      "label": false,
+      "source_action": "dribble",
+      "archive_member": "dribble/Basketball_Training-_Amazing_3_ball_and_4_ball_dribbling_dribble_f_cm_np1_fr_bad_1.avi",
+      "revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "filename": "hmdb_Basketball_Training-_Amazing_3_ball_and_4_ball_dribbling_dribble_f_cm_np1_fr_bad_1.avi"
+    },
+    {
+      "source_group": "HMDB51:BRIAN_CLOUGH_-_ON_THE_TRAINING_GROUND",
+      "kind": "hmdb",
+      "category": "sports",
+      "label": false,
+      "source_action": "kick_ball",
+      "archive_member": "kick_ball/BRIAN_CLOUGH_-_ON_THE_TRAINING_GROUND_kick_ball_f_cm_np1_ri_med_0.avi",
+      "revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "filename": "hmdb_BRIAN_CLOUGH_-_ON_THE_TRAINING_GROUND_kick_ball_f_cm_np1_ri_med_0.avi"
+    },
+    {
+      "source_group": "HMDB51:Epee_Fencing_Attacks_-_Remises",
+      "kind": "hmdb",
+      "category": "sports",
+      "label": false,
+      "source_action": "fencing",
+      "archive_member": "fencing/Epee_Fencing_Attacks_-_Remises_fencing_f_nm_np2_le_bad_2.avi",
+      "revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "filename": "hmdb_Epee_Fencing_Attacks_-_Remises_fencing_f_nm_np2_le_bad_2.avi"
+    },
+    {
+      "source_group": "HMDB51:Hand_Clapping_Game__Bim_Bum_",
+      "kind": "hmdb",
+      "category": "play",
+      "label": false,
+      "source_action": "clap",
+      "archive_member": "clap/Hand_Clapping_Game__Bim_Bum__clap_f_nm_np2_fr_med_0.avi",
+      "revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "filename": "hmdb_Hand_Clapping_Game__Bim_Bum__clap_f_nm_np2_fr_med_0.avi"
+    },
+    {
+      "source_group": "HMDB51:Wendy_playing_wii_fit_with",
+      "kind": "hmdb",
+      "category": "play",
+      "label": false,
+      "source_action": "clap",
+      "archive_member": "clap/Wendy_playing_wii_fit_with_clapping_hands_clap_f_cm_np1_le_med_0.avi",
+      "revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "filename": "hmdb_Wendy_playing_wii_fit_with_clapping_hands_clap_f_cm_np1_le_med_0.avi"
+    },
+    {
+      "source_group": "YouTube:QXJsX7T8fYM",
+      "kind": "youtube",
+      "category": "play",
+      "label": false,
+      "source_url": "https://www.youtube.com/watch?v=QXJsX7T8fYM",
+      "filename": "QXJsX7T8fYM.mp4",
+      "id": "QXJsX7T8fYM"
+    },
+    {
+      "source_group": "YouTube:7IoWMJpKUoQ",
+      "kind": "youtube",
+      "category": "play",
+      "label": false,
+      "source_url": "https://www.youtube.com/watch?v=7IoWMJpKUoQ",
+      "filename": "7IoWMJpKUoQ.mp4",
+      "id": "7IoWMJpKUoQ"
+    },
+    {
+      "source_group": "YouTube:nLVymEFKVqs",
+      "kind": "youtube",
+      "category": "crowd",
+      "label": false,
+      "source_url": "https://www.youtube.com/watch?v=nLVymEFKVqs",
+      "filename": "nLVymEFKVqs.mp4",
+      "id": "nLVymEFKVqs"
+    },
+    {
+      "source_group": "YouTube:MxSOc1Qsijw",
+      "kind": "youtube",
+      "category": "crowd",
+      "label": false,
+      "source_url": "https://www.youtube.com/watch?v=MxSOc1Qsijw",
+      "filename": "MxSOc1Qsijw.mp4",
+      "id": "MxSOc1Qsijw"
+    },
+    {
+      "source_group": "YouTube:uqfNX9URQos",
+      "kind": "youtube",
+      "category": "crowd",
+      "label": false,
+      "source_url": "https://www.youtube.com/watch?v=uqfNX9URQos",
+      "filename": "uqfNX9URQos.mp4",
+      "id": "uqfNX9URQos"
+    },
+    {
+      "source_group": "YouTube:7PjBS2AjM7o",
+      "kind": "youtube",
+      "category": "fall",
+      "label": false,
+      "source_url": "https://www.youtube.com/watch?v=7PjBS2AjM7o",
+      "filename": "7PjBS2AjM7o.mp4",
+      "id": "7PjBS2AjM7o"
+    },
+    {
+      "source_group": "YouTube:sbXy2vkJxSk",
+      "kind": "youtube",
+      "category": "fall",
+      "label": false,
+      "source_url": "https://www.youtube.com/watch?v=sbXy2vkJxSk",
+      "filename": "sbXy2vkJxSk.mp4",
+      "id": "sbXy2vkJxSk"
+    },
+    {
+      "source_group": "YouTube:t_jFu99fC6o",
+      "kind": "youtube",
+      "category": "fall",
+      "label": false,
+      "source_url": "https://www.youtube.com/watch?v=t_jFu99fC6o",
+      "filename": "t_jFu99fC6o.mp4",
+      "id": "t_jFu99fC6o"
+    }
+  ],
+  "no_model_inference": true,
+  "selected_before_inference": true,
+  "historical_exposure_sha256": "79abf74198fd7404ecf1c605644d51a980a1e7f8f59589ff046e8c1068d48577"
+}

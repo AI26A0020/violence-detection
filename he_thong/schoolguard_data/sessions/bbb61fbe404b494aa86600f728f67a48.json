@@ -1,0 +1,31 @@
+{
+  "started": "2026-10-15T18:04:53+07:00",
+  "ended": "2026-10-15T18:07:40+07:00",
+  "model": "violence_resnet18_database_20261011_745106d3.pt:745106d3faca",
+  "notification_delivery": {
+    "Discord": {
+      "delivered": 3,
+      "failed": 0,
+      "dropped": 0,
+      "max_queue_delay_ms": 0.0,
+      "last_delivery_ms": 734.0
+    },
+    "Telegram": {
+      "delivered": 3,
+      "failed": 0,
+      "dropped": 0,
+      "max_queue_delay_ms": 0.0,
+      "last_delivery_ms": 2109.0
+    }
+  },
+  "cameras": [
+    {
+      "camera": "check9",
+      "analyzed_frames": 779,
+      "skipped_frames": 3124,
+      "visual_peak": 0.9483460187911987,
+      "average_latency_ms": 172.4,
+      "error": ""
+    }
+  ]
+}

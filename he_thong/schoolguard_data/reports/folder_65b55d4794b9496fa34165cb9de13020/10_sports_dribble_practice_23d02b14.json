@@ -1,0 +1,246 @@
+{
+  "file": "10_sports_dribble_practice.mp4",
+  "created": "2026-10-17T11:07:28+07:00",
+  "model": "violence_fresh_development_20261017.pt:a39c9d2ceaaa",
+  "duration_seconds": 2.6,
+  "visual_mean": 0.037637789662384555,
+  "decoded_frames": 78,
+  "reported_frames": 78,
+  "source_fps": 30.0,
+  "visual_peak": 0.07747486980563437,
+  "timeline": [
+    {
+      "second": 1.0,
+      "visual": 0.013568729633500124,
+      "smooth": 0.0184182077151139,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 3,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 30,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 1.2,
+      "visual": 0.03183417320911837,
+      "smooth": 0.023784593912715687,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 3,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 36,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 1.4,
+      "visual": 0.05826189816702934,
+      "smooth": 0.03757551561444115,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 3,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 42,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 1.6,
+      "visual": 0.012437484516162924,
+      "smooth": 0.027520303175129858,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 3,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 48,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 1.8,
+      "visual": 0.01320579993652433,
+      "smooth": 0.021794501879687646,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 3,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 54,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 2.0,
+      "visual": 0.02164832857599081,
+      "smooth": 0.02173603255820891,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 3,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 60,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 2.2,
+      "visual": 0.07267103345511618,
+      "smooth": 0.04211003291697182,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 3,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 66,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 2.4,
+      "visual": 0.07747486980563437,
+      "smooth": 0.05625596767243684,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 3,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Chưa thấy dấu hiệu",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 72,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    }
+  ],
+  "automatic_alerts": [],
+  "action_timeline": [],
+  "action_context_enabled": false,
+  "action_decode_audit": null,
+  "person_model": "models/yolov8s-pose.pt",
+  "cancelled": false,
+  "note": "AI có thể báo nhầm hoặc bỏ sót. AI không dùng để kết luận hoặc kỷ luật học sinh. Người phụ trách vẫn cần xem camera định kỳ.",
+  "visual_signal": {
+    "label": "Chưa đủ bằng chứng xô xát",
+    "risk": "low",
+    "corroborated": false
+  },
+  "decision": {
+    "label": "Chưa đủ bằng chứng xô xát",
+    "risk": "low",
+    "corroborated": false
+  }
+}

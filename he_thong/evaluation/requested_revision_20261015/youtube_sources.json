@@ -1,0 +1,111 @@
+{
+  "records": [
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\requested_revision_20261015\\source_videos\\ch8D26-R55c.mp4",
+      "sha256": "b2f806fb44494db3ab92e8a5c55f2b7b07a73c54f82db9b1b2be80785f2d713c",
+      "original_sha256": "b2f806fb44494db3ab92e8a5c55f2b7b07a73c54f82db9b1b2be80785f2d713c",
+      "source_group": "YouTube:ch8D26-R55c",
+      "source_url": "https://www.youtube.com/watch?v=ch8D26-R55c",
+      "source_title": "Guide for Caregivers on Moving People Safely: Assisting Someone from the Floor [Part 3 of 7]",
+      "upload_date": "20130513",
+      "acquired_at": "2026-10-15T15:31:13.108474+00:00",
+      "source_revision": "YouTube upload 20130513",
+      "label": null,
+      "category": null,
+      "previously_unused": true,
+      "reviewed": false,
+      "duration_seconds": 46.96,
+      "fps": 25.0,
+      "frames": 1174,
+      "width": 360,
+      "height": 288,
+      "contact_sheet": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\reports\\requested_revision_20261015\\selection\\01_ch8D26-R55c.jpg",
+      "review_sample_count": 94,
+      "review_sample_range_seconds": [
+        0,
+        46.92
+      ]
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\requested_revision_20261015\\source_videos\\YzcawvDGe4Y.mp4",
+      "sha256": "f03c9ed017a0495fd0457ba66c12ba53bf0c5ecab3aaf8fdae4a8b7e8b23a7f3",
+      "original_sha256": "f03c9ed017a0495fd0457ba66c12ba53bf0c5ecab3aaf8fdae4a8b7e8b23a7f3",
+      "source_group": "YouTube:YzcawvDGe4Y",
+      "source_url": "https://www.youtube.com/watch?v=YzcawvDGe4Y",
+      "source_title": "People Walking Free Stock Footage, Royalty-Free No Copyright Content",
+      "upload_date": "20200925",
+      "acquired_at": "2026-10-15T15:31:17.999692+00:00",
+      "source_revision": "YouTube upload 20200925",
+      "label": null,
+      "category": null,
+      "previously_unused": true,
+      "reviewed": false,
+      "duration_seconds": 116.535,
+      "fps": 29.973827605440427,
+      "frames": 3493,
+      "width": 640,
+      "height": 360,
+      "contact_sheet": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\reports\\requested_revision_20261015\\selection\\02_YzcawvDGe4Y.jpg",
+      "review_sample_count": 180,
+      "review_sample_range_seconds": [
+        0,
+        116.50163756083596
+      ]
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\requested_revision_20261015\\source_videos\\o0j2dloq9fc.mp4",
+      "sha256": "8f42fd1182f0200fbbb1c8eb176d3f1f1d176853c4b6678c29ab0b1c3c6c1886",
+      "original_sha256": "8f42fd1182f0200fbbb1c8eb176d3f1f1d176853c4b6678c29ab0b1c3c6c1886",
+      "source_group": "YouTube:o0j2dloq9fc",
+      "source_url": "https://www.youtube.com/watch?v=o0j2dloq9fc",
+      "source_title": "How to assist a fallen person from the floor without equipment",
+      "upload_date": "20230117",
+      "acquired_at": "2026-10-15T15:35:27.992630+00:00",
+      "source_revision": "YouTube upload 20230117",
+      "label": null,
+      "category": null,
+      "previously_unused": true,
+      "reviewed": false,
+      "duration_seconds": 48.48,
+      "fps": 25.0,
+      "frames": 1212,
+      "width": 640,
+      "height": 360,
+      "contact_sheet": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\reports\\requested_revision_20261015\\selection\\03_o0j2dloq9fc.jpg",
+      "review_sample_count": 97,
+      "review_sample_range_seconds": [
+        0,
+        48.44
+      ]
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\requested_revision_20261015\\source_videos\\-d_iBRRVlVE.mp4",
+      "sha256": "48d7798d6ff34b715c4da61f72983e608d838bbf13f7d2bf1ceac98aafe28117",
+      "original_sha256": "48d7798d6ff34b715c4da61f72983e608d838bbf13f7d2bf1ceac98aafe28117",
+      "source_group": "YouTube:-d_iBRRVlVE",
+      "source_url": "https://www.youtube.com/watch?v=-d_iBRRVlVE",
+      "source_title": "people walking on street | people | stock footage | free footage | copyright free | #video",
+      "upload_date": "20210611",
+      "acquired_at": "2026-10-15T15:35:33.630078+00:00",
+      "source_revision": "YouTube upload 20210611",
+      "label": null,
+      "category": null,
+      "previously_unused": true,
+      "reviewed": false,
+      "duration_seconds": 13.84,
+      "fps": 25.0,
+      "frames": 346,
+      "width": 640,
+      "height": 360,
+      "contact_sheet": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\reports\\requested_revision_20261015\\selection\\04_-d_iBRRVlVE.jpg",
+      "review_sample_count": 28,
+      "review_sample_range_seconds": [
+        0,
+        13.8
+      ]
+    }
+  ],
+  "selected_before_inference": true,
+  "human_review_pending": true,
+  "no_model_inference": true
+}

@@ -1,0 +1,118 @@
+{
+  "created": "2026-10-17T10:53:51+07:00",
+  "signature": {
+    "code": {
+      "main2.py": "3e84244e0d61fa36e3b20c7840bfc4876e078d0795e470578addd35e098a89cd",
+      "short_contact.py": "044eaba690ab37f7d7d6189d10eaaa309f830411e5f75824635ce4718a8c5ef4",
+      "confidence_head.py": "e405aa77cf506f6ed6784c188a83cf73dceec84e8c84e9f23a5233bffeb1b202",
+      "school_policy.py": "48ee8c2543c74b572f41367030c11197ccfcaaea9a99c6b483a2f2c167ef89c2",
+      "temporal_visual.py": "b20eb8b1e19a95439a4b32b39780d57eea9cfd95fb02f3635713f02153871317",
+      "action_runtime.py": "93719638d3a85ac0d3d7ae049fe66eba4fe7bfc9e516727a2a825e56f9a3e36e"
+    },
+    "models": {
+      "models/violence_fresh_development_20261017.pt": "a39c9d2ceaaae3dfd495ccf374308bd42d736d48a07d47f66062ccf6dff333a4",
+      "models/yolov8s-pose.pt": "234314cd8baf62616791aceb9ea6ad5c19f26cf6c0d8f3a1bfce1e23b186cfb3"
+    },
+    "config": {
+      "model": {
+        "backend": "resnet",
+        "path": "models/violence_fresh_development_20261017.pt",
+        "keras_path": "model_gop.h5",
+        "input_size": 160,
+        "sequence_length": 10,
+        "feature_weights": "",
+        "device": "cpu",
+        "threads": 2,
+        "video_context_enabled": false,
+        "video_context_kind": "r3d",
+        "video_context_backbone": "models/r3d_18_kinetics400.pt",
+        "video_context_head": "models/action_recall_public_20261016.pt"
+      },
+      "person": {
+        "enabled": true,
+        "path": "models/yolov8s-pose.pt",
+        "confidence": 0.2,
+        "imgsz": 640,
+        "body_occlusion": true,
+        "min_body_confidence": 0.1,
+        "enhanced": false
+      },
+      "detection": {
+        "threshold": 0.75,
+        "interaction_threshold": 0.5,
+        "release_threshold": 0.35,
+        "sustain_seconds": 0.6,
+        "max_gap_seconds": 0.25,
+        "release_seconds": 1.5,
+        "cooldown_seconds": 30,
+        "analysis_fps": 5,
+        "require_interaction": true,
+        "motion_threshold": 2.8,
+        "short_kicks_enabled": true,
+        "short_punches_enabled": true
+      },
+      "school_policy": {
+        "mode": "standard",
+        "default_mode": "strict",
+        "periods": [
+          {
+            "start": "06:45",
+            "end": "09:00",
+            "mode": "strict",
+            "patrol": false
+          },
+          {
+            "start": "09:00",
+            "end": "09:20",
+            "mode": "anti_false",
+            "patrol": true
+          },
+          {
+            "start": "09:20",
+            "end": "11:30",
+            "mode": "strict",
+            "patrol": false
+          },
+          {
+            "start": "13:00",
+            "end": "15:00",
+            "mode": "strict",
+            "patrol": false
+          },
+          {
+            "start": "15:00",
+            "end": "15:20",
+            "mode": "anti_false",
+            "patrol": true
+          },
+          {
+            "start": "15:20",
+            "end": "23:59",
+            "mode": "strict",
+            "patrol": false
+          }
+        ],
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "anti_false_seconds": 3.0,
+        "gather_seconds": 15.0,
+        "fall_seconds": 5.0,
+        "occlusion_seconds": 8.0,
+        "patrol_times": [
+          "17:00"
+        ],
+        "patrol_enabled": false,
+        "camera_health": true,
+        "health_seconds": 5.0
+      }
+    }
+  },
+  "verifier_sha256": "c35c6088dfb380cc66f0c8fc39b432e7ef22d20fb94ca61ec1b657cac5f02298",
+  "offline": true
+}

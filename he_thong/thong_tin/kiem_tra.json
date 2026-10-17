@@ -1,0 +1,41 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "name": "menu_self_test",
+      "returncode": 0,
+      "seconds": 0.53
+    },
+    {
+      "name": "interactive_menu",
+      "returncode": 0,
+      "seconds": 0.11
+    },
+    {
+      "name": "regression_tests",
+      "returncode": 0,
+      "seconds": 11.12
+    },
+    {
+      "name": "gui_smoke",
+      "returncode": 0,
+      "seconds": 1.38
+    },
+    {
+      "name": "video_moi",
+      "returncode": 0,
+      "seconds": 12.91
+    },
+    {
+      "name": "video_cu",
+      "returncode": 0,
+      "seconds": 17.44
+    }
+  ],
+  "regression_tests": 69,
+  "omitted_test": "development fixture equality test; its old candidate files are intentionally archived",
+  "application_root": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong",
+  "evidence_folder": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\reports\\compact_AI26A0020_validation_20261017_131810",
+  "camera_used": false,
+  "external_notifications_sent": false
+}

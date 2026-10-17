@@ -1,0 +1,228 @@
+{
+  "folder": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\Violence",
+  "videos": 1000,
+  "processed": 20,
+  "results": [
+    {
+      "video": "V_1.mp4",
+      "decision": "Nghi bạo lực · AI và tương tác mạnh cùng cảnh báo",
+      "risk": "high",
+      "visual_peak": 0.9999994039535522,
+      "distress_peak": null,
+      "laughter_peak": null,
+      "automatic_alerts": 1,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_1_8fa0297b.json",
+      "error": ""
+    },
+    {
+      "video": "V_10.mp4",
+      "decision": "Nghi bạo lực · AI và tương tác mạnh cùng cảnh báo",
+      "risk": "high",
+      "visual_peak": 0.9999949932098389,
+      "distress_peak": null,
+      "laughter_peak": null,
+      "automatic_alerts": 1,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_10_681bd980.json",
+      "error": ""
+    },
+    {
+      "video": "V_100.mp4",
+      "decision": "Nghi bạo lực · AI và tương tác mạnh cùng cảnh báo",
+      "risk": "high",
+      "visual_peak": 1.0,
+      "distress_peak": 0.32104405693238697,
+      "laughter_peak": 0.22754163057692064,
+      "automatic_alerts": 1,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_100_a627a552.json",
+      "error": ""
+    },
+    {
+      "video": "V_1000.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 1.0,
+      "distress_peak": 0.12502184080210427,
+      "laughter_peak": 0.19320432585169628,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_1000_14d46409.json",
+      "error": ""
+    },
+    {
+      "video": "V_101.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 1.0,
+      "distress_peak": 0.16626640797270242,
+      "laughter_peak": 0.23911806001556593,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_101_d5914165.json",
+      "error": ""
+    },
+    {
+      "video": "V_102.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 0.9999969005584717,
+      "distress_peak": 0.10013862806788576,
+      "laughter_peak": 0.13405127923152402,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_102_2a5997ee.json",
+      "error": ""
+    },
+    {
+      "video": "V_103.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 1.0,
+      "distress_peak": 0.18044621767195138,
+      "laughter_peak": 0.2503828807848218,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_103_9c07e93a.json",
+      "error": ""
+    },
+    {
+      "video": "V_104.mp4",
+      "decision": "Nghi bạo lực · AI và tương tác mạnh cùng cảnh báo",
+      "risk": "high",
+      "visual_peak": 1.0,
+      "distress_peak": 0.03686810240727354,
+      "laughter_peak": 0.20170742386783627,
+      "automatic_alerts": 1,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_104_d5d0141e.json",
+      "error": ""
+    },
+    {
+      "video": "V_105.mp4",
+      "decision": "Nghi bạo lực · AI và tương tác mạnh cùng cảnh báo",
+      "risk": "high",
+      "visual_peak": 0.9999998807907104,
+      "distress_peak": 0.11751020961983454,
+      "laughter_peak": 0.36806526381685245,
+      "automatic_alerts": 1,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_105_adb68a61.json",
+      "error": ""
+    },
+    {
+      "video": "V_106.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 1.0,
+      "distress_peak": 0.1338880189239185,
+      "laughter_peak": 0.2797146864748873,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_106_0fc74dea.json",
+      "error": ""
+    },
+    {
+      "video": "V_107.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 0.9999995231628418,
+      "distress_peak": 0.5889779909683946,
+      "laughter_peak": 0.23745305208657808,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_107_72a6d505.json",
+      "error": ""
+    },
+    {
+      "video": "V_108.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 1.0,
+      "distress_peak": 0.0463300290684495,
+      "laughter_peak": 0.1093206320708255,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_108_63663020.json",
+      "error": ""
+    },
+    {
+      "video": "V_109.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 0.9999998807907104,
+      "distress_peak": 0.1427461603691134,
+      "laughter_peak": 0.24394061092307748,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_109_45052f45.json",
+      "error": ""
+    },
+    {
+      "video": "V_11.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 1.0,
+      "distress_peak": 0.473799890770436,
+      "laughter_peak": 0.293902416722515,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_11_b2b3859f.json",
+      "error": ""
+    },
+    {
+      "video": "V_110.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 1.0,
+      "distress_peak": 0.2823989496941955,
+      "laughter_peak": 0.21800230479852795,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_110_2a59cfbe.json",
+      "error": ""
+    },
+    {
+      "video": "V_111.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 1.0,
+      "distress_peak": 0.23821567801357052,
+      "laughter_peak": 0.17589811894681923,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_111_312ba3ce.json",
+      "error": ""
+    },
+    {
+      "video": "V_112.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 1.0,
+      "distress_peak": 0.2489698090621279,
+      "laughter_peak": 0.24153548495744115,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_112_863ceaa6.json",
+      "error": ""
+    },
+    {
+      "video": "V_113.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 1.0,
+      "distress_peak": 0.5432614211193283,
+      "laughter_peak": 0.19677853587450822,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_113_7a41a769.json",
+      "error": ""
+    },
+    {
+      "video": "V_114.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 1.0,
+      "distress_peak": 0.6823430909344035,
+      "laughter_peak": 0.17936087253554744,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_114_7af28233.json",
+      "error": ""
+    },
+    {
+      "video": "V_115.mp4",
+      "decision": "Nghi bạo lực · AI và tương tác mạnh cùng cảnh báo",
+      "risk": "high",
+      "visual_peak": 1.0,
+      "distress_peak": null,
+      "laughter_peak": null,
+      "automatic_alerts": 1,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_e05251f760d4489a8ced9f01f2fa2ce9\\V_115_42f87593.json",
+      "error": ""
+    }
+  ],
+  "cancelled": true
+}

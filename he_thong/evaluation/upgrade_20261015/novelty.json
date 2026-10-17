@@ -1,0 +1,827 @@
+{
+  "method": "8 frame 64-bit pHash Hamming <=4, >=2 probes; exact SHA256. Does not establish complete independence from all derivatives.",
+  "records": [
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\shoot_ball_AdamandAlvonplayingbasketball1_shoot_ball_f_cm_np1_le_med_6.avi",
+      "sha256": "cd744a5bc0647ef3856a43bdcbbd3ae362c8dffdae4ab57a67c63d2468fa44c0",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\shoot_ball_ReggieMillerTakesonThreeAverageGuysinaShootout_shoot_ball_u_nm_np1_ba_med_11.avi",
+      "sha256": "0802ad5a656df9eb59b32d38d23e58f70a1c01a85e1033d96b9ed9207debf95e",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\shoot_ball_Clay_sBasketballSkillz_shoot_ball_u_nm_np1_ba_med_16.avi",
+      "sha256": "f2914587971e464138c26f51b746b49bbb75458db2ce19119e0f5a6b9c9641a1",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\shoot_ball_ImprovingBasketballSkills-BasketballNBA3-PointShots_shoot_ball_f_nm_np1_ri_med_0.avi",
+      "sha256": "5cb6669a650a6ec76363a1782c6e85c947830af955726cf405bec1f26afb2dd8",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\shoot_ball_LeeHomandBlackieplayingbasketball_shoot_ball_u_cm_np1_le_med_2.avi",
+      "sha256": "1680849da9a0c8ccebc9b047c07e0fc337971a0e5e0957acdf3d4029808124fa",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\shoot_ball_ImprovingBasketballSkills-BasketballCrossover_shoot_ball_f_nm_np1_fr_med_0.avi",
+      "sha256": "19e757d894df5143ffd59e186a4eab78fb6ce68d313cdec5cd97f15b8d5aad5b",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\dribble_Basketball_Dribbling_-_Basketball_Dribbling-_Practice_With_2_Balls_dribble_f_nm_np1_fr_med_0.avi",
+      "sha256": "ad25401c2d129e67bb30955948f4eb8302768e21455e4bb0a60f8814fdfb5c7f",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\dribble_10YearOldYouthBasketballStarBaller_dribble_f_cm_np1_fr_med_9.avi",
+      "sha256": "ff889202bd4176c104fd39510f421e0255220fcba4e58208ac1bcd9cb2f0f124",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\dribble_How_to_Improve_Your_Basketball_Skills_-_How_to_Dribble_a_Basketball_Between_the_Legs_dribble_f_cm_np1_ri_med_4.avi",
+      "sha256": "a6a8d851c9ecbe09936bdb0c180ee1df932f91603af628352c71ec2d57193663",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\dribble_World_Record_Basketball_Dribbler_dribble_f_cm_np1_fr_med_0.avi",
+      "sha256": "b435ed5c9f017d84928c9fb47ca5fe0cc5b53ae20eb3611526ca8fe66dcf0229",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\dribble_Basketball_Dribbling_-_Basketball_Dribbling-_Finger_Pads_dribble_f_cm_np2_le_med_2.avi",
+      "sha256": "34076f342031083cdf955d8c1c942b55e958ed9892554ed7caa21c86ad3daf39",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\dribble_Basketball_for_Beginners_-_How_to_Dribble_a_Basketball_dribble_f_cm_np1_fr_med_2.avi",
+      "sha256": "dcca8fbbcd93b89106148b85b437bd86cb69e8f5911ba072deedb4cb56ff4494",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\kick_ball_Banned_Commercials_-_Nike_-_Soccer_vs_ninjas_kick_ball_f_nm_np1_fr_goo_2.avi",
+      "sha256": "d683e7c50319e6a269c8e87c9a4c8316bab1a472e0ab3762461f0f85a050d0b5",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\kick_ball_Awesome_Amazing_Great_Soccer_Free_Kicks_kick_ball_f_cm_np1_ba_bad_0.avi",
+      "sha256": "7a64517ea2b7ca723e6a310db2af94a5e036383cf3853d4cee50678c8ebe8ffd",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\kick_ball_Lattenknaller_-_M_nner_wie_wir_(Teil_11)_kick_ball_f_cm_np5_le_med_3.avi",
+      "sha256": "067cf7d6e5174f29f9ef9722f3e2a3b9814907b17d70a40465ef1533b899fcf0",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\kick_ball_FOOT_2009_(REMI_GAILLARD)_kick_ball_f_cm_np1_fr_bad_4.avi",
+      "sha256": "bb7ef5e3915991e908952e09b8f8ed7b68e47ffa66ffa8d8551953491177ad73",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\kick_ball_Goal_1_&_2_kick_ball_f_cm_np3_ri_med_3.avi",
+      "sha256": "e52fa6c2a00c016b423b015afde341a6c62ca6c4d89ed6a4ca7f0a25f89b3f77",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\kick_ball_FIFA_11_Gamescom-Trailer_kick_ball_f_cm_np1_ba_med_0.avi",
+      "sha256": "966bc5406199afd278bc3ce0a7bd4fedf98b85fe1596b3dc3e734f47f9a39417",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\swing_baseball_practicingmybaseballswing2009_swing_baseball_f_cm_np1_fr_med_14.avi",
+      "sha256": "18493b284d8e464ce7801781d124bc5c13827c268057bb596c71f250fbedf1fe",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\swing_baseball_Faith_Rewarded_swing_baseball_f_cm_np1_ba_bad_11.avi",
+      "sha256": "a357f49e081a0e05ba1dcd03e5af7d24e4ea80d16e1b0d8c0d9de2f2c202a02a",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\swing_baseball_SlowMotionofMySwing_swing_baseball_f_cm_np1_fr_bad_0.avi",
+      "sha256": "fa8f94c0fd491bf9ff82562355b135e004b6837c5bbf5527b0ea8ae034214471",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\swing_baseball_BaseballSwingAnalysis_swing_baseball_f_nm_np1_fr_med_8.avi",
+      "sha256": "ef9097299567827bd528d1c4e77ef732b0df039b692872012e52b57a0686184d",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\swing_baseball_SlowMotionHomerAtOleMiss_swing_baseball_f_cm_np1_ba_bad_0.avi",
+      "sha256": "71e9f13e5d291648872bde69df80e449bb2fc34ff58ed0ef39a6ad058289f1e5",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\swing_baseball_SlowmotionBretthitsasingle_swing_baseball_f_cm_np1_ba_bad_1.avi",
+      "sha256": "0012a0444202c46fa36063ed855ea36fa86a6302fb816d1363e6f23b75489abe",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\fencing_Rapier_and_Rotella_(Shield)_Second_Bout_Nick_vs__Gareth_fencing_f_cm_np2_ri_bad_3.avi",
+      "sha256": "4a0d8910548e832f4339037d8148397994ebde0ff351c48596fbbc421c603cfe",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\fencing_Stage_Combat_Rapier_and_Dagger_fencing_f_cm_np2_ri_bad_2.avi",
+      "sha256": "e77810ec201a574e37869ad6fd6671e718ef45c2f39583140e27c97f1e432cfd",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\fencing_Mark_of_Zorro_-_Fencing_Fight_!_fencing_f_cm_np2_fr_goo_1.avi",
+      "sha256": "e86146f85b78db686f073d755f5d57c058b844f8057fdf91bba85b64bccc769e",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\fencing_Die_Another_Day_-_Fencing_Scene_Part_1_[HD]_fencing_u_cm_np2_fr_goo_2.avi",
+      "sha256": "5ab87691e06d5ff4d8d548fb5a1165c2363ae9e15ad1ae4564d8b1c21cfa5f59",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\fencing_Rapier_at_Clinton_2007_fencing_f_cm_np2_le_bad_0.avi",
+      "sha256": "e5af45af15e05dfc5f2fed8950e60f2deb502d4176ce07b9c83d53b3fa2603f8",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\fencing_Jolly_Jack_Junior_Fight_Scene_fencing_f_cm_np2_le_bad_3.avi",
+      "sha256": "d1e159cc534cb32766552bde6421e38aee5eac1e3d1c5c803b57968bb2bcc247",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\hug_Calins_gratuits_a_Paris_-_Free_Hugs_France_-_version_longue_hug_u_cm_np2_le_med_5.avi",
+      "sha256": "33e000a1d0cca19e1d6e74c760fde59451af78ddd9c0ea6e45691f65e9c9e56b",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\hug_-_FREE_HUGS_-_Abrazos_Gratis_www_abrazosgratis_org_hug_u_cm_np2_ba_goo_7.avi",
+      "sha256": "47671861d97f42d0e575585068cee15b5c8af60854edafeb199ad4944a71b5ee",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\hug_d173_graveyard_call_price_giving_ceremony_hug_u_cm_np2_le_bad_3.avi",
+      "sha256": "6aca3b03b4d783ebe1d298e40b8627165621394d31d23c7e18c871ce1e448d7a",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\hug_Emma_2008_Eurofinals_-_prize_giving_ceremony_Team_Pioneer_members_divx_hug_f_cm_np2_ba_med_11.avi",
+      "sha256": "c151a62494eb540d3d9d2e40437e696297bf62c06c33232b1f3a27e203810ff4",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\hug_different_kinds_of_hugs_XD_hug_u_cm_np2_le_med_0.avi",
+      "sha256": "dc4c244020c32246ac3865ac04a182f61e74c4e943cd79c40913a0cb8e7f3e99",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\hug_American_Idol_Awards_Given_to_7_Winners_at_Walt_Disney_World_hug_u_cm_np2_ba_med_0.avi",
+      "sha256": "7e4d291061cc086ee2098684664df64012e477c390b51771fe1492660239f178",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\push_Dodge_Truck_Push_80_ft__23_seconds!_push_f_cm_np1_le_bad_1.avi",
+      "sha256": "be4a6e72eece411bc0f75cf925e7680e952e8cd8716a660dd8dba94b84afa353",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\push_Kommandant__muss_Auto_schieben_push_f_cm_np1_ri_bad_0.avi",
+      "sha256": "53148b441b3b0bd74795a989111cadea7bec2f57d577f614779beeaa0406bbdf",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\push_Alexander_pushing_the_table_push_f_cm_np1_ri_bad_3.avi",
+      "sha256": "ef7cabd992f3f5134bf6f95e1288395d82a78d3a87e4d46efdfa091c842335e3",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\push_micah_pushing_wagon_push_f_cm_np1_ri_bad_5.avi",
+      "sha256": "2e258ccd346464af222ef29a7054cadfce79608ce0b1b98fd3d2d185f5a3ab13",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\push_Pushing_train_-_Me_and_my_friend_-_Worlds_strongest_men_push_f_cm_np2_ba_bad_3.avi",
+      "sha256": "2acc2c7fb9002739dc55e84ef615680180b417bf600f7988d69f54010eeb4708",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\push_box_pushing_1_push_f_cm_np1_ba_bad_2.avi",
+      "sha256": "ef2f4f9a104e2f0baccd3804cf5452d2e5e6362ba580b987025cdf611ad2a18b",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\fall_floor_The_Matrix_5_fall_floor_f_nm_np1_fr_bad_10.avi",
+      "sha256": "83372280e3b60346d880243200249926fc4d9be05bc4153e0939b2dcc8b5c038",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\fall_floor_CastAway1_fall_floor_u_nm_np1_fr_med_11.avi",
+      "sha256": "08dba02f805aa565508f411aec24252dec81be3463c8087342ebaebb677d725b",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\fall_floor_TheBoondockSaints_fall_floor_u_nm_np2_fr_med_64.avi",
+      "sha256": "5ae6889b7604c277a68266196cecb761e1f7fb293ddb539659287b7ca454302d",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\fall_floor_Fellowship_3_fall_floor_f_nm_np1_fr_med_3.avi",
+      "sha256": "04c858bd56ed3ffb41e7c35bf72a6e49087c61183b63ac50256313f91cd82f5e",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\fall_floor_Prelinger_ActYourA1949_fall_floor_f_nm_np1_ri_med_9.avi",
+      "sha256": "031133e09b417fc2b7044174dd08f8f819f2ad5a025d82a25f8b91c99601d866",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\fall_floor_LONGESTYARD_fall_floor_f_cm_np1_fr_med_25.avi",
+      "sha256": "5127064c34fdcd9ada30fde7826f9616907ee3acc1b448ea13d6cbc0279b25a0",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\punch_Glory_punch_u_cm_np1_fr_bad_37.avi",
+      "sha256": "95784291a7d3ba7118dd2eb06c921f48ba2cf7d796d771fae2bcf66165f8916e",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\punch_BeginnerKyokushinKarateTechniques_punch_f_nm_np2_fr_med_0.avi",
+      "sha256": "7b62c2ea19cd7c28e1af5103989a58ae0c6ad1b52b67742fbf5559edc7af80be",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\punch_The_Matrix_3_punch_u_cm_np1_le_goo_3.avi",
+      "sha256": "fb2a2373c00dde1d26755a8e8ade7ac486db764097fb6b2f9ac6481e8385fd9d",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\punch_The_Matrix_2_punch_u_cm_np2_ri_med_4.avi",
+      "sha256": "e5618a95e3e8dde65b33a70d022974de6ffd5b2c1587d8abcaf10dc3c3dadefd",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\punch_BATMAN_BEGINS_punch_h_nm_np1_ba_bad_7.avi",
+      "sha256": "aa72bd1bdacb855185858725ac44fb445406b9d98264ba651482fa2634fbca86",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\punch_kick__bruce_lee_v_s_japanese_punch_u_cm_np1_ri_bad_2.avi",
+      "sha256": "f2e7e280bd23539b860f6a289970a9d9a56dd8bf39a6c33a9438a547d7450cd9",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\kick_FOOT_2009_(REMI_GAILLARD)_kick_f_cm_np1_ba_med_5.avi",
+      "sha256": "2904f092367ca9e237cf490e9c32b3a22f245d299452381858071598115eedf2",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\kick_kick__Baddest_Fight_Scenes_EVER!_-_Kickboxer_-_Part_1_of_2_kick_f_nm_np1_ba_med_7.avi",
+      "sha256": "b61b5b02a6d21ce8063e70000a1232d251be833845ccbb0b473cb3a22a9cfce3",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\kick_kick__bruce_lee_v_s_japanese_kick_f_cm_np1_le_bad_13.avi",
+      "sha256": "b4433c193dada8ff752863ebd497957f259b0bbb232ff4e9b11de71f491af355",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\kick_LONGESTYARD_kick_f_cm_np1_ri_med_16.avi",
+      "sha256": "64fb0e54f21eed09ee8c1ddde497a2968eb21852c1f6d561e9feee2a0dfc79eb",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\kick_jonhs_netfreemovies_holygrail_kick_f_nm_np1_ri_med_11.avi",
+      "sha256": "31a22ebc1fd0e31a82121c7b5cfed6f7d53a6a827147bf32d2b84d4e02511b26",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\kick_kick__Best_fight_scene_of_all_time_kick_f_cm_np1_ri_bad_4.avi",
+      "sha256": "ec3af22bd9d2a468656e0b3d6d84a5fdfcd3548a83f63cbde3750c1a9fc862d0",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_non-violent_4.mp4",
+      "sha256": "b4b584f7c43b32596eb7ada515255bdfacc159fc3aa9ad0d6d6c1734abf51d28",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_non-violent_5.mp4",
+      "sha256": "f9760f3d67cd7e9d77eca3a51d6e0fa005a6114c053493ffd2b58f3ff1d6484f",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_non-violent_3.mp4",
+      "sha256": "e4fabd94f9a5775728954f59883379035658f3986e91db72fa6e6baa2de6ce5a",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_non-violent_6.mp4",
+      "sha256": "18a18720e3f73838ca4de8a61bd00e0f8e984032ec4bb33ff93487cf304fe310",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_non-violent_7.mp4",
+      "sha256": "fbabf38d77713b2b6176904c9307ec1a6e35448388f72ee5d58ab14c7d9faf15",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_non-violent_8.mp4",
+      "sha256": "2b0be13dfa77860af1db2c2d65b609a987817bd69678d79bfa0c03dbb8485fde",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_non-violent_9.mp4",
+      "sha256": "13d3bfdca1cb4842bb758f85725883056b1b1812cfe6392c1d3d97425a0f6324",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_non-violent_10.mp4",
+      "sha256": "43271cea16f552fcd30695718cdd9c0feb0a5ff2694ac1b43de6fe09ff05220f",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_non-violent_11.mp4",
+      "sha256": "3e5bffc42d78f5efafa7a4da3be8fa10a0e607e1ca8707469ffc6e7577da37a8",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_13.mp4",
+      "sha256": "1fc8e8393400567ef3fb56f3d6084aa04b745d1ea2b5dfb0e9fc1ca4da7713d5",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_14.mp4",
+      "sha256": "87dbe82a885c707c43ec02df26b4c6ce442570f75998ea67ea37ab767c6bf149",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_non-violent_1.mp4",
+      "sha256": "3a4506ecff9513682c7e03d42982d57ccda7f85d51519790ca6835acfe681525",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_15.mp4",
+      "sha256": "946c26f4e2403ef079ebaebcb9ecd4f7d4724783aed6e25873e3a1e3001eece8",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_16.mp4",
+      "sha256": "cebd563791f6d3ae975dc1e989db70f660ff702be5d4e43d878b4756a51cbe47",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_12.mp4",
+      "sha256": "b7c9675b601cfdc3b7da5acce9cd4cdca65d5655d0b68cc79bc6120391c6908a",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_17.mp4",
+      "sha256": "675d1bac717e6307293227850d1afc19c4c49ee999b44a6a76a62e745d5ffde0",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_19.mp4",
+      "sha256": "0a68def5d2f36c0916c6a394a561bcc2789c57d597deafa6e9a752fa613acfad",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_18.mp4",
+      "sha256": "c762e3a77ce57bddf74cd2bdb6b98a40f083b8a33d923b084116500e20576e65",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_21.mp4",
+      "sha256": "a3e267e86c60f3e36e2f270f4960175f34c698fd74ab69e9b523ea0094299927",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_20.mp4",
+      "sha256": "a892585876b98b09a16dec90b42c98d9c34a17d4df04779861f22573205c51cc",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_22.mp4",
+      "sha256": "2833cf45911dcff08ee2c1fa2bc52bde10c2a6722a5271c3c54de20451476b13",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_24.mp4",
+      "sha256": "e8ca66b64a4d6c6c1feffe67cd36e633e5c4975f106350bdbbd7e22b9efda159",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_26.mp4",
+      "sha256": "b8e2d4754d5b2087879a4e803a66edb863c35034cb7c8a51ba68d63ec4db661e",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_25.mp4",
+      "sha256": "8eaa03c5155b88991491fec57483f837b2b7bf24963e238b8e8703d2cd0b2d9b",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_28.mp4",
+      "sha256": "18d8222a2640af12b7e5fcec5154b72c80db8fa244607c5bdb4ac460ee7151bc",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_27.mp4",
+      "sha256": "8a08f2403f2c67937d87c0871833dfd02de5f492da21662de3c9e1b048c46984",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_23.mp4",
+      "sha256": "a57dbed58d5dbf4ff5d590e445dc22c6c7da7e5daed7371d3c65ee4b4ec754b9",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_30.mp4",
+      "sha256": "d85221c5f047f6872e9859028323f0ecd8970bb2d7d21d395980e46ff3b86052",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_29.mp4",
+      "sha256": "82d594a18a082083c29026426fd9f7dd0b8033d0e8b8ca2fc5c8154b23a334ff",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_31.mp4",
+      "sha256": "8b71797b473b854be09920568506f94f5f44eb2cbb2674958ce369cf58727696",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_32.mp4",
+      "sha256": "b14bc3f601b36b9f983fc611617f4bc993d3a8d8b9c6dcde9b4f42f200f4104e",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_33.mp4",
+      "sha256": "4d8eb9b79e858826e9029617cc4e1e0d1e9adc068c64081567e10895c35e0342",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_35.mp4",
+      "sha256": "a5077a371658ae53e3678aad50de8c43866f564e3df242555e7f2cc8b5103155",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_38.mp4",
+      "sha256": "dfd19fbc52707fce2319c7bfc930e7da99a3152567a734713b794ca0753fc684",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_39.mp4",
+      "sha256": "6db9b03f8ab0ab0a2b4680302b0a6ea689ff1dab0b67f00581f3c52f16f8a769",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_37.mp4",
+      "sha256": "10133b7a6f342de79e2aa9fa9080aa8c752075d5b49127922b2661161ec559ad",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_34.mp4",
+      "sha256": "a487ec10facddb8f535063ac8d4f15d192c3d730594e57cccb76ae47a2e8b0e0",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_40.mp4",
+      "sha256": "84206f462a4dbdf6547baec50167eebce0bd48d5c4a83ff0373a01238326a626",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_41.mp4",
+      "sha256": "91978a72594b094837c41a73d2f6955c9e77ef90a3e24a859898416b47ef909d",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_44.mp4",
+      "sha256": "8a455e4232f1246a19feee0b697a372909506d8933a98a6812b82dbbbe1a6160",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_43.mp4",
+      "sha256": "702ab15bbaf487f13e88b924b5c62d2272f955de1a8bdd42dc0ec559365efe7a",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_violent_1.mp4",
+      "sha256": "4c94625d8b6c4a6b75e67fa1a1a605f88e452e2688bf0883dac7973d77a0c6a8",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_45.mp4",
+      "sha256": "47d4ea7ec27aaa1e0c9f8dec8bd4cf0aeb5453ea3a6310249bb1b3266a95e351",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_violent_3.mp4",
+      "sha256": "c4bdd22f8763f6694b2494f266258e6055a68816c056a147656e7dd2b56e2226",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_violent_6.mp4",
+      "sha256": "b18e201dd9cd332a7439c964841eb81e8900a32dfd5b828af2cb3936ab21f745",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_violent_4.mp4",
+      "sha256": "c15976a5799e28364ff2c5365e028404031e1af71850caedfe1ec271d8c46d0d",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_violent_7.mp4",
+      "sha256": "34e86452a18f56f33171b78fcaa90119f07f18153cac366e411d2819f3cc04fd",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_violent_5.mp4",
+      "sha256": "52eb652492a3905e7f03e5bc3675360555bfd57fc638d2ebd2d3a711131da264",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_non-violent_42.mp4",
+      "sha256": "7e95f243942b5c9b3645da774eaf9d582ea723accfdf2d5ca033f57962691863",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_violent_8.mp4",
+      "sha256": "fb20b0514fb3579776da00b027f057453756e971a182466268a489800a3321b3",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_violent_9.mp4",
+      "sha256": "1ee09f90f9e36db91885b5d9f90e981cd7fe448efcbb01ddb0cc8e4595609ec3",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_13.mp4",
+      "sha256": "821ac5a4b446ff091bb211553dc4702171bd037db312e62e2507c379c22a0cbf",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_12.mp4",
+      "sha256": "4ce5dc6137fad8570934a344f6c2785ee507ef28795b2c6aa7c98a42aab765b4",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_14.mp4",
+      "sha256": "2a751d87746adda7c63c0c55a67eccca5d956dd1dd46ec51e431bfd27cf08731",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_16.mp4",
+      "sha256": "d8b2d1ea3ba9f29128a18ea6e4a54e88d209e0226555a65409615e39f81acd21",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_15.mp4",
+      "sha256": "ccd673f92e1b5177eb5956079b825315b12418e331ed24b6c2d846d92e5d0fcb",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_17.mp4",
+      "sha256": "9a8fb798fda9f1502c885cdad725df6beb946336d7bd8f8783ae5410904cc54b",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_violent_11.mp4",
+      "sha256": "c9db3ea5930d1071901df20ca8c47c8c1949fa2f53503d991b013ddbaaec5dfb",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_18.mp4",
+      "sha256": "8d98ec1a60c3650fad0fe3e2998521995a68eed1b2e5f7cefef4f6dbf8ea183c",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_19.mp4",
+      "sha256": "841e7c1e9cd60450247dc4c4bacb55664e40a3a350f716d02ce1783695d4b96f",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_21.mp4",
+      "sha256": "0d9329c155090351bf63f3d50ca71c367438870a0e75d00db6dd8790b9afda1a",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_22.mp4",
+      "sha256": "3a86f7df5c5a97b94529344fc2f8d700a42e0c1ce8ea3d7259cf8cdff1f7a53e",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_23.mp4",
+      "sha256": "ba375c212fd1a14fdc3ba047d2b673a8f63ae678e9f8d9f4830f6d877bd74e76",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_24.mp4",
+      "sha256": "18a01165817a8ee4a96de1c7d4b75e32d5ca55abbd89721230135d1d3311965a",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_25.mp4",
+      "sha256": "f7eae8aeb9df522fb84cb86eb527644f153c61cf7d72f60d73fc6ad325df3875",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_26.mp4",
+      "sha256": "794f686acf7816f62e011fab6029b5abf8937e878133bc99fa8f5557f9332328",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_27.mp4",
+      "sha256": "1442c9c75d2c391ceaf947864f737600980553e3fdd234486156138a9551e40a",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_28.mp4",
+      "sha256": "82312e50d132b280195789326d9c39374726c729de4585218b77d50a5713fed3",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_29.mp4",
+      "sha256": "65de032a96c65681a231ca716108cde965147de9949a3f4906058087f21d630b",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\holdout_candidates\\original_airtlab_violent_10.mp4",
+      "sha256": "7a20d7f9140a87b59d811581d061a9056655f5236a71ea908c1cc8dcd333ae7f",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_31.mp4",
+      "sha256": "606f2870bc316ea3e373438b319053278b0e12e5c159b0a20b9773a180290614",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_30.mp4",
+      "sha256": "4f7eb57576df1f65ceb1519b462d689f031754fda06ea24e658c6e645a561147",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_20.mp4",
+      "sha256": "f1f3cc28702d1b177259ac2d64f5060f7e9e7244794d40464646335f744c6cd2",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_33.mp4",
+      "sha256": "d7b68dd5d6278f2cd8ccc102b290c4a904efe28132c151752fbbbd81002000fd",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_35.mp4",
+      "sha256": "1a6fefee2585bd9d776b1d92c25de4f6711fce71442d4cf4be01330b4ec377f5",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_32.mp4",
+      "sha256": "505f54856b78fb62f0a05fff82857489f366302b99e583bb4f0ff609dbf2a6d3",
+      "exact_matches": [],
+      "near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\original_airtlab_violent_34.mp4",
+      "sha256": "a1bbadeef91206f6db070305b8cfc092cc7da3d4d06a8ef3ad20cadae548c2de",
+      "exact_matches": [],
+      "near_matches": []
+    }
+  ]
+}

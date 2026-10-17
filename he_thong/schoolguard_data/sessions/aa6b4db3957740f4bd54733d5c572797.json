@@ -1,0 +1,15 @@
+{
+  "started": "2026-10-11T13:30:57+07:00",
+  "ended": "2026-10-11T13:31:02+07:00",
+  "model": "violence_resnet18.pt:ac3caed23fa7",
+  "cameras": [
+    {
+      "camera": "Camera 1",
+      "analyzed_frames": 24,
+      "skipped_frames": 90,
+      "visual_peak": 0.9486271142959595,
+      "average_latency_ms": 106.7,
+      "error": ""
+    }
+  ]
+}

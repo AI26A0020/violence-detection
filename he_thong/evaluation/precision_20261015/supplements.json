@@ -1,0 +1,71 @@
+{
+  "records": [
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\shoot_ball_KELVIN_shoot_ball_u_cm_np1_ba_med_2.avi",
+      "sha256": "03c2c617e12a18f5172477083af53fda7ea157661946d1de4c2e403d943fb269",
+      "source_group": "HMDB51:KELVIN",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "archive_member": "shoot_ball/KELVIN_shoot_ball_u_cm_np1_ba_med_2.avi",
+      "label": false,
+      "category": "sports",
+      "annotation": "Source sporting action; sampled temporal visual review and staff confirmation pending"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\dribble_Basketball_Dribbling_-_Basketball_Dribbling-_Practice_With_Tennis_Balls_dribble_f_cm_np1_le_med_1.avi",
+      "sha256": "4d9df1686abf359e8787e4fc03c1addbe12e0bed7b760c6b13378f91ab39f9ea",
+      "source_group": "HMDB51:Basketball_Dribbling_-_Basketball_Dribbling-_Practice_With_Tennis_Balls",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "archive_member": "dribble/Basketball_Dribbling_-_Basketball_Dribbling-_Practice_With_Tennis_Balls_dribble_f_cm_np1_le_med_1.avi",
+      "label": false,
+      "category": "sports",
+      "annotation": "Source sporting action; sampled temporal visual review and staff confirmation pending"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\kick_ball_Ribery_Torwandschiessen_Sportstudio_kick_ball_f_cm_np1_fr_med_0.avi",
+      "sha256": "cb0b34fa32b51754500daacffb9a821b64dae4a6c25b26e1511e810f26895167",
+      "source_group": "HMDB51:Ribery_Torwandschiessen_Sportstudio",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "archive_member": "kick_ball/Ribery_Torwandschiessen_Sportstudio_kick_ball_f_cm_np1_fr_med_0.avi",
+      "label": false,
+      "category": "sports",
+      "annotation": "Source sporting action; sampled temporal visual review and staff confirmation pending"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\swing_baseball_HittingaSingle_swing_baseball_f_cm_np1_fr_med_0.avi",
+      "sha256": "0c5332d80579479fc54ef5f98ff6bb5e3827ca38f9cd00d62b0667965a0994fc",
+      "source_group": "HMDB51:HittingaSingle",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "archive_member": "swing_baseball/HittingaSingle_swing_baseball_f_cm_np1_fr_med_0.avi",
+      "label": false,
+      "category": "sports",
+      "annotation": "Source sporting action; sampled temporal visual review and staff confirmation pending"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\fencing_Advanced_Rapier_fencing_f_cm_np2_le_bad_0.avi",
+      "sha256": "8ba94e0fbe39ab73e9f1059ed82c33fda0900acc315a4dd27c9746b624d21a9e",
+      "source_group": "HMDB51:Advanced_Rapier",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "archive_member": "fencing/Advanced_Rapier_fencing_f_cm_np2_le_bad_0.avi",
+      "label": false,
+      "category": "sports",
+      "annotation": "Source sporting action; sampled temporal visual review and staff confirmation pending"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\crowd05.mp4",
+      "sha256": "c217cb8a661fb735fcdef336019d2335576bff4ecaed8e89bbcc07eb9846cd00",
+      "source_group": "parsafaramarzi/Small-Crowd-and-Traffic-Video-Footages:crowd05.mp4",
+      "source_url": "https://huggingface.co/datasets/parsafaramarzi/Small-Crowd-and-Traffic-Video-Footages/resolve/bb5dd5c1055dabcb87a3c6cb6edfdad25043ecf9/crowd05.mp4",
+      "revision": "bb5dd5c1055dabcb87a3c6cb6edfdad25043ecf9",
+      "label": false,
+      "category": "crowd",
+      "annotation": "Previously acquired source, never fitted/scored; sampled visual review pending"
+    }
+  ],
+  "selection_before_inference": true,
+  "human_review_pending": true
+}

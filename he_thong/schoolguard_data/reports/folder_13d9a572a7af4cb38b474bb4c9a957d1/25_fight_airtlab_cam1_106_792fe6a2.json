@@ -1,0 +1,481 @@
+{
+  "file": "25_fight_airtlab_cam1_106.mp4",
+  "created": "2026-10-17T12:09:33+07:00",
+  "model": "violence_fresh_development_20261017.pt:a39c9d2ceaaa",
+  "duration_seconds": 4.8,
+  "visual_mean": 0.9089053850620985,
+  "decoded_frames": 144,
+  "reported_frames": 144,
+  "source_fps": 30.0,
+  "visual_peak": 0.9889266788959503,
+  "timeline": [
+    {
+      "second": 1.0,
+      "visual": 0.29917075783014296,
+      "smooth": 0.3808210031995773,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 2,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "Đang theo dõi",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 30,
+      "scene_epoch": 0,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 2.2,
+      "visual": 0.9781677305698395,
+      "smooth": 0.9707742591342927,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 3,
+        "confirmed_since": null,
+        "observed_people": 4,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 66,
+      "scene_epoch": 1,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 2.4,
+      "visual": 0.9565647125244141,
+      "smooth": 0.9650904404903412,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 6,
+        "confirmed_since": null,
+        "observed_people": 5,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 72,
+      "scene_epoch": 1,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 2.6,
+      "visual": 0.9557827532291413,
+      "smooth": 0.9613673655858612,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 3,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 78,
+      "scene_epoch": 1,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 2.8,
+      "visual": 0.9616930544376373,
+      "smooth": 0.9614976411265717,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 3,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 84,
+      "scene_epoch": 1,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 3.0,
+      "visual": 0.9717660546302795,
+      "smooth": 0.9656050065280548,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 3,
+        "confirmed_since": null,
+        "observed_people": 4,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 90,
+      "scene_epoch": 1,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 3.2,
+      "visual": 0.9889266788959503,
+      "smooth": 0.974933675475213,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 3,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co",
+        "uncertainties": [],
+        "requires_human_review": false
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 96,
+      "scene_epoch": 1,
+      "alert_active": false,
+      "alert_track_ids": []
+    },
+    {
+      "second": 3.4,
+      "visual": 0.9607270896434784,
+      "smooth": 0.9692510411425193,
+      "interaction": {
+        "supported": true,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": 3.0,
+        "observed_people": 4,
+        "pairs": [
+          {
+            "tracks": [
+              2,
+              4
+            ],
+            "kind": "tay nâng hướng vào người rồi thu về",
+            "duration": 0.3999999999999999,
+            "action_times": [
+              3.0,
+              3.4
+            ],
+            "action_samples": 2,
+            "confirmed_since": 3.0
+          }
+        ],
+        "reason": "Có tương tác mạnh lặp lại giữa các người trong cùng đoạn",
+        "uncertainties": [],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Đang theo dõi",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 102,
+      "scene_epoch": 1,
+      "alert_active": false,
+      "alert_track_ids": [
+        2,
+        4
+      ]
+    },
+    {
+      "second": 3.6,
+      "visual": 0.9628512501716614,
+      "smooth": 0.9666911247541761,
+      "interaction": {
+        "supported": true,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": 3.0,
+        "observed_people": 3,
+        "pairs": [
+          {
+            "tracks": [
+              2,
+              4
+            ],
+            "duration": 0.6,
+            "action_samples": 4,
+            "action_times": [
+              3.0,
+              3.2,
+              3.4,
+              3.6
+            ],
+            "kind": "tay/chân chuyển động sát người"
+          },
+          {
+            "tracks": [
+              2,
+              4
+            ],
+            "kind": "tay nâng hướng vào người rồi thu về",
+            "duration": 0.3999999999999999,
+            "action_times": [
+              3.0,
+              3.4
+            ],
+            "action_samples": 2,
+            "confirmed_since": 3.0
+          }
+        ],
+        "reason": "Có tương tác mạnh lặp lại giữa các người trong cùng đoạn",
+        "uncertainties": [],
+        "requires_human_review": true
+      },
+      "automatic_alert": true,
+      "status": "Nghi có xô xát - cần người đến kiểm tra",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 108,
+      "scene_epoch": 1,
+      "alert_active": true,
+      "alert_track_ids": [
+        2,
+        4
+      ]
+    },
+    {
+      "second": 3.8,
+      "visual": 0.9712726712226869,
+      "smooth": 0.9685237433415803,
+      "interaction": {
+        "supported": true,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": 3.0,
+        "observed_people": 3,
+        "pairs": [
+          {
+            "tracks": [
+              2,
+              4
+            ],
+            "duration": 0.6,
+            "action_samples": 4,
+            "action_times": [
+              3.0,
+              3.2,
+              3.4,
+              3.6
+            ],
+            "kind": "giằng co"
+          },
+          {
+            "tracks": [
+              2,
+              4
+            ],
+            "kind": "tay nâng hướng vào người rồi thu về",
+            "duration": 0.3999999999999999,
+            "action_times": [
+              3.0,
+              3.4
+            ],
+            "action_samples": 2,
+            "confirmed_since": 3.0
+          }
+        ],
+        "reason": "Có tương tác mạnh lặp lại giữa các người trong cùng đoạn",
+        "uncertainties": [],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Nghi có xô xát - cần người đến kiểm tra",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 114,
+      "scene_epoch": 1,
+      "alert_active": true,
+      "alert_track_ids": [
+        2,
+        4
+      ]
+    },
+    {
+      "second": 4.0,
+      "visual": 0.9832157194614412,
+      "smooth": 0.9744005337895246,
+      "interaction": {
+        "supported": true,
+        "passing": false,
+        "contact_pairs": 3,
+        "confirmed_since": 3.0,
+        "observed_people": 4,
+        "pairs": [
+          {
+            "tracks": [
+              2,
+              4
+            ],
+            "duration": 0.6,
+            "action_samples": 4,
+            "action_times": [
+              3.0,
+              3.2,
+              3.4,
+              3.6
+            ],
+            "kind": "giằng co"
+          },
+          {
+            "tracks": [
+              2,
+              4
+            ],
+            "kind": "tay nâng hướng vào người rồi thu về",
+            "duration": 0.3999999999999999,
+            "action_times": [
+              3.0,
+              3.4
+            ],
+            "action_samples": 2,
+            "confirmed_since": 3.0
+          }
+        ],
+        "reason": "Có tương tác mạnh lặp lại giữa các người trong cùng đoạn",
+        "uncertainties": [],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Nghi có xô xát - cần người đến kiểm tra",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 120,
+      "scene_epoch": 1,
+      "alert_active": true,
+      "alert_track_ids": [
+        2,
+        4
+      ]
+    },
+    {
+      "second": 4.2,
+      "visual": 0.9167261481285096,
+      "smooth": 0.9513307795251185,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 4,
+        "confirmed_since": null,
+        "observed_people": 4,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co; Đông người/chen lấn; khó tách tương tác, cần người kiểm tra",
+        "uncertainties": [
+          "Đông người/chen lấn; khó tách tương tác, cần người kiểm tra"
+        ],
+        "requires_human_review": true
+      },
+      "automatic_alert": false,
+      "status": "Nghi có xô xát - cần người đến kiểm tra",
+      "scenario": {
+        "signals": [],
+        "occlusion_hold": false,
+        "mode": "standard"
+      },
+      "frame_index": 126,
+      "scene_epoch": 1,
+      "alert_active": true,
+      "alert_track_ids": []
+    }
+  ],
+  "automatic_alerts": [
+    {
+      "second": 3.6,
+      "visual": 0.9666911247541761,
+      "reason": "Có tương tác mạnh lặp lại giữa các người trong cùng đoạn"
+    }
+  ],
+  "action_timeline": [],
+  "action_context_enabled": false,
+  "action_decode_audit": null,
+  "person_model": "models/yolov8s-pose.pt",
+  "cancelled": false,
+  "note": "AI có thể báo nhầm hoặc bỏ sót. AI không dùng để kết luận hoặc kỷ luật học sinh. Người phụ trách vẫn cần xem camera định kỳ.",
+  "visual_signal": {
+    "label": "AI nghi ngờ · cần xác minh diễn biến",
+    "risk": "high",
+    "corroborated": false
+  },
+  "decision": {
+    "label": "Nghi có xô xát - cần người đến kiểm tra",
+    "risk": "high",
+    "corroborated": false
+  }
+}

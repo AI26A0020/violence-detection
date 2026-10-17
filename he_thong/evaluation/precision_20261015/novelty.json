@@ -1,0 +1,150 @@
+{
+  "method": "SHA256, declared source group, 8 frame pHash Hamming <=4 with >=2 matching probes. Shared actors/room can flag different AIRTLab scenes; sampled audit cannot prove absence of all derivatives.",
+  "exposure_records": 7815,
+  "records": [
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\Od6EeCWytZo_crowd.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\4egGPawVBFQ_help.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\mxzyquieTpQ_help.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\airtlab_violent_100.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\airtlab_violent_91.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\airtlab_violent_92.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\airtlab_violent_93.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\airtlab_violent_94.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\airtlab_violent_95.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\airtlab_violent_96.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\airtlab_violent_97.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\airtlab_violent_98.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\airtlab_violent_99.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\airtlab_non-violent_51.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\airtlab_non-violent_52.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\airtlab_non-violent_53.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\airtlab_non-violent_54.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\airtlab_non-violent_55.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\airtlab_non-violent_56.mp4",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\dribble_Basketball_Dribbling_-_Basketball_Dribbling-_Practice_With_Tennis_Balls_dribble_f_cm_np1_le_med_1.avi",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\fencing_Advanced_Rapier_fencing_f_cm_np2_le_bad_0.avi",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\kick_ball_Ribery_Torwandschiessen_Sportstudio_kick_ball_f_cm_np1_fr_med_0.avi",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\shoot_ball_KELVIN_shoot_ball_u_cm_np1_ba_med_2.avi",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\swing_baseball_HittingaSingle_swing_baseball_f_cm_np1_fr_med_0.avi",
+      "exact_matches": [],
+      "source_group_matches": [],
+      "potential_near_matches": []
+    }
+  ]
+}

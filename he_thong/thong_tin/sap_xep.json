@@ -1,0 +1,1120 @@
+{
+  "created_local": "2026-10-17",
+  "layout": "single menu + guide + he_thong + two video folders",
+  "runtime_root": "he_thong",
+  "entrypoint": "he_thong/main2.py",
+  "application_modules": [
+    "action_context",
+    "action_head",
+    "action_runtime",
+    "action_sampling",
+    "audio_features",
+    "build_dataset",
+    "confidence_head",
+    "data_loader",
+    "evaluate",
+    "evaluation_workflow",
+    "explore_vit_causal",
+    "feedback_review",
+    "fusion",
+    "fusion_significance",
+    "incident_workflow",
+    "learning_feedback",
+    "main1",
+    "main2",
+    "multimodal_detector",
+    "precision_candidates",
+    "probe_vit_recall",
+    "quick_evidence",
+    "retrain_database",
+    "school_policy",
+    "short_contact",
+    "speech",
+    "temporal_visual",
+    "train",
+    "train_model",
+    "train_vit_causal",
+    "verify_main1_precision",
+    "verify_person_occlusion",
+    "verify_pipeline",
+    "verify_recall_runtime",
+    "verify_schoolguard_videos",
+    "vit_causal_context",
+    "vit_runtime"
+  ],
+  "unused_library_distributions": [
+    "absl-py",
+    "aiohappyeyeballs",
+    "aiohttp",
+    "aiosignal",
+    "astunparse",
+    "attrs",
+    "cffi",
+    "click",
+    "coverage",
+    "ctranslate2",
+    "discord-py",
+    "faster-whisper",
+    "flatbuffers",
+    "frozenlist",
+    "gast",
+    "google-pasta",
+    "grpcio",
+    "h5py",
+    "hf-xet",
+    "httpcore2",
+    "httpx2",
+    "huggingface-hub",
+    "keras",
+    "libclang",
+    "lxml",
+    "markdown-it-py",
+    "mdurl",
+    "ml-dtypes",
+    "multidict",
+    "namex",
+    "narwhals",
+    "onnxruntime",
+    "opt-einsum",
+    "optree",
+    "propcache",
+    "protobuf",
+    "pycparser",
+    "pygments",
+    "python-docx",
+    "rich",
+    "sounddevice",
+    "tensorflow",
+    "termcolor",
+    "tokenizers",
+    "truststore",
+    "wrapt",
+    "yarl",
+    "yt-dlp"
+  ],
+  "archive": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148",
+  "evidence_paths_rebased": 111,
+  "configuration_sha256": "fe8fbef08edcdabfe7a8f479b7a8be713515f703c81db0a643f943cd8a5008c3",
+  "active_model_sha256": "a39c9d2ceaaae3dfd495ccf374308bd42d736d48a07d47f66062ccf6dff333a4",
+  "retained_pose_model_hashes": {
+    "yolov8n-pose.pt": "c6fa93dd1ee4a2c18c900a45c1d864a1c6f7aba75d84f91648a30b7fb641d212",
+    "yolov8s-pose.pt": "234314cd8baf62616791aceb9ea6ad5c19f26cf6c0d8f3a1bfce1e23b186cfb3"
+  },
+  "moves": [
+    {
+      "from": "action_context.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\action_context.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "action_head.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\action_head.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "action_runtime.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\action_runtime.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "action_sampling.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\action_sampling.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "assess_action_recall.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\assess_action_recall.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "audio_features.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\audio_features.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "build_dataset.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\build_dataset.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "collect_public_test_videos.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\collect_public_test_videos.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "confidence_head.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\confidence_head.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "data_loader.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\data_loader.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "diagnose_recall_20261016.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\diagnose_recall_20261016.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "download_unseen_evaluation_dataset.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\download_unseen_evaluation_dataset.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "evaluate.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\evaluate.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "evaluation_workflow.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\evaluation_workflow.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "explore_vit_causal.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\explore_vit_causal.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "feedback_review.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\feedback_review.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "fusion.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\fusion.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "fusion_significance.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\fusion_significance.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "incident_workflow.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\incident_workflow.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "learning_feedback.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\learning_feedback.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "main1.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\main1.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "main2.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\main2.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "multimodal_detector.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\multimodal_detector.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "precision_candidates.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\precision_candidates.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "probe_vit_recall.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\probe_vit_recall.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "quick_evidence.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\quick_evidence.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "retrain_database.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\retrain_database.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "rollback_main2_detection.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\rollback_main2_detection.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "school_policy.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\school_policy.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "short_contact.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\short_contact.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "speech.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\speech.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "temporal_visual.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\temporal_visual.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "test_action_context.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_action_context.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_action_runtime.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_action_runtime.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_action_sampling.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_action_sampling.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_camera_blur_profile.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_camera_blur_profile.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_cls_worker.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_cls_worker.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_evaluation_integrity.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_evaluation_integrity.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_fall_precision.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_fall_precision.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_fresh_development.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_fresh_development.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_main1_discord.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_main1_discord.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_main2_context.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_main2_context.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_main2_detection.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_main2_detection.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_main2_helpers.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_main2_helpers.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_main2_tracking.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_main2_tracking.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_person_occlusion.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_person_occlusion.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_schoolguard_improvements.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_schoolguard_improvements.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_schoolguard_upgrade.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_schoolguard_upgrade.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_short_contact.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_short_contact.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_temporal_precision.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_temporal_precision.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_verify_schoolguard_videos.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_verify_schoolguard_videos.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "test_visual_only.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\test_visual_only.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "train.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\train.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "train_model.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\train_model.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "train_vit_causal.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\train_vit_causal.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "verify_improvements.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\verify_improvements.py",
+      "reason": "development test or unused utility"
+    },
+    {
+      "from": "verify_main1_precision.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\verify_main1_precision.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "verify_person_occlusion.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\verify_person_occlusion.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "verify_pipeline.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\verify_pipeline.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "verify_recall_runtime.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\verify_recall_runtime.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "verify_schoolguard_videos.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\verify_schoolguard_videos.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "vit_causal_context.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\vit_causal_context.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": "vit_runtime.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\vit_runtime.py",
+      "reason": "application/job dependency"
+    },
+    {
+      "from": ".venv",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\.venv",
+      "reason": "group technical content"
+    },
+    {
+      "from": ".schoolguard",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\.schoolguard",
+      "reason": "group technical content"
+    },
+    {
+      "from": "models",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\models",
+      "reason": "group technical content"
+    },
+    {
+      "from": "schoolguard_data",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\schoolguard_data",
+      "reason": "group technical content"
+    },
+    {
+      "from": "evaluation",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\evaluation",
+      "reason": "group technical content"
+    },
+    {
+      "from": "reports",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\reports",
+      "reason": "group technical content"
+    },
+    {
+      "from": "main2_config.json",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\main2_config.json",
+      "reason": "group technical content"
+    },
+    {
+      "from": "requirements.txt",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\requirements.txt",
+      "reason": "group technical content"
+    },
+    {
+      "from": "MAIN2_HUONG_DAN.md",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\huong_dan\\MAIN2_HUONG_DAN.md",
+      "reason": "group detailed documentation"
+    },
+    {
+      "from": "HUONG_DAN_NANG_CAP_2_2.md",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\AI26A0020\\he_thong\\huong_dan\\HUONG_DAN_NANG_CAP_2_2.md",
+      "reason": "group detailed documentation"
+    },
+    {
+      "from": "CAI_MOI_THU_VIEN.bat",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\CAI_MOI_THU_VIEN.bat",
+      "reason": "replace scattered launchers and packaging metadata with one menu"
+    },
+    {
+      "from": "config.yaml",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\config.yaml",
+      "reason": "replace scattered launchers and packaging metadata with one menu"
+    },
+    {
+      "from": "KIEM_TRA_TAT_CA_VIDEO.bat",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\KIEM_TRA_TAT_CA_VIDEO.bat",
+      "reason": "replace scattered launchers and packaging metadata with one menu"
+    },
+    {
+      "from": "KIEM_TRA_VIDEO_MOI.bat",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\KIEM_TRA_VIDEO_MOI.bat",
+      "reason": "replace scattered launchers and packaging metadata with one menu"
+    },
+    {
+      "from": "model_gop.h5",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\model_gop.h5",
+      "reason": "replace scattered launchers and packaging metadata with one menu"
+    },
+    {
+      "from": "PACKAGE_INFO.json",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\PACKAGE_INFO.json",
+      "reason": "replace scattered launchers and packaging metadata with one menu"
+    },
+    {
+      "from": "PACKAGE_MANIFEST.json",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\PACKAGE_MANIFEST.json",
+      "reason": "replace scattered launchers and packaging metadata with one menu"
+    },
+    {
+      "from": "README.md",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\README.md",
+      "reason": "replace scattered launchers and packaging metadata with one menu"
+    },
+    {
+      "from": "requirements-main1.txt",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\requirements-main1.txt",
+      "reason": "replace scattered launchers and packaging metadata with one menu"
+    },
+    {
+      "from": "RUN_SCHOOLGUARD.bat",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\RUN_SCHOOLGUARD.bat",
+      "reason": "replace scattered launchers and packaging metadata with one menu"
+    },
+    {
+      "from": "XEM_KET_QUA_VIDEO.bat",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\XEM_KET_QUA_VIDEO.bat",
+      "reason": "replace scattered launchers and packaging metadata with one menu"
+    },
+    {
+      "from": "yolov8n.pt",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\yolov8n.pt",
+      "reason": "replace scattered launchers and packaging metadata with one menu"
+    },
+    {
+      "from": "he_thong\\reports\\fresh_tuning_20261017\\after_hashes.json",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\reports\\fresh_tuning_20261017\\after_hashes.json",
+      "reason": "development fixture or obsolete snapshot"
+    },
+    {
+      "from": "he_thong\\reports\\fresh_tuning_20261017\\before_changes",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\reports\\fresh_tuning_20261017\\before_changes",
+      "reason": "development fixture or obsolete snapshot"
+    },
+    {
+      "from": "he_thong\\reports\\fresh_tuning_20261017\\before_hashes.json",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\reports\\fresh_tuning_20261017\\before_hashes.json",
+      "reason": "development fixture or obsolete snapshot"
+    },
+    {
+      "from": "he_thong\\reports\\fresh_tuning_20261017\\candidate_guarded_0.5.pt",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\reports\\fresh_tuning_20261017\\candidate_guarded_0.5.pt",
+      "reason": "development fixture or obsolete snapshot"
+    },
+    {
+      "from": "he_thong\\reports\\fresh_tuning_20261017\\features",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\reports\\fresh_tuning_20261017\\features",
+      "reason": "development fixture or obsolete snapshot"
+    },
+    {
+      "from": "he_thong\\reports\\fresh_tuning_20261017\\source_integrity.json",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\reports\\fresh_tuning_20261017\\source_integrity.json",
+      "reason": "development fixture or obsolete snapshot"
+    },
+    {
+      "from": "he_thong\\reports\\package_validation",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\reports\\package_validation",
+      "reason": "old validation/development report"
+    },
+    {
+      "from": "he_thong\\reports\\tuning_20261017\\before_changes",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\reports\\tuning_20261017\\before_changes",
+      "reason": "development fixture or obsolete snapshot"
+    },
+    {
+      "from": "he_thong\\reports\\tuning_20261017\\EXPERIMENTS.md",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\reports\\tuning_20261017\\EXPERIMENTS.md",
+      "reason": "development fixture or obsolete snapshot"
+    },
+    {
+      "from": "he_thong\\reports\\visual_only_20261016",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\reports\\visual_only_20261016",
+      "reason": "old validation/development report"
+    },
+    {
+      "from": "he_thong\\models\\violence_precision_20261015.pt",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\models\\violence_precision_20261015.pt",
+      "reason": "unused older classifier checkpoint"
+    },
+    {
+      "from": "he_thong\\models\\violence_resnet18.pt",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\models\\violence_resnet18.pt",
+      "reason": "unused older classifier checkpoint"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\_cffi_backend.cp311-win_amd64.pyd",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\_cffi_backend.cp311-win_amd64.pyd",
+      "reason": "unused Python library: cffi"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\_sounddevice.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\_sounddevice.py",
+      "reason": "unused Python library: sounddevice"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\_sounddevice_data",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\_sounddevice_data",
+      "reason": "unused Python library: sounddevice"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\a1_coverage.pth",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\a1_coverage.pth",
+      "reason": "unused Python library: coverage"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\absl",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\absl",
+      "reason": "unused Python library: absl-py"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\absl_py-2.5.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\absl_py-2.5.0.dist-info",
+      "reason": "unused Python library: absl-py"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\aiohappyeyeballs",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\aiohappyeyeballs",
+      "reason": "unused Python library: aiohappyeyeballs"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\aiohappyeyeballs-2.7.1.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\aiohappyeyeballs-2.7.1.dist-info",
+      "reason": "unused Python library: aiohappyeyeballs"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\aiohttp",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\aiohttp",
+      "reason": "unused Python library: aiohttp"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\aiohttp-3.14.3.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\aiohttp-3.14.3.dist-info",
+      "reason": "unused Python library: aiohttp"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\aiosignal",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\aiosignal",
+      "reason": "unused Python library: aiosignal"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\aiosignal-1.4.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\aiosignal-1.4.0.dist-info",
+      "reason": "unused Python library: aiosignal"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\astunparse",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\astunparse",
+      "reason": "unused Python library: astunparse"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\astunparse-1.6.3.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\astunparse-1.6.3.dist-info",
+      "reason": "unused Python library: astunparse"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\attr",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\attr",
+      "reason": "unused Python library: attrs"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\attrs",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\attrs",
+      "reason": "unused Python library: attrs"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\attrs-26.1.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\attrs-26.1.0.dist-info",
+      "reason": "unused Python library: attrs"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\cffi",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\cffi",
+      "reason": "unused Python library: cffi"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\cffi-2.1.1.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\cffi-2.1.1.dist-info",
+      "reason": "unused Python library: cffi"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\clang",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\clang",
+      "reason": "unused Python library: libclang"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\click",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\click",
+      "reason": "unused Python library: click"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\click-8.5.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\click-8.5.0.dist-info",
+      "reason": "unused Python library: click"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\coverage",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\coverage",
+      "reason": "unused Python library: coverage"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\coverage-7.16.2.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\coverage-7.16.2.dist-info",
+      "reason": "unused Python library: coverage"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\ctranslate2",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\ctranslate2",
+      "reason": "unused Python library: ctranslate2"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\ctranslate2-4.8.2.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\ctranslate2-4.8.2.dist-info",
+      "reason": "unused Python library: ctranslate2"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\discord",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\discord",
+      "reason": "unused Python library: discord-py"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\discord_py-2.7.1.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\discord_py-2.7.1.dist-info",
+      "reason": "unused Python library: discord-py"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\docx",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\docx",
+      "reason": "unused Python library: python-docx"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\faster_whisper",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\faster_whisper",
+      "reason": "unused Python library: faster-whisper"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\faster_whisper-1.2.1.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\faster_whisper-1.2.1.dist-info",
+      "reason": "unused Python library: faster-whisper"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\flatbuffers",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\flatbuffers",
+      "reason": "unused Python library: flatbuffers"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\flatbuffers-25.12.19.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\flatbuffers-25.12.19.dist-info",
+      "reason": "unused Python library: flatbuffers"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\frozenlist",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\frozenlist",
+      "reason": "unused Python library: frozenlist"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\frozenlist-1.8.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\frozenlist-1.8.0.dist-info",
+      "reason": "unused Python library: frozenlist"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\gast",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\gast",
+      "reason": "unused Python library: gast"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\gast-0.7.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\gast-0.7.0.dist-info",
+      "reason": "unused Python library: gast"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\google",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\google",
+      "reason": "unused Python library: protobuf"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\google_pasta-0.2.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\google_pasta-0.2.0.dist-info",
+      "reason": "unused Python library: google-pasta"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\grpc",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\grpc",
+      "reason": "unused Python library: grpcio"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\grpcio-1.83.1.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\grpcio-1.83.1.dist-info",
+      "reason": "unused Python library: grpcio"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\h5py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\h5py",
+      "reason": "unused Python library: h5py"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\h5py-3.14.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\h5py-3.14.0.dist-info",
+      "reason": "unused Python library: h5py"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\hf_xet",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\hf_xet",
+      "reason": "unused Python library: hf-xet"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\hf_xet-1.7.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\hf_xet-1.7.0.dist-info",
+      "reason": "unused Python library: hf-xet"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\httpcore2",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\httpcore2",
+      "reason": "unused Python library: httpcore2"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\httpcore2-2.13.1.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\httpcore2-2.13.1.dist-info",
+      "reason": "unused Python library: httpcore2"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\httpx2",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\httpx2",
+      "reason": "unused Python library: httpx2"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\httpx2-2.13.1.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\httpx2-2.13.1.dist-info",
+      "reason": "unused Python library: httpx2"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\huggingface_hub",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\huggingface_hub",
+      "reason": "unused Python library: huggingface-hub"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\huggingface_hub-2.2.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\huggingface_hub-2.2.0.dist-info",
+      "reason": "unused Python library: huggingface-hub"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\keras",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\keras",
+      "reason": "unused Python library: keras"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\keras-3.15.1.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\keras-3.15.1.dist-info",
+      "reason": "unused Python library: keras"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\libclang-18.1.1.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\libclang-18.1.1.dist-info",
+      "reason": "unused Python library: libclang"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\lxml",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\lxml",
+      "reason": "unused Python library: lxml"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\lxml-6.1.3.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\lxml-6.1.3.dist-info",
+      "reason": "unused Python library: lxml"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\markdown_it",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\markdown_it",
+      "reason": "unused Python library: markdown-it-py"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\markdown_it_py-4.2.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\markdown_it_py-4.2.0.dist-info",
+      "reason": "unused Python library: markdown-it-py"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\mdurl",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\mdurl",
+      "reason": "unused Python library: mdurl"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\mdurl-0.1.2.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\mdurl-0.1.2.dist-info",
+      "reason": "unused Python library: mdurl"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\ml_dtypes",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\ml_dtypes",
+      "reason": "unused Python library: ml-dtypes"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\ml_dtypes-0.6.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\ml_dtypes-0.6.0.dist-info",
+      "reason": "unused Python library: ml-dtypes"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\ml_dtypes.libs",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\ml_dtypes.libs",
+      "reason": "unused Python library: ml-dtypes"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\multidict",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\multidict",
+      "reason": "unused Python library: multidict"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\multidict-6.9.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\multidict-6.9.0.dist-info",
+      "reason": "unused Python library: multidict"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\namex",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\namex",
+      "reason": "unused Python library: namex"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\namex-0.1.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\namex-0.1.0.dist-info",
+      "reason": "unused Python library: namex"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\narwhals",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\narwhals",
+      "reason": "unused Python library: narwhals"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\narwhals-2.27.1.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\narwhals-2.27.1.dist-info",
+      "reason": "unused Python library: narwhals"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\onnxruntime",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\onnxruntime",
+      "reason": "unused Python library: onnxruntime"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\onnxruntime-1.31.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\onnxruntime-1.31.0.dist-info",
+      "reason": "unused Python library: onnxruntime"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\opt_einsum",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\opt_einsum",
+      "reason": "unused Python library: opt-einsum"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\opt_einsum-3.4.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\opt_einsum-3.4.0.dist-info",
+      "reason": "unused Python library: opt-einsum"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\optree",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\optree",
+      "reason": "unused Python library: optree"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\optree-0.20.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\optree-0.20.0.dist-info",
+      "reason": "unused Python library: optree"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\optree.libs",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\optree.libs",
+      "reason": "unused Python library: optree"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\pasta",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\pasta",
+      "reason": "unused Python library: google-pasta"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\propcache",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\propcache",
+      "reason": "unused Python library: propcache"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\propcache-0.5.4.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\propcache-0.5.4.dist-info",
+      "reason": "unused Python library: propcache"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\protobuf-7.36.1.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\protobuf-7.36.1.dist-info",
+      "reason": "unused Python library: protobuf"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\pycparser",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\pycparser",
+      "reason": "unused Python library: pycparser"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\pycparser-3.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\pycparser-3.0.dist-info",
+      "reason": "unused Python library: pycparser"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\pygments",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\pygments",
+      "reason": "unused Python library: pygments"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\pygments-2.21.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\pygments-2.21.0.dist-info",
+      "reason": "unused Python library: pygments"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\python_docx-1.2.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\python_docx-1.2.0.dist-info",
+      "reason": "unused Python library: python-docx"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\rich",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\rich",
+      "reason": "unused Python library: rich"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\rich-15.0.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\rich-15.0.0.dist-info",
+      "reason": "unused Python library: rich"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\sounddevice-0.5.6.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\sounddevice-0.5.6.dist-info",
+      "reason": "unused Python library: sounddevice"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\sounddevice.py",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\sounddevice.py",
+      "reason": "unused Python library: sounddevice"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\tensorflow",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\tensorflow",
+      "reason": "unused Python library: tensorflow"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\tensorflow-2.21.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\tensorflow-2.21.0.dist-info",
+      "reason": "unused Python library: tensorflow"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\termcolor",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\termcolor",
+      "reason": "unused Python library: termcolor"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\termcolor-3.3.0.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\termcolor-3.3.0.dist-info",
+      "reason": "unused Python library: termcolor"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\tokenizers",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\tokenizers",
+      "reason": "unused Python library: tokenizers"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\tokenizers-0.23.3.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\tokenizers-0.23.3.dist-info",
+      "reason": "unused Python library: tokenizers"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\truststore",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\truststore",
+      "reason": "unused Python library: truststore"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\truststore-0.10.4.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\truststore-0.10.4.dist-info",
+      "reason": "unused Python library: truststore"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\wrapt",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\wrapt",
+      "reason": "unused Python library: wrapt"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\wrapt-2.4.1.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\wrapt-2.4.1.dist-info",
+      "reason": "unused Python library: wrapt"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\wrapt-stubs",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\wrapt-stubs",
+      "reason": "unused Python library: wrapt"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\yarl",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\yarl",
+      "reason": "unused Python library: yarl"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\yarl-1.25.1.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\yarl-1.25.1.dist-info",
+      "reason": "unused Python library: yarl"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\yt_dlp",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\yt_dlp",
+      "reason": "unused Python library: yt-dlp"
+    },
+    {
+      "from": "he_thong\\.venv\\Lib\\site-packages\\yt_dlp-2026.8.19.dist-info",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed\\he_thong\\.venv\\Lib\\site-packages\\yt_dlp-2026.8.19.dist-info",
+      "reason": "unused Python library: yt-dlp"
+    },
+    {
+      "from": "he_thong\\reports\\tuning_20261017",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed_extra\\he_thong\\reports\\tuning_20261017",
+      "reason": "old result or duplicate documentation"
+    },
+    {
+      "from": "he_thong\\huong_dan",
+      "to": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\archive_unused\\compact_AI26A0020_20261017_131148\\removed_extra\\he_thong\\huong_dan",
+      "reason": "old result or duplicate documentation"
+    }
+  ]
+}

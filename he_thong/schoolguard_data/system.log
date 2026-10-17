@@ -1,0 +1,657 @@
+2026-10-11 13:29:26,620 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 13:30:34,358 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 13:30:57,064 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 13:31:02,227 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\aa6b4db3957740f4bd54733d5c572797.json
+2026-10-11 13:31:02,227 [INFO] Camera 1: 24 khung phân tích, 106.7 ms/khung
+2026-10-11 13:37:42,718 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 13:38:16,262 [WARNING] Camera 1 | Ảnh thủ công | sự kiện 3d059d1ce64b4e119e61c1a45e6e34e0
+2026-10-11 13:38:22,704 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\6e7e97be3fc1436baa9612cac5881bcc.json
+2026-10-11 13:38:22,705 [INFO] Camera 1: 141 khung phân tích, 51.6 ms/khung
+2026-10-11 13:38:23,032 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 13:38:39,753 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\befd7ef91ac540969fc09ca196a1a04e.json
+2026-10-11 13:38:39,757 [INFO] Camera 1: 73 khung phân tích, 48.3 ms/khung
+2026-10-11 14:36:20,444 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 14:36:29,527 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-11 14:36:29,527 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-11 14:36:34,419 [INFO] Processing audio with duration 00:03.505
+2026-10-11 14:36:35,016 [INFO] VAD filter removed 00:03.505 of audio
+2026-10-11 14:36:35,814 [INFO] Processing audio with duration 00:03.598
+2026-10-11 14:36:35,819 [INFO] VAD filter removed 00:01.136 of audio
+2026-10-11 14:37:32,960 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 14:37:47,668 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-11 14:37:47,669 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-11 14:37:52,840 [INFO] Processing audio with duration 00:03.598
+2026-10-11 14:37:53,454 [INFO] VAD filter removed 00:01.136 of audio
+2026-10-11 14:37:55,748 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\4c00f5cc6b514a89bea155364375b35a.json
+2026-10-11 14:37:55,748 [INFO] Camera 1: 16 khung phân tích, 185.6 ms/khung
+2026-10-11 14:42:22,826 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 14:42:32,188 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-11 14:42:32,189 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-11 14:42:44,091 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\bd6a395060e14cac901a13c4674b222d.json
+2026-10-11 14:42:44,092 [INFO] Camera 1: 46 khung phân tích, 60.1 ms/khung
+2026-10-11 14:42:44,092 [INFO] NV_3: 26 khung phân tích, 92.5 ms/khung
+2026-10-11 14:43:00,033 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 14:43:02,373 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-11 14:43:02,374 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-11 14:43:08,355 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\10aa4ae33a6a475a8870ff09b4d87f88.json
+2026-10-11 14:43:08,356 [INFO] NV_3 (video): 27 khung phân tích, 62.4 ms/khung
+2026-10-11 14:43:28,699 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 14:43:30,707 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-11 14:43:30,708 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-11 14:43:41,580 [WARNING] rtsp_record | Nguy cơ bạo lực | sự kiện c28b333ef2604b60ab74a76689d431fc
+2026-10-11 14:43:42,821 [WARNING] Gửi Discord thất bại (1/3)
+2026-10-11 14:43:44,487 [WARNING] Gửi Discord thất bại (2/3)
+2026-10-11 14:43:47,437 [WARNING] Gửi Discord thất bại (3/3)
+2026-10-11 14:43:53,627 [INFO] Đã gửi Telegram cho sự kiện c28b333ef2604b60ab74a76689d431fc
+2026-10-11 14:44:11,162 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\85f8da9492f1471a839da8bd014538b7.json
+2026-10-11 14:44:11,163 [INFO] NV_3 (video): 29 khung phân tích, 71.0 ms/khung
+2026-10-11 14:44:11,164 [INFO] rtsp_record: 189 khung phân tích, 129.1 ms/khung
+2026-10-11 14:44:44,287 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 14:44:46,214 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-11 14:44:46,214 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-11 14:45:16,200 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\2cb4bb769c2741b695672bd272fe7f4c.json
+2026-10-11 14:45:16,200 [INFO] NV_3 (video): 27 khung phân tích, 84.0 ms/khung
+2026-10-11 14:45:16,200 [INFO] video1: 137 khung phân tích, 90.4 ms/khung
+2026-10-11 14:52:59,252 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 14:53:07,804 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-11 14:53:07,805 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-11 14:54:10,798 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\aa11eb3aa8d04f8fb95e7d9b7a7916af.json
+2026-10-11 14:54:10,802 [INFO] Camera 1: 292 khung phân tích, 112.7 ms/khung
+2026-10-11 14:54:10,804 [INFO] video1: 297 khung phân tích, 158.7 ms/khung
+2026-10-11 15:21:33,996 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 15:21:56,191 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-11 15:21:56,196 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-11 15:25:22,812 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 15:25:29,168 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-11 15:25:29,169 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-11 15:25:31,695 [WARNING] Camera 1 | Nguy cơ bạo lực | sự kiện 90dd76521e7e4be68243576b578a8f27
+2026-10-11 15:25:32,979 [INFO] Processing audio with duration 00:03.598
+2026-10-11 15:25:33,591 [INFO] VAD filter removed 00:01.136 of audio
+2026-10-11 15:25:34,886 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\6cbb1359a7cc436da4f3288ea36bcf2b.json
+2026-10-11 15:25:34,886 [INFO] Camera 1: 23 khung phân tích, 119.6 ms/khung
+2026-10-11 15:51:59,638 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 15:52:08,468 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-11 15:52:08,469 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-11 15:52:11,078 [WARNING] NV_14 | Nguy cơ bạo lực | sự kiện d62c9fa2d6f74163aec560653e3f9ba9
+2026-10-11 15:52:11,981 [WARNING] Discord từ chối cảnh báo (400); kiểm tra cấu hình/quyền.
+2026-10-11 15:52:13,194 [INFO] Đã gửi Telegram cho sự kiện d62c9fa2d6f74163aec560653e3f9ba9
+2026-10-11 15:52:13,984 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\fbe32ab7db034d9f9d32cd32e9859c12.json
+2026-10-11 15:52:13,985 [INFO] NV_14: 23 khung phân tích, 120.8 ms/khung
+2026-10-11 15:52:19,625 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 15:52:22,302 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-11 15:52:22,328 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-11 15:52:23,777 [WARNING] NV_14 | Nguy cơ bạo lực | sự kiện c2732ba077c140f686a053a0d2ca168e
+2026-10-11 15:52:24,502 [WARNING] Discord từ chối cảnh báo (400); kiểm tra cấu hình/quyền.
+2026-10-11 15:52:25,737 [INFO] Đã gửi Telegram cho sự kiện c2732ba077c140f686a053a0d2ca168e
+2026-10-11 15:52:28,049 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\8c616d44d57845dbb5ff5917c48ef0f3.json
+2026-10-11 15:52:28,077 [INFO] NV_14: 25 khung phân tích, 100.1 ms/khung
+2026-10-11 15:52:35,428 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 15:52:37,771 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-11 15:52:37,773 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-11 15:52:44,263 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\069ea1ee7dce421cae3a14bf9762208e.json
+2026-10-11 15:52:44,263 [INFO] NV_32: 29 khung phân tích, 128.4 ms/khung
+2026-10-11 15:52:46,223 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 15:52:48,509 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-11 15:52:48,509 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-11 15:52:54,751 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\9bfda6df5e99436e8b03586be7784cf7.json
+2026-10-11 15:52:54,751 [INFO] NV_32: 28 khung phân tích, 84.9 ms/khung
+2026-10-11 15:53:33,113 [INFO] Mô hình violence_resnet18.pt:ac3caed23fa7 sẵn sàng (resnet)
+2026-10-11 15:53:35,286 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-11 15:53:35,286 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-12 05:21:27,635 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-12 05:21:37,830 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-12 05:21:37,830 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-12 05:21:47,506 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\d1cc316921304ed68c726102ab23bc21.json
+2026-10-12 05:21:47,506 [INFO] Camera 1: 20 khung phân tích, 74.4 ms/khung
+2026-10-12 05:22:27,319 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-12 05:22:30,009 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-12 05:22:30,009 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-12 05:22:45,144 [WARNING] check10 | Nguy cơ bạo lực | sự kiện 25fcab8ba9684ebda5ca88418add5df2
+2026-10-12 05:22:45,483 [WARNING] Discord từ chối cảnh báo (400); kiểm tra cấu hình/quyền.
+2026-10-12 05:22:46,785 [INFO] Đã gửi Telegram cho sự kiện 25fcab8ba9684ebda5ca88418add5df2
+2026-10-12 05:22:54,399 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\36edc39d74884f9980af695ac2ad8aa3.json
+2026-10-12 05:22:54,400 [INFO] check10: 113 khung phân tích, 70.4 ms/khung
+2026-10-12 05:22:57,058 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-12 05:22:59,447 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-12 05:22:59,447 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-12 05:23:02,790 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\b1f71e46b35f48fa97e5d2426aa97d0e.json
+2026-10-12 05:23:02,792 [INFO] check10: 15 khung phân tích, 68.8 ms/khung
+2026-10-12 05:23:11,964 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-12 05:23:14,263 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-12 05:23:14,263 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-12 05:24:11,973 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\76f0a683b876495ab1391bbd836513ed.json
+2026-10-12 05:24:11,973 [INFO] check3: 274 khung phân tích, 68.2 ms/khung
+2026-10-12 12:08:50,496 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-12 12:09:33,966 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-12 12:09:33,967 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-12 12:09:34,246 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\0f38cce01e0c4e919bdd4a96601158db.json
+2026-10-12 12:09:48,778 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-12 12:10:01,490 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-12 12:10:01,490 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-12 12:10:16,572 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\fdc098b059c04156aaaa73dc562e3abc.json
+2026-10-12 12:10:16,572 [INFO] Camera 1: 53 khung phân tích, 149.4 ms/khung
+2026-10-12 12:10:24,311 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-12 12:10:26,852 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-12 12:10:26,852 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-12 12:10:30,589 [WARNING] hockey_fi9_xvid | Nguy cơ bạo lực | sự kiện 8d7a8277c8fd4344b4448adff526616e
+2026-10-12 12:10:31,686 [WARNING] Discord từ chối cảnh báo (400); kiểm tra cấu hình/quyền.
+2026-10-12 12:10:32,990 [INFO] Đã gửi Telegram cho sự kiện 8d7a8277c8fd4344b4448adff526616e
+2026-10-12 12:10:32,995 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\cc9a664d84104f449b5599686201cc98.json
+2026-10-12 12:10:32,996 [INFO] hockey_fi9_xvid: 9 khung phân tích, 152.7 ms/khung
+2026-10-12 12:10:49,384 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-12 12:10:51,313 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-12 12:10:51,313 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-12 12:10:53,445 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\c87a8deed3464a73bff3ae86e4291ff8.json
+2026-10-12 12:10:53,446 [INFO] hockey_fi45_xvid: 9 khung phân tích, 130.0 ms/khung
+2026-10-12 12:10:58,209 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-12 12:11:00,087 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-12 12:11:00,087 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-12 12:11:01,479 [WARNING] hockey_fi45_xvid | Nguy cơ bạo lực | sự kiện 7faa4ce4cd20416a93f354a213f7f8fa
+2026-10-12 12:11:02,350 [WARNING] Discord từ chối cảnh báo (400); kiểm tra cấu hình/quyền.
+2026-10-12 12:11:03,209 [INFO] Đã gửi Telegram cho sự kiện 7faa4ce4cd20416a93f354a213f7f8fa
+2026-10-12 12:11:03,214 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\1b05cc0a1bb641ceaf03e5da9400945d.json
+2026-10-12 12:11:03,215 [INFO] hockey_fi45_xvid: 9 khung phân tích, 131.9 ms/khung
+2026-10-12 21:13:34,493 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-12 21:14:16,627 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-12 21:14:16,629 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-12 21:14:16,896 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\cc484fbb51d14f278713d521ec4991fd.json
+2026-10-12 21:14:27,708 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-12 21:14:44,242 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-12 21:14:44,244 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-12 21:14:54,608 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\8341be62fe834d81b96cd2f998f40eac.json
+2026-10-12 21:14:54,612 [INFO] Camera 1: 21 khung phân tích, 315.3 ms/khung
+2026-10-13 05:19:57,699 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-13 05:20:44,604 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-13 05:20:44,606 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-13 05:20:55,264 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-13 05:21:05,626 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-13 05:21:05,627 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-13 05:21:13,149 [WARNING] hockey_fi24_xvid | Nguy cơ bạo lực | sự kiện c25b72533065459694466dec150953fa
+2026-10-13 05:21:14,187 [WARNING] Discord từ chối cảnh báo (400); kiểm tra cấu hình/quyền.
+2026-10-13 05:21:16,785 [INFO] Đã gửi Telegram cho sự kiện c25b72533065459694466dec150953fa
+2026-10-13 05:21:16,790 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\4fd4e7b9b80040b89a4f28c0cdd5aa7f.json
+2026-10-13 05:21:16,791 [INFO] hockey_fi24_xvid: 8 khung phân tích, 189.2 ms/khung
+2026-10-13 05:21:26,356 [WARNING] hockey_fi66_xvid | Nguy cơ bạo lực | sự kiện 17a0aef816284d5dba7998d8288ade75
+2026-10-13 05:21:27,313 [WARNING] Discord từ chối cảnh báo (400); kiểm tra cấu hình/quyền.
+2026-10-13 05:21:28,653 [INFO] Đã gửi Telegram cho sự kiện 17a0aef816284d5dba7998d8288ade75
+2026-10-13 05:21:28,657 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\609b37685ecf452581d96a664061a173.json
+2026-10-13 05:21:28,657 [INFO] hockey_fi66_xvid: 9 khung phân tích, 124.9 ms/khung
+2026-10-13 05:21:34,485 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\8051ccc6055c4e408b5afdc208ec6a73.json
+2026-10-13 05:21:34,485 [INFO] hockey_fi37_xvid: 9 khung phân tích, 130.2 ms/khung
+2026-10-13 05:22:31,709 [WARNING] check9 | Nguy cơ bạo lực | sự kiện cabb218f14b54564b80a724d48570b68
+2026-10-13 05:22:32,693 [WARNING] Discord từ chối cảnh báo (400); kiểm tra cấu hình/quyền.
+2026-10-13 05:22:34,029 [INFO] Đã gửi Telegram cho sự kiện cabb218f14b54564b80a724d48570b68
+2026-10-13 05:23:01,720 [WARNING] check9 | Nguy cơ bạo lực | sự kiện e4e093a232264ef8a5e43f67f213ea2b
+2026-10-13 05:23:01,977 [WARNING] Discord từ chối cảnh báo (400); kiểm tra cấu hình/quyền.
+2026-10-13 05:23:02,704 [INFO] Đã gửi Telegram cho sự kiện e4e093a232264ef8a5e43f67f213ea2b
+2026-10-13 05:24:46,609 [WARNING] check9 | Nguy cơ bạo lực | sự kiện 4fed09089f6b4740a6666534248ab65d
+2026-10-13 05:24:46,855 [WARNING] Discord từ chối cảnh báo (400); kiểm tra cấu hình/quyền.
+2026-10-13 05:24:47,294 [INFO] Đã gửi Telegram cho sự kiện 4fed09089f6b4740a6666534248ab65d
+2026-10-13 05:25:01,975 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\e7a20246768b4e259e433bcb17c53975.json
+2026-10-13 05:25:01,975 [INFO] check9: 834 khung phân tích, 135.8 ms/khung
+2026-10-13 05:25:17,256 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\4e2cb0f809ec4a8596455546214f3c11.json
+2026-10-13 05:25:17,257 [INFO] check9: 32 khung phân tích, 135.2 ms/khung
+2026-10-13 05:25:36,213 [WARNING] check5 | Nguy cơ bạo lực | sự kiện 16fe507d90654f44a2362977d4fad02e
+2026-10-13 05:25:37,354 [WARNING] Discord từ chối cảnh báo (400); kiểm tra cấu hình/quyền.
+2026-10-13 05:25:38,290 [INFO] Đã gửi Telegram cho sự kiện 16fe507d90654f44a2362977d4fad02e
+2026-10-13 05:25:56,118 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\cf6265f69faf4c5ba2275863b86e585e.json
+2026-10-13 05:25:56,118 [INFO] check5: 166 khung phân tích, 109.5 ms/khung
+2026-10-13 05:26:22,639 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\f082c4de6d6c49de8558f545e505b276.json
+2026-10-13 05:26:22,639 [INFO] check1: 108 khung phân tích, 134.7 ms/khung
+2026-10-13 05:26:53,594 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\59aa659b36e54df593fdb595bb4a376b.json
+2026-10-13 05:26:53,594 [INFO] check2: 129 khung phân tích, 132.0 ms/khung
+2026-10-13 05:27:06,768 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-13 05:27:18,406 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-13 05:27:18,407 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-13 05:27:39,757 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\d21b7cd2ff74449a8bb77f748a1286d1.json
+2026-10-13 05:27:39,758 [INFO] check5: 18 khung phân tích, 126.8 ms/khung
+2026-10-13 05:27:48,294 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\0f1a7d1205f94952866dad2034b38c90.json
+2026-10-13 05:27:48,294 [INFO] check5: 18 khung phân tích, 108.6 ms/khung
+2026-10-13 05:27:54,952 [WARNING] check6 | Nguy cơ bạo lực | sự kiện 78601f030fe7437c814f4f6d53870ac2
+2026-10-13 05:27:56,068 [WARNING] Discord từ chối cảnh báo (400); kiểm tra cấu hình/quyền.
+2026-10-13 05:27:57,413 [INFO] Đã gửi Telegram cho sự kiện 78601f030fe7437c814f4f6d53870ac2
+2026-10-13 05:28:03,108 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\243cab9627024f75bdc42e3adc97b332.json
+2026-10-13 05:28:03,109 [INFO] check6: 55 khung phân tích, 135.8 ms/khung
+2026-10-13 05:28:18,059 [WARNING] check8 | Nguy cơ bạo lực | sự kiện 1266d379c6594cf8856c1127d9393b75
+2026-10-13 05:28:19,153 [WARNING] Discord từ chối cảnh báo (400); kiểm tra cấu hình/quyền.
+2026-10-13 05:28:20,322 [INFO] Đã gửi Telegram cho sự kiện 1266d379c6594cf8856c1127d9393b75
+2026-10-13 05:29:28,768 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\4415c18d79974f4d8863a666a4b3b1dd.json
+2026-10-13 05:29:28,768 [INFO] check8: 379 khung phân tích, 134.5 ms/khung
+2026-10-13 05:30:23,632 [WARNING] check7 | Nguy cơ bạo lực | sự kiện dfca16ac7f29467b9f41f145f832de0d
+2026-10-13 05:30:24,594 [WARNING] Discord từ chối cảnh báo (400); kiểm tra cấu hình/quyền.
+2026-10-13 05:30:25,864 [INFO] Đã gửi Telegram cho sự kiện dfca16ac7f29467b9f41f145f832de0d
+2026-10-13 05:31:55,871 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\a89f2c5390274199ad79dadaae6d4609.json
+2026-10-13 05:31:55,871 [INFO] check7: 631 khung phân tích, 188.2 ms/khung
+2026-10-13 05:34:42,349 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-13 05:34:59,784 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-13 05:34:59,785 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-13 05:35:47,289 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\c2ad648d42344097833b792ba1e0bd7a.json
+2026-10-13 05:35:47,290 [INFO] check8: 190 khung phân tích, 141.5 ms/khung
+2026-10-13 05:36:00,197 [WARNING] check5 | Nguy cơ bạo lực | sự kiện 87f252eb74b140b38e7d04abe89cf7e0
+2026-10-13 05:36:01,300 [WARNING] Discord từ chối cảnh báo (400); kiểm tra cấu hình/quyền.
+2026-10-13 05:36:04,310 [INFO] Đã gửi Telegram cho sự kiện 87f252eb74b140b38e7d04abe89cf7e0
+2026-10-13 05:36:09,010 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\9025fabaf2cf426787821e51c5f8656b.json
+2026-10-13 05:36:09,010 [INFO] check5: 56 khung phân tích, 128.0 ms/khung
+2026-10-13 05:37:25,246 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-13 05:37:37,124 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-13 05:37:37,125 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-13 05:37:55,049 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\7c7d7be908504e0896d3a78aafdd10ad.json
+2026-10-13 05:37:55,050 [INFO] check7: 39 khung phân tích, 140.4 ms/khung
+2026-10-13 05:38:15,047 [WARNING] check7 | Nguy cơ bạo lực | sự kiện fbd226ebad6545e693060ed6d8fab92d
+2026-10-13 05:38:15,952 [WARNING] Discord từ chối cảnh báo (400); kiểm tra cấu hình/quyền.
+2026-10-13 05:38:17,249 [INFO] Đã gửi Telegram cho sự kiện fbd226ebad6545e693060ed6d8fab92d
+2026-10-13 05:38:46,131 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\f54e9bd1e3c74635bbaf4d434201a175.json
+2026-10-13 05:38:46,132 [INFO] check7: 214 khung phân tích, 194.1 ms/khung
+2026-10-13 05:39:49,562 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-13 05:39:56,873 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-13 05:39:56,874 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-13 11:27:59,879 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-13 11:28:49,592 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-13 11:28:49,594 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-13 11:29:14,927 [WARNING] check10 | Nguy cơ bạo lực | sự kiện 36928ca8966144bd83ece138d37d2ed8
+2026-10-13 11:29:16,275 [INFO] Đã gửi Discord cho sự kiện 36928ca8966144bd83ece138d37d2ed8
+2026-10-13 11:29:17,706 [INFO] Đã gửi Telegram cho sự kiện 36928ca8966144bd83ece138d37d2ed8
+2026-10-13 11:29:18,276 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\07745b2d20ce4faa9a54f43e53dfe8d2.json
+2026-10-13 11:29:18,277 [INFO] check10: 106 khung phân tích, 170.9 ms/khung
+2026-10-13 11:29:54,698 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\ce33cccd44094c01ac6e6885f82b5917.json
+2026-10-13 11:29:54,698 [INFO] check10: 16 khung phân tích, 111.4 ms/khung
+2026-10-13 11:30:13,121 [WARNING] check10 | Nguy cơ bạo lực | sự kiện d14c6043e26b4a8a9833264e9d80970f
+2026-10-13 11:30:14,555 [INFO] Đã gửi Discord cho sự kiện d14c6043e26b4a8a9833264e9d80970f
+2026-10-13 11:30:15,376 [INFO] Đã gửi Telegram cho sự kiện d14c6043e26b4a8a9833264e9d80970f
+2026-10-13 11:30:22,533 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\9a49fd3754e84f3abafebc26364162ec.json
+2026-10-13 11:30:22,534 [INFO] check10: 115 khung phân tích, 114.8 ms/khung
+2026-10-13 11:30:38,553 [WARNING] check10 | Nguy cơ bạo lực | sự kiện c53e10ab7f614fbcbcfba1aa4dc56edf
+2026-10-13 11:30:40,010 [INFO] Đã gửi Discord cho sự kiện c53e10ab7f614fbcbcfba1aa4dc56edf
+2026-10-13 11:30:40,772 [INFO] Đã gửi Telegram cho sự kiện c53e10ab7f614fbcbcfba1aa4dc56edf
+2026-10-13 11:30:47,674 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\cff475faafe1449fab0e11ef3ff2ed37.json
+2026-10-13 11:30:47,676 [INFO] check10: 113 khung phân tích, 119.0 ms/khung
+2026-10-13 11:31:03,090 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\bed285e6b0eb48b58b276781864e6f39.json
+2026-10-13 11:31:03,090 [INFO] check9: 45 khung phân tích, 148.6 ms/khung
+2026-10-13 17:40:33,901 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-13 17:41:23,365 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-13 17:41:23,368 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-13 17:43:57,698 [WARNING] check9 | Nguy cơ bạo lực | sự kiện da76e4f4c2dd46f4a9b3c33d34214d1a
+2026-10-13 17:43:59,293 [INFO] Đã gửi Discord cho sự kiện da76e4f4c2dd46f4a9b3c33d34214d1a
+2026-10-13 17:44:00,053 [INFO] Đã gửi Telegram cho sự kiện da76e4f4c2dd46f4a9b3c33d34214d1a
+2026-10-13 17:44:27,778 [WARNING] check9 | Nguy cơ bạo lực | sự kiện fbfd6552fee54ce2bf6f253107f75567
+2026-10-13 17:44:28,705 [INFO] Đã gửi Discord cho sự kiện fbfd6552fee54ce2bf6f253107f75567
+2026-10-13 17:44:31,420 [INFO] Đã gửi Telegram cho sự kiện fbfd6552fee54ce2bf6f253107f75567
+2026-10-13 17:45:08,307 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\8430afdbc22b4b03820517fc22cff4bb.json
+2026-10-13 17:45:08,307 [INFO] check9: 409 khung phân tích, 182.6 ms/khung
+2026-10-13 17:45:22,838 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\07ba814d2519417492014f1e1d03c67b.json
+2026-10-13 17:45:22,839 [INFO] check8: 48 khung phân tích, 133.5 ms/khung
+2026-10-13 17:45:28,641 [WARNING] check2 | Nguy cơ bạo lực | sự kiện b16a8dbc49754e8189dba966f989ea09
+2026-10-13 17:45:30,331 [INFO] Đã gửi Discord cho sự kiện b16a8dbc49754e8189dba966f989ea09
+2026-10-13 17:45:33,068 [INFO] Đã gửi Telegram cho sự kiện b16a8dbc49754e8189dba966f989ea09
+2026-10-13 17:45:43,277 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\ac978eca46894488a2ee1a3c9e3f189d.json
+2026-10-13 17:45:43,278 [INFO] check2: 78 khung phân tích, 145.9 ms/khung
+2026-10-13 17:45:55,186 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\bf54b53660ce4a92a6b10c3024a517ae.json
+2026-10-13 17:45:55,186 [INFO] check5: 45 khung phân tích, 122.6 ms/khung
+2026-10-13 18:18:35,592 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-13 18:18:59,845 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-13 18:18:59,846 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-13 18:19:16,383 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\ebd18696023c4c52a3731fe8b3af1a60.json
+2026-10-13 18:19:16,384 [INFO] check1: 44 khung phân tích, 149.5 ms/khung
+2026-10-13 18:19:56,562 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\f4dba83b68db4c8c991232b27708781d.json
+2026-10-13 18:19:56,564 [INFO] check8: 165 khung phân tích, 157.3 ms/khung
+2026-10-13 18:20:22,035 [WARNING] check10 | Nguy cơ bạo lực | sự kiện 1a58b8b18c3f40838dba0cec45f47b43
+2026-10-13 18:20:23,222 [INFO] Đã gửi Discord cho sự kiện 1a58b8b18c3f40838dba0cec45f47b43
+2026-10-13 18:20:24,458 [INFO] Đã gửi Telegram cho sự kiện 1a58b8b18c3f40838dba0cec45f47b43
+2026-10-13 18:20:26,985 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\5f386cc8c81549feab0c64188c8ae350.json
+2026-10-13 18:20:26,986 [INFO] check10: 112 khung phân tích, 133.5 ms/khung
+2026-10-13 18:20:47,975 [WARNING] check10 | Nguy cơ bạo lực | sự kiện 7b5a7ca7a68d45f0b02f6e1c5cacceaa
+2026-10-13 18:20:49,116 [INFO] Đã gửi Discord cho sự kiện 7b5a7ca7a68d45f0b02f6e1c5cacceaa
+2026-10-13 18:20:50,155 [INFO] Đã gửi Telegram cho sự kiện 7b5a7ca7a68d45f0b02f6e1c5cacceaa
+2026-10-13 18:20:55,571 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\a32162e2dfe54cbbb47efa256c50596b.json
+2026-10-13 18:20:55,572 [INFO] check10: 106 khung phân tích, 128.8 ms/khung
+2026-10-13 18:26:18,229 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-13 18:26:32,434 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-13 18:26:32,435 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-13 20:33:31,076 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-13 20:34:01,971 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-13 20:34:01,972 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-13 20:34:58,122 [WARNING] check9 | Nguy cơ bạo lực | sự kiện 68c473fbc9804425a255415fa2faef44
+2026-10-13 20:34:59,671 [INFO] Đã gửi Discord cho sự kiện 68c473fbc9804425a255415fa2faef44
+2026-10-13 20:35:02,422 [INFO] Đã gửi Telegram cho sự kiện 68c473fbc9804425a255415fa2faef44
+2026-10-13 20:35:28,281 [WARNING] check9 | Nguy cơ bạo lực | sự kiện 6b481f159273461e80f236985ba88fc7
+2026-10-13 20:35:29,178 [INFO] Đã gửi Discord cho sự kiện 6b481f159273461e80f236985ba88fc7
+2026-10-13 20:35:29,933 [INFO] Đã gửi Telegram cho sự kiện 6b481f159273461e80f236985ba88fc7
+2026-10-13 20:36:07,212 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\4cab0d154155413f9c5173c63ac10bec.json
+2026-10-13 20:36:07,213 [INFO] check9: 449 khung phân tích, 135.0 ms/khung
+2026-10-14 12:42:41,193 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-14 12:42:58,796 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-14 12:42:58,797 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-14 12:46:21,753 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\e8ccf2d62dfd4541a6cfda19b253b4c5.json
+2026-10-14 12:46:21,754 [INFO] Camera 1: 849 khung phân tích, 142.7 ms/khung
+2026-10-14 12:46:39,824 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-14 12:47:14,010 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-14 12:47:58,882 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-14 12:47:58,887 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-14 14:54:40,188 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-14 14:55:16,550 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-14 14:55:16,552 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-14 14:57:18,684 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\3059177347f94346b889a3103121b3f5.json
+2026-10-14 14:57:18,688 [INFO] Camera 1: 509 khung phân tích, 129.7 ms/khung
+2026-10-14 14:57:30,488 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-14 14:57:42,789 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-14 14:57:42,791 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-14 15:00:12,309 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\24144e2ed4074a6db854d84b9b074d88.json
+2026-10-14 15:00:12,311 [INFO] Camera 1: 493 khung phân tích, 131.4 ms/khung
+2026-10-14 15:56:38,083 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-14 15:58:15,472 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-14 15:58:15,473 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-14 15:59:11,666 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\75f99b48380f45cc9ba8f7c19fbcdb83.json
+2026-10-14 15:59:11,667 [INFO] Camera 1: 138 khung phân tích, 138.8 ms/khung
+2026-10-14 15:59:52,865 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\2a4fc783795a49cabeaf768989a4a56b.json
+2026-10-14 15:59:52,866 [INFO] Camera 1: 176 khung phân tích, 189.7 ms/khung
+2026-10-14 16:20:45,681 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-14 16:21:05,954 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-14 16:21:05,955 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-14 16:23:03,023 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\ff5f91cf4f9e4d728614c642611998e8.json
+2026-10-14 16:23:03,023 [INFO] Camera 1: 321 khung phân tích, 146.2 ms/khung
+2026-10-14 16:52:40,552 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-14 16:52:49,423 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-14 16:52:49,425 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-14 16:53:54,687 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\5b6a2c7f783f44ccbfd30d8fb7fe8002.json
+2026-10-14 16:53:54,690 [INFO] Camera 1: 94 khung phân tích, 125.4 ms/khung
+2026-10-14 16:54:07,104 [INFO] Processing audio with duration 00:04.000
+2026-10-14 16:54:07,800 [INFO] VAD filter removed 00:01.744 of audio
+2026-10-14 16:54:08,523 [INFO] Processing audio with duration 00:04.000
+2026-10-14 16:54:08,531 [INFO] VAD filter removed 00:04.000 of audio
+2026-10-14 16:54:08,611 [INFO] Processing audio with duration 00:02.005
+2026-10-14 16:54:08,619 [INFO] VAD filter removed 00:00.000 of audio
+2026-10-14 16:54:12,141 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\4d054b6734f94346af641ced06c0492a.json
+2026-10-14 16:54:12,141 [INFO] tạo_vide_chúc_mừng_sinh_nhật_v: 53 khung phân tích, 128.0 ms/khung
+2026-10-14 16:55:08,040 [WARNING] Camera 1 | Ảnh thủ công | sự kiện cae72108c6b54f3586240438a856eeb2
+2026-10-14 16:59:28,819 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\9c6ef3efc7f14e779b3100dbfc2b7301.json
+2026-10-14 16:59:28,821 [INFO] Camera 1: 1064 khung phân tích, 235.0 ms/khung
+2026-10-14 21:21:06,229 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-14 21:21:40,603 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-14 21:21:40,605 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-14 21:29:25,647 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\c16a8d36e97140039e6046024a757d38.json
+2026-10-14 21:29:25,656 [INFO] Camera 1: 1699 khung phân tích, 245.9 ms/khung
+2026-10-14 22:35:14,951 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-14 22:36:15,201 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-14 22:36:15,202 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-14 22:49:39,577 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\4ae135131dad475bacd32099e9c1222b.json
+2026-10-14 22:49:39,588 [INFO] Camera 1: 269 khung phân tích, 166.0 ms/khung
+2026-10-15 17:04:43,538 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-15 17:30:26,339 [INFO] Trang phản hồi sẵn sàng tại http://127.0.0.1:8765
+2026-10-15 17:30:33,694 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-15 17:30:46,476 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-15 17:30:46,477 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-15 17:31:48,389 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\6df598c358c84844aaaa32ef2aadbbae.json
+2026-10-15 17:31:48,389 [INFO] check9: 48 khung phân tích, 139.4 ms/khung
+2026-10-15 17:33:02,393 [WARNING] check9 | Nghi có xô xát – cần người đến kiểm tra | sự kiện 9eb502600bd8433fb8d0f72bd158740d
+2026-10-15 17:33:03,112 [INFO] Đã gửi Discord cho sự kiện 9eb502600bd8433fb8d0f72bd158740d
+2026-10-15 17:33:04,667 [INFO] Đã gửi Telegram cho sự kiện 9eb502600bd8433fb8d0f72bd158740d
+2026-10-15 17:33:32,500 [WARNING] check9 | Nghi có xô xát – cần người đến kiểm tra | sự kiện e6ec7bde0b6e4c4596f5864c2dfa6904
+2026-10-15 17:33:33,390 [INFO] Đã gửi Telegram cho sự kiện e6ec7bde0b6e4c4596f5864c2dfa6904
+2026-10-15 17:33:33,450 [INFO] Đã gửi Discord cho sự kiện e6ec7bde0b6e4c4596f5864c2dfa6904
+2026-10-15 17:35:02,181 [WARNING] check9 | Nghi có xô xát – cần người đến kiểm tra | sự kiện 563b63d9af874c4eba9ea805b350543b
+2026-10-15 17:35:02,735 [INFO] Đã gửi Discord cho sự kiện 563b63d9af874c4eba9ea805b350543b
+2026-10-15 17:35:03,179 [INFO] Đã gửi Telegram cho sự kiện 563b63d9af874c4eba9ea805b350543b
+2026-10-15 17:35:15,438 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\156b84e8638e48ec964e7dab3fc714ec.json
+2026-10-15 17:35:15,439 [INFO] check9: 708 khung phân tích, 185.5 ms/khung
+2026-10-15 17:39:30,154 [INFO] Trang phản hồi sẵn sàng tại http://127.0.0.1:8765
+2026-10-15 17:39:39,516 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-15 17:39:54,418 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-15 17:39:54,419 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-15 17:55:26,985 [INFO] Trang phản hồi sẵn sàng tại http://127.0.0.1:8765
+2026-10-15 17:55:32,752 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-15 17:56:37,600 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-15 17:56:37,600 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-15 18:02:53,149 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\b367b0181ea24b91865857e8825e8ab2.json
+2026-10-15 18:02:53,150 [INFO] check7: 226 khung phân tích, 159.1 ms/khung
+2026-10-15 18:04:45,846 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\477a0d307a0e480d8d76fd2de393e870.json
+2026-10-15 18:04:45,847 [INFO] check8: 523 khung phân tích, 160.2 ms/khung
+2026-10-15 18:04:51,100 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\af2abb2c2b004f90a4cb290e262c8c0a.json
+2026-10-15 18:04:51,101 [INFO] check8: 10 khung phân tích, 162.7 ms/khung
+2026-10-15 18:05:17,542 [WARNING] check9 | Nghi có xô xát – cần người đến kiểm tra | sự kiện 6afe5fc6d3594a6cba8fd07981502af8
+2026-10-15 18:05:19,481 [INFO] Đã gửi Discord cho sự kiện 6afe5fc6d3594a6cba8fd07981502af8
+2026-10-15 18:05:19,978 [INFO] Đã gửi Telegram cho sự kiện 6afe5fc6d3594a6cba8fd07981502af8
+2026-10-15 18:05:47,494 [WARNING] check9 | Nghi có xô xát – cần người đến kiểm tra | sự kiện 680ef27e5adf4b968f926fb50137dd1c
+2026-10-15 18:05:48,025 [INFO] Đã gửi Discord cho sự kiện 680ef27e5adf4b968f926fb50137dd1c
+2026-10-15 18:05:48,178 [INFO] Đã gửi Telegram cho sự kiện 680ef27e5adf4b968f926fb50137dd1c
+2026-10-15 18:07:31,779 [WARNING] check9 | Nghi có xô xát – cần người đến kiểm tra | sự kiện ed0b090267c44207b38f7a10b4478512
+2026-10-15 18:07:32,402 [INFO] Đã gửi Discord cho sự kiện ed0b090267c44207b38f7a10b4478512
+2026-10-15 18:07:33,779 [INFO] Đã gửi Telegram cho sự kiện ed0b090267c44207b38f7a10b4478512
+2026-10-15 18:07:40,095 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\bbb61fbe404b494aa86600f728f67a48.json
+2026-10-15 18:07:40,096 [INFO] check9: 779 khung phân tích, 172.4 ms/khung
+2026-10-15 18:17:00,755 [INFO] Trang phản hồi sẵn sàng tại http://127.0.0.1:8765
+2026-10-15 18:17:15,932 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-15 18:18:06,493 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-15 18:18:06,494 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-15 18:21:58,675 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\687aa44b9b0a486da25920870b3366b5.json
+2026-10-15 18:21:58,676 [INFO] Camera 1: 0 khung phân tích, 0.0 ms/khung
+2026-10-15 18:22:18,789 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\e1d6719bda0748099c616fd4cb3c3b83.json
+2026-10-15 18:22:18,790 [INFO] check7: 45 khung phân tích, 142.6 ms/khung
+2026-10-15 18:22:28,207 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\1a07ece47ccf4eeba46ec8ca8884397d.json
+2026-10-15 18:22:28,207 [INFO] check5: 29 khung phân tích, 117.9 ms/khung
+2026-10-15 18:22:33,680 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\e416b05f69744a04a4ac47760c1789f5.json
+2026-10-15 18:22:33,680 [INFO] check1: 12 khung phân tích, 134.0 ms/khung
+2026-10-15 18:22:57,096 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\052fbd7f50044ae496d74b1e8346f72e.json
+2026-10-15 18:22:57,096 [INFO] check4: 76 khung phân tích, 147.1 ms/khung
+2026-10-15 18:23:54,086 [WARNING] check9 | Nghi có xô xát – cần người đến kiểm tra | sự kiện d10a3baface1440a96aa68b3bff7d6ab
+2026-10-15 18:23:57,060 [INFO] Đã gửi Discord cho sự kiện d10a3baface1440a96aa68b3bff7d6ab
+2026-10-15 18:23:58,703 [INFO] Đã gửi Telegram cho sự kiện d10a3baface1440a96aa68b3bff7d6ab
+2026-10-15 18:24:03,764 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\3e89d0d736ec4be9ba11f35bd749b8b1.json
+2026-10-15 18:24:03,764 [INFO] check9: 226 khung phân tích, 273.0 ms/khung
+2026-10-15 20:54:20,516 [INFO] Trang phản hồi sẵn sàng tại http://127.0.0.1:8765
+2026-10-15 20:54:35,573 [INFO] Mô hình violence_resnet18_database_20261011_745106d3.pt:745106d3faca sẵn sàng (resnet)
+2026-10-15 20:54:55,855 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-15 20:54:55,856 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-15 21:46:22,746 [INFO] Trang phản hồi sẵn sàng tại http://127.0.0.1:8765
+2026-10-15 21:46:28,605 [INFO] Mô hình violence_precision_20261015.pt:9a5f3db7d9b1 sẵn sàng (resnet)
+2026-10-15 21:46:57,952 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-15 21:46:57,953 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-15 21:50:28,693 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\396adede36e64b0db56b9451951c7c93.json
+2026-10-15 21:50:28,696 [INFO] check8: 637 khung phân tích, 268.4 ms/khung
+2026-10-15 21:50:34,986 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\d7a91f7f70ce4caca12ea96caef0bbdf.json
+2026-10-15 21:50:34,986 [INFO] check8: 9 khung phân tích, 140.7 ms/khung
+2026-10-15 21:53:25,502 [WARNING] check9 | Nghi có xô xát – cần người đến kiểm tra | sự kiện bbe8100867504bb1afff1e0323d57fe8
+2026-10-15 21:53:26,916 [INFO] Đã gửi Discord cho sự kiện bbe8100867504bb1afff1e0323d57fe8
+2026-10-15 21:53:27,988 [INFO] Đã gửi Telegram cho sự kiện bbe8100867504bb1afff1e0323d57fe8
+2026-10-15 21:53:28,059 [INFO] Đã gửi Discord cho sự kiện bbe8100867504bb1afff1e0323d57fe8
+2026-10-15 21:53:31,041 [INFO] Đã gửi Telegram cho sự kiện bbe8100867504bb1afff1e0323d57fe8
+2026-10-15 21:53:33,080 [WARNING] check9 | Người nằm sàn kéo dài · cần hỗ trợ khẩn | sự kiện 5af355f4366f453cad5af28b8e121115
+2026-10-15 21:53:33,918 [INFO] Đã gửi Discord cho sự kiện 5af355f4366f453cad5af28b8e121115
+2026-10-15 21:53:34,328 [INFO] Đã gửi Telegram cho sự kiện 5af355f4366f453cad5af28b8e121115
+2026-10-15 21:53:35,555 [INFO] Đã gửi Discord cho sự kiện 5af355f4366f453cad5af28b8e121115
+2026-10-15 21:53:36,191 [INFO] Đã gửi Telegram cho sự kiện 5af355f4366f453cad5af28b8e121115
+2026-10-15 21:53:55,884 [WARNING] check9 | Nghi có xô xát – cần người đến kiểm tra | sự kiện c1348dcaedc54e48acc52f7799bd82c3
+2026-10-15 21:53:56,543 [INFO] Đã gửi Discord cho sự kiện c1348dcaedc54e48acc52f7799bd82c3
+2026-10-15 21:53:56,992 [INFO] Đã gửi Telegram cho sự kiện c1348dcaedc54e48acc52f7799bd82c3
+2026-10-15 21:53:58,676 [INFO] Đã gửi Telegram cho sự kiện c1348dcaedc54e48acc52f7799bd82c3
+2026-10-15 21:53:58,935 [INFO] Đã gửi Discord cho sự kiện c1348dcaedc54e48acc52f7799bd82c3
+2026-10-15 21:54:03,178 [WARNING] check9 | Người nằm sàn kéo dài · cần hỗ trợ khẩn | sự kiện 65eb780700f34a4ab93146abcbac4c7a
+2026-10-15 21:54:03,741 [INFO] Đã gửi Discord cho sự kiện 65eb780700f34a4ab93146abcbac4c7a
+2026-10-15 21:54:04,293 [INFO] Đã gửi Telegram cho sự kiện 65eb780700f34a4ab93146abcbac4c7a
+2026-10-15 21:54:05,656 [INFO] Đã gửi Discord cho sự kiện 65eb780700f34a4ab93146abcbac4c7a
+2026-10-15 21:54:05,957 [INFO] Đã gửi Telegram cho sự kiện 65eb780700f34a4ab93146abcbac4c7a
+2026-10-15 21:54:24,818 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\d6c5a085ece1413c9d007b168dbaa5bd.json
+2026-10-15 21:54:24,819 [INFO] check9: 308 khung phân tích, 241.9 ms/khung
+2026-10-15 22:17:33,552 [INFO] Trang phản hồi sẵn sàng tại http://127.0.0.1:8765
+2026-10-15 22:17:41,126 [INFO] Mô hình violence_precision_20261015.pt:9a5f3db7d9b1 sẵn sàng (resnet)
+2026-10-15 22:18:13,346 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-15 22:18:13,348 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-15 22:18:49,212 [INFO] Đã gửi Discord cho sự kiện bbe8100867504bb1afff1e0323d57fe8
+2026-10-15 22:18:49,918 [INFO] Đã gửi Discord cho sự kiện 5af355f4366f453cad5af28b8e121115
+2026-10-15 22:18:50,478 [INFO] Đã gửi Discord cho sự kiện c1348dcaedc54e48acc52f7799bd82c3
+2026-10-15 22:18:51,087 [INFO] Đã gửi Telegram cho sự kiện bbe8100867504bb1afff1e0323d57fe8
+2026-10-15 22:18:51,254 [INFO] Đã gửi Discord cho sự kiện 65eb780700f34a4ab93146abcbac4c7a
+2026-10-15 22:18:51,582 [INFO] Đã gửi Telegram cho sự kiện 5af355f4366f453cad5af28b8e121115
+2026-10-15 22:18:52,094 [INFO] Đã gửi Telegram cho sự kiện c1348dcaedc54e48acc52f7799bd82c3
+2026-10-15 22:18:53,610 [INFO] Đã gửi Telegram cho sự kiện 65eb780700f34a4ab93146abcbac4c7a
+2026-10-15 22:18:53,615 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\16ea96618779402d9eea558258b15d97.json
+2026-10-15 22:18:53,616 [INFO] Camera 1: 6 khung phân tích, 140.5 ms/khung
+2026-10-15 22:19:06,095 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\bc45f1ea9df74aa0853cd72cfbcffee0.json
+2026-10-15 22:19:06,095 [INFO] Camera 1: 13 khung phân tích, 145.2 ms/khung
+2026-10-15 22:19:49,980 [INFO] Đã gửi Discord cho sự kiện bbe8100867504bb1afff1e0323d57fe8
+2026-10-15 22:19:50,387 [INFO] Đã gửi Telegram cho sự kiện bbe8100867504bb1afff1e0323d57fe8
+2026-10-15 22:19:50,637 [INFO] Đã gửi Discord cho sự kiện 5af355f4366f453cad5af28b8e121115
+2026-10-15 22:19:50,825 [INFO] Đã gửi Telegram cho sự kiện 5af355f4366f453cad5af28b8e121115
+2026-10-15 22:19:51,064 [INFO] Đã gửi Discord cho sự kiện c1348dcaedc54e48acc52f7799bd82c3
+2026-10-15 22:19:51,262 [INFO] Đã gửi Telegram cho sự kiện c1348dcaedc54e48acc52f7799bd82c3
+2026-10-15 22:19:51,727 [INFO] Đã gửi Discord cho sự kiện 65eb780700f34a4ab93146abcbac4c7a
+2026-10-15 22:19:51,754 [INFO] Đã gửi Telegram cho sự kiện 65eb780700f34a4ab93146abcbac4c7a
+2026-10-15 22:19:52,727 [WARNING] check9 | Nghi có xô xát – cần người đến kiểm tra | sự kiện 927427fa712f42a6a6b9da98499995de
+2026-10-15 22:19:53,615 [INFO] Đã gửi Discord cho sự kiện 927427fa712f42a6a6b9da98499995de
+2026-10-15 22:19:53,776 [INFO] Đã gửi Telegram cho sự kiện 927427fa712f42a6a6b9da98499995de
+2026-10-15 22:19:55,138 [INFO] Đã gửi Discord cho sự kiện 927427fa712f42a6a6b9da98499995de
+2026-10-15 22:19:55,695 [INFO] Đã gửi Telegram cho sự kiện 927427fa712f42a6a6b9da98499995de
+2026-10-15 22:20:22,551 [WARNING] check9 | Nghi có xô xát – cần người đến kiểm tra | sự kiện 0e9adfb9c30f41bc88241a8f5f63acfc
+2026-10-15 22:20:23,043 [INFO] Đã gửi Discord cho sự kiện 0e9adfb9c30f41bc88241a8f5f63acfc
+2026-10-15 22:20:23,044 [INFO] Đã gửi Telegram cho sự kiện 0e9adfb9c30f41bc88241a8f5f63acfc
+2026-10-15 22:20:25,077 [INFO] Đã gửi Discord cho sự kiện 0e9adfb9c30f41bc88241a8f5f63acfc
+2026-10-15 22:20:26,206 [INFO] Đã gửi Telegram cho sự kiện 0e9adfb9c30f41bc88241a8f5f63acfc
+2026-10-15 22:20:47,584 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\1d188844b75c4581a860578c6f2859d5.json
+2026-10-15 22:20:47,584 [INFO] check9: 305 khung phân tích, 233.5 ms/khung
+2026-10-15 22:20:53,119 [INFO] Đã gửi Discord cho sự kiện bbe8100867504bb1afff1e0323d57fe8
+2026-10-15 22:20:53,372 [INFO] Đã gửi Telegram cho sự kiện bbe8100867504bb1afff1e0323d57fe8
+2026-10-15 22:20:53,543 [INFO] Đã gửi Discord cho sự kiện 5af355f4366f453cad5af28b8e121115
+2026-10-15 22:20:53,871 [INFO] Đã gửi Telegram cho sự kiện 5af355f4366f453cad5af28b8e121115
+2026-10-15 22:20:54,099 [INFO] Đã gửi Discord cho sự kiện c1348dcaedc54e48acc52f7799bd82c3
+2026-10-15 22:20:54,354 [INFO] Đã gửi Telegram cho sự kiện c1348dcaedc54e48acc52f7799bd82c3
+2026-10-15 22:20:54,785 [INFO] Đã gửi Telegram cho sự kiện 65eb780700f34a4ab93146abcbac4c7a
+2026-10-15 22:20:54,786 [INFO] Đã gửi Discord cho sự kiện 65eb780700f34a4ab93146abcbac4c7a
+2026-10-15 22:20:55,285 [INFO] Đã gửi Telegram cho sự kiện 927427fa712f42a6a6b9da98499995de
+2026-10-15 22:20:55,489 [INFO] Đã gửi Discord cho sự kiện 927427fa712f42a6a6b9da98499995de
+2026-10-15 22:20:55,499 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\b47abc103adc4cfcbf29ff890ddefa37.json
+2026-10-15 22:20:55,501 [INFO] check9: 17 khung phân tích, 190.3 ms/khung
+2026-10-16 05:19:08,747 [INFO] Trang phản hồi sẵn sàng tại http://127.0.0.1:8765
+2026-10-16 05:19:35,446 [INFO] Mô hình violence_precision_20261015.pt:9a5f3db7d9b1 sẵn sàng (resnet)
+2026-10-16 05:20:24,950 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-16 05:20:24,950 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-16 05:23:03,010 [WARNING] check9 | Nghi có xô xát - cần người đến kiểm tra | sự kiện e7fd1986cf114b2cb32ce6f8df961574
+2026-10-16 05:23:04,885 [INFO] Đã gửi Discord cho sự kiện e7fd1986cf114b2cb32ce6f8df961574
+2026-10-16 05:23:06,702 [INFO] Đã gửi Discord cho sự kiện e7fd1986cf114b2cb32ce6f8df961574
+2026-10-16 05:23:06,958 [INFO] Đã gửi Telegram cho sự kiện e7fd1986cf114b2cb32ce6f8df961574
+2026-10-16 05:23:09,889 [INFO] Đã gửi Telegram cho sự kiện e7fd1986cf114b2cb32ce6f8df961574
+2026-10-16 05:23:33,360 [WARNING] check9 | Nghi có xô xát - cần người đến kiểm tra | sự kiện 0b1ada54e2564a149e4becea4dc6d0ec
+2026-10-16 05:23:34,176 [INFO] Đã gửi Discord cho sự kiện 0b1ada54e2564a149e4becea4dc6d0ec
+2026-10-16 05:23:34,560 [INFO] Đã gửi Telegram cho sự kiện 0b1ada54e2564a149e4becea4dc6d0ec
+2026-10-16 05:23:35,775 [INFO] Đã gửi Discord cho sự kiện 0b1ada54e2564a149e4becea4dc6d0ec
+2026-10-16 05:23:36,944 [INFO] Đã gửi Telegram cho sự kiện 0b1ada54e2564a149e4becea4dc6d0ec
+2026-10-16 05:23:36,949 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\8c8c00d9b8c34f5488b23697a0811c1e.json
+2026-10-16 05:23:36,949 [INFO] check9: 262 khung phân tích, 157.7 ms/khung
+2026-10-16 16:33:13,238 [INFO] Trang phản hồi sẵn sàng tại http://127.0.0.1:8765
+2026-10-16 16:33:22,538 [INFO] Mô hình violence_precision_20261015.pt:9a5f3db7d9b1 sẵn sàng (resnet)
+2026-10-16 16:33:43,909 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-16 16:33:43,910 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-16 16:34:21,461 [WARNING] check9 | Nghi có xô xát - cần người đến kiểm tra | sự kiện b4a66b7fdac44f55848a74235206c130
+2026-10-16 16:34:22,402 [INFO] Đã gửi Discord cho sự kiện b4a66b7fdac44f55848a74235206c130
+2026-10-16 16:34:23,626 [INFO] Đã gửi Telegram cho sự kiện b4a66b7fdac44f55848a74235206c130
+2026-10-16 16:34:23,759 [INFO] Đã gửi Discord cho sự kiện b4a66b7fdac44f55848a74235206c130
+2026-10-16 16:34:25,000 [INFO] Đã gửi Telegram cho sự kiện b4a66b7fdac44f55848a74235206c130
+2026-10-16 16:34:52,172 [WARNING] check9 | Nghi có xô xát - cần người đến kiểm tra | sự kiện 1521b97d984d4795b14069f1a5679aa3
+2026-10-16 16:34:52,716 [INFO] Đã gửi Telegram cho sự kiện 1521b97d984d4795b14069f1a5679aa3
+2026-10-16 16:34:52,723 [INFO] Đã gửi Discord cho sự kiện 1521b97d984d4795b14069f1a5679aa3
+2026-10-16 16:34:54,672 [INFO] Đã gửi Discord cho sự kiện 1521b97d984d4795b14069f1a5679aa3
+2026-10-16 16:34:55,342 [INFO] Đã gửi Telegram cho sự kiện 1521b97d984d4795b14069f1a5679aa3
+2026-10-16 16:36:32,472 [WARNING] check9 | Nghi có xô xát - cần người đến kiểm tra | sự kiện 75b7925689104d73b28ce7cefcce6eef
+2026-10-16 16:36:33,127 [INFO] Đã gửi Discord cho sự kiện 75b7925689104d73b28ce7cefcce6eef
+2026-10-16 16:36:33,399 [INFO] Đã gửi Telegram cho sự kiện 75b7925689104d73b28ce7cefcce6eef
+2026-10-16 16:36:35,019 [INFO] Đã gửi Discord cho sự kiện 75b7925689104d73b28ce7cefcce6eef
+2026-10-16 16:36:35,755 [INFO] Đã gửi Telegram cho sự kiện 75b7925689104d73b28ce7cefcce6eef
+2026-10-16 16:36:43,821 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\42960ac702134099bca4873872e7794a.json
+2026-10-16 16:36:43,822 [INFO] check9: 662 khung phân tích, 222.5 ms/khung
+2026-10-16 16:37:50,998 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\bf41d1d74b60417d9364991e3e24fd5b.json
+2026-10-16 16:37:51,008 [INFO] check9: 203 khung phân tích, 195.0 ms/khung
+2026-10-16 16:38:48,289 [WARNING] check9 | Nghi có xô xát - cần người đến kiểm tra | sự kiện 3d7f2a83b8e54975aa889de6ceaadbbe
+2026-10-16 16:38:48,988 [INFO] Đã gửi Discord cho sự kiện 3d7f2a83b8e54975aa889de6ceaadbbe
+2026-10-16 16:38:49,634 [INFO] Đã gửi Telegram cho sự kiện 3d7f2a83b8e54975aa889de6ceaadbbe
+2026-10-16 16:38:50,387 [INFO] Đã gửi Discord cho sự kiện 3d7f2a83b8e54975aa889de6ceaadbbe
+2026-10-16 16:38:51,022 [INFO] Đã gửi Telegram cho sự kiện 3d7f2a83b8e54975aa889de6ceaadbbe
+2026-10-16 16:40:44,130 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\f0e164177b79478f81b9aeb5bcbea07e.json
+2026-10-16 16:40:44,130 [INFO] check9: 561 khung phân tích, 281.2 ms/khung
+2026-10-16 18:18:00,807 [INFO] Trang phản hồi sẵn sàng tại http://127.0.0.1:8765
+2026-10-16 18:18:08,530 [INFO] Mô hình violence_precision_20261015.pt:9a5f3db7d9b1 sẵn sàng (resnet)
+2026-10-16 18:18:19,441 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-16 18:18:19,443 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-16 18:18:46,255 [WARNING] check9 | Nghi có xô xát - cần người đến kiểm tra | sự kiện 120a78f480c249a2a705136d287bbb2a
+2026-10-16 18:18:47,223 [INFO] Đã gửi Discord cho sự kiện 120a78f480c249a2a705136d287bbb2a
+2026-10-16 18:18:47,822 [INFO] Đã gửi Telegram cho sự kiện 120a78f480c249a2a705136d287bbb2a
+2026-10-16 18:18:48,914 [INFO] Đã gửi Discord cho sự kiện 120a78f480c249a2a705136d287bbb2a
+2026-10-16 18:18:49,318 [INFO] Đã gửi Telegram cho sự kiện 120a78f480c249a2a705136d287bbb2a
+2026-10-16 18:19:16,312 [WARNING] check9 | Nghi có xô xát - cần người đến kiểm tra | sự kiện a000aa944c9c412aa76a8c769aef0484
+2026-10-16 18:19:17,275 [INFO] Đã gửi Discord cho sự kiện a000aa944c9c412aa76a8c769aef0484
+2026-10-16 18:19:17,450 [INFO] Đã gửi Telegram cho sự kiện a000aa944c9c412aa76a8c769aef0484
+2026-10-16 18:19:18,945 [INFO] Đã gửi Discord cho sự kiện a000aa944c9c412aa76a8c769aef0484
+2026-10-16 18:19:19,750 [INFO] Đã gửi Telegram cho sự kiện a000aa944c9c412aa76a8c769aef0484
+2026-10-16 18:20:48,947 [WARNING] check9 | Nghi có xô xát - cần người đến kiểm tra | sự kiện fef15264ebb146b2ad7c12395650f371
+2026-10-16 18:20:49,520 [INFO] Đã gửi Discord cho sự kiện fef15264ebb146b2ad7c12395650f371
+2026-10-16 18:20:50,025 [INFO] Đã gửi Telegram cho sự kiện fef15264ebb146b2ad7c12395650f371
+2026-10-16 18:20:51,295 [INFO] Đã gửi Discord cho sự kiện fef15264ebb146b2ad7c12395650f371
+2026-10-16 18:20:51,690 [INFO] Đã gửi Telegram cho sự kiện fef15264ebb146b2ad7c12395650f371
+2026-10-16 18:21:03,823 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\6a27c09c428742b6ba912591cf89c781.json
+2026-10-16 18:21:03,824 [INFO] check9: 747 khung phân tích, 167.3 ms/khung
+2026-10-16 18:48:09,730 [INFO] Trang phản hồi sẵn sàng tại http://127.0.0.1:8765
+2026-10-16 18:48:18,249 [INFO] Mô hình violence_precision_20261015.pt:9a5f3db7d9b1 sẵn sàng (resnet)
+2026-10-16 18:48:41,456 [INFO] Fingerprint not found. Saved model loading will continue.
+2026-10-16 18:48:41,458 [INFO] path_and_singleprint metric could not be logged. Saved model loading will continue.
+2026-10-16 18:50:08,705 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\22c34050d12f4fc3914e47a750e2be0f.json
+2026-10-16 18:50:08,706 [INFO] check9: 20 khung phân tích, 231.2 ms/khung
+2026-10-16 18:50:23,062 [WARNING] check10 | Nghi có xô xát - cần người đến kiểm tra | sự kiện 49335dd9ef92442c883c9c6c275a44b5
+2026-10-16 18:50:23,949 [INFO] Đã gửi Discord cho sự kiện 49335dd9ef92442c883c9c6c275a44b5
+2026-10-16 18:50:25,616 [INFO] Đã gửi Discord cho sự kiện 49335dd9ef92442c883c9c6c275a44b5
+2026-10-16 18:50:27,351 [INFO] Đã gửi Telegram cho sự kiện 49335dd9ef92442c883c9c6c275a44b5
+2026-10-16 18:50:30,120 [INFO] Đã gửi Telegram cho sự kiện 49335dd9ef92442c883c9c6c275a44b5
+2026-10-16 18:50:30,128 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\b97d8c2609f14b79ada27c9295217749.json
+2026-10-16 18:50:30,129 [INFO] check10: 85 khung phân tích, 179.6 ms/khung
+2026-10-16 18:50:47,189 [WARNING] check6 | Nghi có xô xát - cần người đến kiểm tra | sự kiện 55a50547487c4af6985ac39a74fc3978
+2026-10-16 18:50:47,791 [INFO] Đã gửi Discord cho sự kiện 55a50547487c4af6985ac39a74fc3978
+2026-10-16 18:50:49,363 [INFO] Đã gửi Telegram cho sự kiện 55a50547487c4af6985ac39a74fc3978
+2026-10-16 18:50:49,983 [INFO] Đã gửi Discord cho sự kiện 55a50547487c4af6985ac39a74fc3978
+2026-10-16 18:50:51,870 [INFO] Đã gửi Telegram cho sự kiện 55a50547487c4af6985ac39a74fc3978
+2026-10-16 18:50:52,614 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\3fa1779fd3fb4dc0a03dfdb158d7a1ff.json
+2026-10-16 18:50:52,615 [INFO] check6: 35 khung phân tích, 245.6 ms/khung
+2026-10-16 18:58:29,150 [WARNING] check8 | Ảnh thủ công | sự kiện 8b99ab8c402648d2a2fdfa4d27d116fa
+2026-10-16 19:03:09,084 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\7ba822b33a3d4ceb9c0de9731c27e9bf.json
+2026-10-16 19:03:09,087 [INFO] check8: 406 khung phân tích, 208.1 ms/khung
+2026-10-16 21:33:11,964 [INFO] Trang phản hồi sẵn sàng tại http://127.0.0.1:8765
+2026-10-16 21:33:19,176 [INFO] Mô hình violence_precision_20261015.pt:9a5f3db7d9b1 sẵn sàng (resnet)
+2026-10-16 21:33:38,693 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\bf0cb9ee1adc4576a1dbdf508a8897f1.json
+2026-10-16 21:33:38,694 [INFO] check7: 53 khung phân tích, 143.9 ms/khung
+2026-10-17 08:12:14,411 [INFO] Trang phản hồi sẵn sàng tại http://127.0.0.1:8765
+2026-10-17 08:12:46,129 [INFO] Mô hình violence_precision_20261015.pt:9a5f3db7d9b1 sẵn sàng (resnet)
+2026-10-17 08:15:03,408 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\0db8b9d615e54f5d83e841d8773fa96c.json
+2026-10-17 08:15:03,421 [INFO] Camera 1: 184 khung phân tích, 122.2 ms/khung
+2026-10-17 08:15:37,390 [WARNING] check9 | Nghi có xô xát - cần người đến kiểm tra | sự kiện 89d42aaeb18f4c6389c6ef444b195bcd
+2026-10-17 08:15:40,001 [INFO] Đã gửi Discord cho sự kiện 89d42aaeb18f4c6389c6ef444b195bcd
+2026-10-17 08:15:40,458 [INFO] Đã gửi Telegram cho sự kiện 89d42aaeb18f4c6389c6ef444b195bcd
+2026-10-17 08:15:43,675 [INFO] Đã gửi Discord cho sự kiện 89d42aaeb18f4c6389c6ef444b195bcd
+2026-10-17 08:15:44,432 [INFO] Đã gửi Telegram cho sự kiện 89d42aaeb18f4c6389c6ef444b195bcd
+2026-10-17 08:16:17,034 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\41ecb9dd0a6e488bb3a5ed593e41eaaa.json
+2026-10-17 08:16:17,034 [INFO] Camera 1: 215 khung phân tích, 302.8 ms/khung
+2026-10-17 08:16:17,034 [INFO] check9: 219 khung phân tích, 294.0 ms/khung
+2026-10-17 08:16:33,296 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\80353fcbd1e6495bbc91d365ef3de4f2.json
+2026-10-17 08:16:33,297 [INFO] check9: 39 khung phân tích, 165.8 ms/khung
+2026-10-17 10:03:54,553 [INFO] Trang phản hồi sẵn sàng tại http://127.0.0.1:8765
+2026-10-17 10:04:06,905 [INFO] Mô hình violence_precision_20261015.pt:9a5f3db7d9b1 sẵn sàng (resnet)
+2026-10-17 10:06:27,535 [INFO] Mô hình violence_precision_20261015.pt:9a5f3db7d9b1 sẵn sàng (resnet)
+2026-10-17 11:05:39,470 [INFO] Trang phản hồi sẵn sàng tại http://127.0.0.1:8765
+2026-10-17 11:05:47,899 [INFO] Mô hình violence_fresh_development_20261017.pt:a39c9d2ceaaa sẵn sàng (resnet)
+2026-10-17 11:05:50,673 [INFO] Trang phản hồi sẵn sàng tại http://127.0.0.1:8765
+2026-10-17 11:05:53,882 [INFO] Mô hình violence_fresh_development_20261017.pt:a39c9d2ceaaa sẵn sàng (resnet)
+2026-10-17 11:06:19,855 [INFO] Mô hình violence_fresh_development_20261017.pt:a39c9d2ceaaa sẵn sàng (resnet)
+2026-10-17 11:55:59,900 [INFO] Trang phản hồi sẵn sàng tại http://127.0.0.1:8765
+2026-10-17 11:56:08,886 [INFO] Mô hình violence_fresh_development_20261017.pt:a39c9d2ceaaa sẵn sàng (resnet)
+2026-10-17 11:56:26,676 [INFO] Trang phản hồi sẵn sàng tại http://127.0.0.1:8765
+2026-10-17 11:56:29,984 [INFO] Mô hình violence_fresh_development_20261017.pt:a39c9d2ceaaa sẵn sàng (resnet)
+2026-10-17 11:58:48,855 [INFO] Mô hình violence_fresh_development_20261017.pt:a39c9d2ceaaa sẵn sàng (resnet)
+2026-10-17 12:07:07,399 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\9bb9c9dc9d014e7cb501cfa9dc3cbcde.json
+2026-10-17 12:07:07,399 [INFO] check9: 23 khung phân tích, 157.0 ms/khung
+2026-10-17 12:07:17,429 [INFO] Mô hình violence_fresh_development_20261017.pt:a39c9d2ceaaa sẵn sàng (resnet)
+2026-10-17 12:10:54,637 [WARNING] check9 | Nghi có xô xát - cần người đến kiểm tra | sự kiện 04e23b52bbfb4389a5e4a50b70de409a
+2026-10-17 12:10:56,564 [INFO] Đã gửi Discord cho sự kiện 04e23b52bbfb4389a5e4a50b70de409a
+2026-10-17 12:10:57,052 [INFO] Đã gửi Telegram cho sự kiện 04e23b52bbfb4389a5e4a50b70de409a
+2026-10-17 12:10:57,939 [INFO] Đã gửi Discord cho sự kiện 04e23b52bbfb4389a5e4a50b70de409a
+2026-10-17 12:10:58,920 [INFO] Đã gửi Telegram cho sự kiện 04e23b52bbfb4389a5e4a50b70de409a
+2026-10-17 12:11:24,669 [WARNING] check9 | Nghi có xô xát - cần người đến kiểm tra | sự kiện b8f1814215fa4fe7b9eca9d38ffb487e
+2026-10-17 12:11:25,425 [INFO] Đã gửi Discord cho sự kiện b8f1814215fa4fe7b9eca9d38ffb487e
+2026-10-17 12:11:25,602 [INFO] Đã gửi Telegram cho sự kiện b8f1814215fa4fe7b9eca9d38ffb487e
+2026-10-17 12:11:26,822 [INFO] Đã gửi Discord cho sự kiện b8f1814215fa4fe7b9eca9d38ffb487e
+2026-10-17 12:11:27,334 [INFO] Đã gửi Telegram cho sự kiện b8f1814215fa4fe7b9eca9d38ffb487e
+2026-10-17 12:40:55,243 [INFO] Đã lưu báo cáo phiên: E:\.gemini\antigravity\scratch\violence_detection\schoolguard_data\sessions\0c610ea725f64528967eaff2d9d14ed8.json
+2026-10-17 12:40:55,246 [INFO] check9: 270 khung phân tích, 178.0 ms/khung

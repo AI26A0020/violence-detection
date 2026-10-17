@@ -1,0 +1,412 @@
+{
+  "file": "V_112.mp4",
+  "created": "2026-10-11T15:54:08+07:00",
+  "model": "violence_resnet18.pt:ac3caed23fa7",
+  "duration_seconds": 4.4,
+  "visual_mean": 0.9998325299132954,
+  "visual_peak": 1.0,
+  "audio_note": "Âm thanh và video đã ghép theo cửa sổ thời gian",
+  "audio_windows": [
+    {
+      "start": 0.021,
+      "end": 4.021,
+      "visual": 0.9999530017375946,
+      "distress": 0.2489698090621279,
+      "laughter": 0.24153548495744115,
+      "other": 0.5094947059804307,
+      "words": [],
+      "note": "Âm thanh cùng cửa sổ video; ASR chưa khả dụng: No module named 'faster_whisper'",
+      "decision": {
+        "label": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+        "risk": "review",
+        "corroborated": false
+      }
+    },
+    {
+      "start": 4.021,
+      "end": 4.409,
+      "visual": 0.9999998807907104,
+      "distress": 0.21799775382590175,
+      "laughter": 0.13528071728493768,
+      "other": 0.6467215288891605,
+      "words": [],
+      "note": "Âm thanh cùng cửa sổ video; ASR chưa khả dụng: No module named 'faster_whisper'",
+      "decision": {
+        "label": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+        "risk": "review",
+        "corroborated": false
+      }
+    }
+  ],
+  "timeline": [
+    {
+      "second": 0.0,
+      "visual": 0.9972557425498962,
+      "smooth": 0.9972557425498962,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa thấy đủ hai người để xác minh tương tác"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 0.2,
+      "visual": 0.9990774393081665,
+      "smooth": 0.9979844212532043,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa thấy đủ hai người để xác minh tương tác"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 0.4,
+      "visual": 0.9999896287918091,
+      "smooth": 0.9987865042686462,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa thấy đủ hai người để xác minh tương tác"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 0.601,
+      "visual": 0.9999990463256836,
+      "smooth": 0.9992715210914611,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa thấy đủ hai người để xác minh tương tác"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 0.801,
+      "visual": 1.0,
+      "smooth": 0.9995629126548766,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa thấy đủ hai người để xác minh tương tác"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 1.001,
+      "visual": 0.9999995231628418,
+      "smooth": 0.9997375568580626,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa thấy đủ hai người để xác minh tương tác"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 1.201,
+      "visual": 0.9999997615814209,
+      "smooth": 0.999842438747406,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa thấy đủ hai người để xác minh tương tác"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 1.401,
+      "visual": 0.9999998807907104,
+      "smooth": 0.9999054155647278,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 0,
+        "pairs": [],
+        "reason": "Chưa thấy đủ hai người để xác minh tương tác"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 1.602,
+      "visual": 1.0,
+      "smooth": 0.9999432493388367,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 0,
+        "pairs": [],
+        "reason": "Chưa thấy đủ hai người để xác minh tương tác"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 1.802,
+      "visual": 1.0,
+      "smooth": 0.999965949603302,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa thấy đủ hai người để xác minh tương tác"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 2.002,
+      "visual": 1.0,
+      "smooth": 0.9999795697619812,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa thấy đủ hai người để xác minh tương tác"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 2.202,
+      "visual": 1.0,
+      "smooth": 0.9999877418571887,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 2,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 2.402,
+      "visual": 0.9999995231628418,
+      "smooth": 0.9999924543794501,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 2,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 2.603,
+      "visual": 0.9999990463256836,
+      "smooth": 0.9999950911579435,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa thấy đủ hai người để xác minh tương tác"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 2.803,
+      "visual": 0.9999996423721313,
+      "smooth": 0.9999969116436186,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa thấy đủ hai người để xác minh tương tác"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 3.003,
+      "visual": 0.9999980926513672,
+      "smooth": 0.999997384046718,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 3,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 3.203,
+      "visual": 0.9999996423721313,
+      "smooth": 0.9999982873768833,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 2,
+        "pairs": [],
+        "reason": "Chưa có tương tác gần giữa các người"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 3.403,
+      "visual": 0.9999997615814209,
+      "smooth": 0.9999988770586984,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa thấy đủ hai người để xác minh tương tác"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 3.604,
+      "visual": 1.0,
+      "smooth": 0.999999326235219,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 1,
+        "pairs": [],
+        "reason": "Chưa thấy đủ hai người để xác minh tương tác"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 3.804,
+      "visual": 0.9999990463256836,
+      "smooth": 0.9999992142714048,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 2,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 4.004,
+      "visual": 1.0,
+      "smooth": 0.9999995285628429,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 0,
+        "confirmed_since": null,
+        "observed_people": 0,
+        "pairs": [],
+        "reason": "Chưa thấy đủ hai người để xác minh tương tác"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    },
+    {
+      "second": 4.204,
+      "visual": 0.9999998807907104,
+      "smooth": 0.9999996694539899,
+      "interaction": {
+        "supported": false,
+        "passing": false,
+        "contact_pairs": 1,
+        "confirmed_since": null,
+        "observed_people": 2,
+        "pairs": [],
+        "reason": "Người ở gần nhau; chưa đủ diễn biến tay/chân hoặc giằng co"
+      },
+      "automatic_alert": false,
+      "status": "AI nghi ngờ · thiếu bằng chứng tương tác"
+    }
+  ],
+  "automatic_alerts": [],
+  "person_model": "models/yolov8n-pose.pt",
+  "distress_peak": 0.2489698090621279,
+  "laughter_peak": 0.24153548495744115,
+  "speech": "Whisper + từ khóa; tín hiệu tham khảo, không phải bộ phân loại cầu cứu đã huấn luyện",
+  "cancelled": false,
+  "note": "Nhãn âm thanh không chứng minh ý định hay hành vi. Cần người xác minh bạo lực/nô đùa.",
+  "visual_signal": {
+    "label": "Hình ảnh nguy cơ cao · cần xác minh",
+    "risk": "high",
+    "corroborated": false
+  },
+  "decision": {
+    "label": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+    "risk": "review",
+    "corroborated": false
+  }
+}

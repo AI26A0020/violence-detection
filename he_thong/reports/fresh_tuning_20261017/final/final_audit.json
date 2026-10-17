@@ -1,0 +1,202 @@
+{
+  "version": "2.2.6",
+  "created": "2026-10-17T11:02:16+07:00",
+  "all_sources_preserved": true,
+  "decoded_native_frames": 4771,
+  "source_duration_seconds": 178.89404324852515,
+  "fresh_inference_clips": 25,
+  "exported_full_frame_videos": 25,
+  "errors": 0,
+  "baseline": {
+    "TP": 2,
+    "TN": 19,
+    "FP": 1,
+    "FN": 3,
+    "matched_clips": 21,
+    "total": 25,
+    "label_agreement": 0.84
+  },
+  "final": {
+    "TP": 5,
+    "TN": 20,
+    "FP": 0,
+    "FN": 0,
+    "matched_clips": 25,
+    "total": 25,
+    "label_agreement": 1.0
+  },
+  "excluding_disputed_label": {
+    "TP": 5,
+    "TN": 19,
+    "FP": 0,
+    "FN": 0,
+    "matched_clips": 24,
+    "total": 24,
+    "label_agreement": 1.0
+  },
+  "annotation_status": "provisional source labels; source tool self-stated human verification is not evidence of review",
+  "disputed_label": {
+    "file": "20_fall_floor_tripping.mp4",
+    "supplied_label": false,
+    "visual_review": "Directed kick into a person followed by falling in a film scene; conflicts with the tripping description",
+    "human_review_pending": true,
+    "trained_on": false,
+    "final_alert": false,
+    "interpretation": "Agreement with supplied label is not verified correctness; possible missed actual violence"
+  },
+  "human_review_pending": true,
+  "independent_final_test": false,
+  "universal_100_percent_achieved": false,
+  "training_scope": "Frozen backbone and temporal head; adapted final image linear layer on 24 supplied clips. All 25 used for selection. Old heads/observations consumed for regression selection.",
+  "inference_inputs": "Frame pixels, frame timestamps for causal timing, per-camera visual/pose state. No file identity, source ID, labels or hash input to predictions.",
+  "historical_replay": {
+    "reference_intervals": {
+      "TP": 6,
+      "TN": 12,
+      "FP": 0,
+      "FN": 3
+    },
+    "regression24": {
+      "TP": 3,
+      "TN": 13,
+      "FP": 1,
+      "FN": 7
+    },
+    "development61": {
+      "TP": 9,
+      "TN": 30,
+      "FP": 3,
+      "FN": 19
+    },
+    "lost_previous_tp": [],
+    "new_false_positive_cases": [],
+    "scope": "Frozen observed poses, recomputed visual scores, integrated InteractionVerifier and AlertGate; not a fresh pose-detection run; sets may overlap"
+  },
+  "software_tests": 369,
+  "additional_integrity_tests": 14,
+  "self_test": "PASS",
+  "gui_smoke": "PASS",
+  "external_notifications_sent": false,
+  "runtime_signature": {
+    "code": {
+      "main2.py": "3e84244e0d61fa36e3b20c7840bfc4876e078d0795e470578addd35e098a89cd",
+      "short_contact.py": "044eaba690ab37f7d7d6189d10eaaa309f830411e5f75824635ce4718a8c5ef4",
+      "confidence_head.py": "e405aa77cf506f6ed6784c188a83cf73dceec84e8c84e9f23a5233bffeb1b202",
+      "school_policy.py": "48ee8c2543c74b572f41367030c11197ccfcaaea9a99c6b483a2f2c167ef89c2",
+      "temporal_visual.py": "b20eb8b1e19a95439a4b32b39780d57eea9cfd95fb02f3635713f02153871317",
+      "action_runtime.py": "93719638d3a85ac0d3d7ae049fe66eba4fe7bfc9e516727a2a825e56f9a3e36e"
+    },
+    "models": {
+      "models/violence_fresh_development_20261017.pt": "a39c9d2ceaaae3dfd495ccf374308bd42d736d48a07d47f66062ccf6dff333a4",
+      "models/yolov8s-pose.pt": "234314cd8baf62616791aceb9ea6ad5c19f26cf6c0d8f3a1bfce1e23b186cfb3"
+    },
+    "config": {
+      "model": {
+        "backend": "resnet",
+        "path": "models/violence_fresh_development_20261017.pt",
+        "keras_path": "model_gop.h5",
+        "input_size": 160,
+        "sequence_length": 10,
+        "feature_weights": "",
+        "device": "cpu",
+        "threads": 2,
+        "video_context_enabled": false,
+        "video_context_kind": "r3d",
+        "video_context_backbone": "models/r3d_18_kinetics400.pt",
+        "video_context_head": "models/action_recall_public_20261016.pt"
+      },
+      "person": {
+        "enabled": true,
+        "path": "models/yolov8s-pose.pt",
+        "confidence": 0.2,
+        "imgsz": 640,
+        "body_occlusion": true,
+        "min_body_confidence": 0.1,
+        "enhanced": false
+      },
+      "detection": {
+        "threshold": 0.75,
+        "interaction_threshold": 0.5,
+        "release_threshold": 0.35,
+        "sustain_seconds": 0.6,
+        "max_gap_seconds": 0.25,
+        "release_seconds": 1.5,
+        "cooldown_seconds": 30,
+        "analysis_fps": 5,
+        "require_interaction": true,
+        "motion_threshold": 2.8,
+        "short_kicks_enabled": true,
+        "short_punches_enabled": true
+      },
+      "school_policy": {
+        "mode": "standard",
+        "default_mode": "strict",
+        "periods": [
+          {
+            "start": "06:45",
+            "end": "09:00",
+            "mode": "strict",
+            "patrol": false
+          },
+          {
+            "start": "09:00",
+            "end": "09:20",
+            "mode": "anti_false",
+            "patrol": true
+          },
+          {
+            "start": "09:20",
+            "end": "11:30",
+            "mode": "strict",
+            "patrol": false
+          },
+          {
+            "start": "13:00",
+            "end": "15:00",
+            "mode": "strict",
+            "patrol": false
+          },
+          {
+            "start": "15:00",
+            "end": "15:20",
+            "mode": "anti_false",
+            "patrol": true
+          },
+          {
+            "start": "15:20",
+            "end": "23:59",
+            "mode": "strict",
+            "patrol": false
+          }
+        ],
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "anti_false_seconds": 3.0,
+        "gather_seconds": 15.0,
+        "fall_seconds": 5.0,
+        "occlusion_seconds": 8.0,
+        "patrol_times": [
+          "17:00"
+        ],
+        "patrol_enabled": false,
+        "camera_health": true,
+        "health_seconds": 5.0
+      }
+    }
+  },
+  "browser_verification": {
+    "url": "http://127.0.0.1:8768/index.html",
+    "loaded_videos": 25,
+    "seekable_videos": 25,
+    "media_errors": 0,
+    "video22_seek_and_play_verified": true,
+    "screenshot": "browser_verification.png",
+    "screenshot_sha256": "78d86b2047ccda0c808c246039c0380caccb0554a1d9b1ba4d18e6eb44f0f3a8"
+  }
+}

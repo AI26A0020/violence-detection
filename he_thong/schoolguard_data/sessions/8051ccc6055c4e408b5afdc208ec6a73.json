@@ -1,0 +1,31 @@
+{
+  "started": "2026-10-13T05:21:32+07:00",
+  "ended": "2026-10-13T05:21:34+07:00",
+  "model": "violence_resnet18_database_20261011_745106d3.pt:745106d3faca",
+  "notification_delivery": {
+    "Discord": {
+      "delivered": 0,
+      "failed": 0,
+      "dropped": 0,
+      "max_queue_delay_ms": 0.0,
+      "last_delivery_ms": null
+    },
+    "Telegram": {
+      "delivered": 0,
+      "failed": 0,
+      "dropped": 0,
+      "max_queue_delay_ms": 0.0,
+      "last_delivery_ms": null
+    }
+  },
+  "cameras": [
+    {
+      "camera": "hockey_fi37_xvid",
+      "analyzed_frames": 9,
+      "skipped_frames": 29,
+      "visual_peak": 0.9695727825164795,
+      "average_latency_ms": 130.2,
+      "error": ""
+    }
+  ]
+}

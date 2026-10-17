@@ -1,0 +1,13 @@
+# SchoolGuard 2.2.6 - runtime and offline video evaluation
+numpy==2.4.6
+opencv-python==5.0.0.93
+Pillow==12.3.0
+torch==2.14.0
+torchvision==0.29.0
+ultralytics==8.4.151
+requests==2.34.2
+PyYAML==6.0.3
+joblib==1.6.0
+scikit-learn==1.7.2
+scipy==1.17.1
+av==18.1.0

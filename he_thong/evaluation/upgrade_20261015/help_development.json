@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\0JSSDL6J_cs_help.mp4",
+      "sha256": "0dabce96b627c825d453f4f28768a29c9edc145e37e8e5419d4118052e31bc45",
+      "source_group": "YouTube:0JSSDL6J_cs",
+      "source_action": "assisting_fall",
+      "source_url": "https://www.youtube.com/watch?v=0JSSDL6J_cs",
+      "label": 0,
+      "origin": "new_public",
+      "training_split": "train",
+      "split": "development",
+      "trim_start": 30,
+      "trim_end": 100,
+      "annotation": "First aid demonstration; requires visual review, human review pending"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\upgrade_20261015\\development\\WJQsybXANJU_help.mp4",
+      "sha256": "cf54f8e2eed9b2e34cd5b1e6801d9686e1d0fd568c66e6e02261faf49bc0b9fa",
+      "source_group": "YouTube:WJQsybXANJU",
+      "source_action": "assisting_fall",
+      "source_url": "https://www.youtube.com/watch?v=WJQsybXANJU",
+      "label": 0,
+      "origin": "new_public",
+      "training_split": "validation",
+      "split": "development",
+      "trim_start": 30,
+      "trim_end": 100,
+      "annotation": "First aid demonstration; requires visual review, human review pending"
+    }
+  ]
+}

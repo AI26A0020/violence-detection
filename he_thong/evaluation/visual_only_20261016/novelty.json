@@ -1,0 +1,165 @@
+{
+  "records": [
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\MxSOc1Qsijw_reviewed.mp4",
+      "source_group": "YouTube:MxSOc1Qsijw",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\nLVymEFKVqs_reviewed.mp4",
+      "source_group": "YouTube:nLVymEFKVqs",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\7PjBS2AjM7o_reviewed.mp4",
+      "source_group": "YouTube:7PjBS2AjM7o",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\sbXy2vkJxSk_reviewed.mp4",
+      "source_group": "YouTube:sbXy2vkJxSk",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\t_jFu99fC6o_reviewed.mp4",
+      "source_group": "YouTube:t_jFu99fC6o",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\airtlab_violent_83.mp4",
+      "source_group": "AIRTLab:violent:scene83",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\airtlab_violent_84.mp4",
+      "source_group": "AIRTLab:violent:scene84",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\airtlab_violent_85.mp4",
+      "source_group": "AIRTLab:violent:scene85",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\airtlab_violent_86.mp4",
+      "source_group": "AIRTLab:violent:scene86",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\airtlab_violent_87.mp4",
+      "source_group": "AIRTLab:violent:scene87",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\airtlab_violent_88.mp4",
+      "source_group": "AIRTLab:violent:scene88",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\airtlab_violent_89.mp4",
+      "source_group": "AIRTLab:violent:scene89",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\airtlab_violent_90.mp4",
+      "source_group": "AIRTLab:violent:scene90",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\hmdb_Wendy_playing_wii_fit_with_clapping_hands_clap_f_cm_np1_le_med_0.avi",
+      "source_group": "HMDB51:Wendy_playing_wii_fit_with",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\7IoWMJpKUoQ_reviewed.mp4",
+      "source_group": "YouTube:7IoWMJpKUoQ",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\QXJsX7T8fYM_reviewed.mp4",
+      "source_group": "YouTube:QXJsX7T8fYM",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\hmdb_8yroldBasketballhighlight2006_shoot_ball_f_cm_np1_le_med_0.avi",
+      "source_group": "HMDB51:8yroldBasketballhighlight2006",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\hmdb_BRIAN_CLOUGH_-_ON_THE_TRAINING_GROUND_kick_ball_f_cm_np1_ri_med_0.avi",
+      "source_group": "HMDB51:BRIAN_CLOUGH_-_ON_THE_TRAINING_GROUND",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\hmdb_Basic_Basketball_Moves_dribble_f_cm_np1_ba_goo_4.avi",
+      "source_group": "HMDB51:Basic_Basketball_Moves",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\hmdb_Basketball_Training-_Amazing_3_ball_and_4_ball_dribbling_dribble_f_cm_np1_fr_bad_1.avi",
+      "source_group": "HMDB51:Basketball_Training-_Amazing_3_ball_and_4_ball_dribbling",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\hmdb_Epee_Fencing_Attacks_-_Remises_fencing_f_nm_np2_le_bad_2.avi",
+      "source_group": "HMDB51:Epee_Fencing_Attacks_-_Remises",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\hmdb_SarahPlayingBasketBall_shoot_ball_f_cm_np1_le_med_0.avi",
+      "source_group": "HMDB51:SarahPlayingBasketBall",
+      "exact_match": false,
+      "source_group_match": false,
+      "potential_near_matches": []
+    }
+  ],
+  "historical_manifests": 133,
+  "historical_hashes": 8950,
+  "historical_groups": 12425,
+  "sampled_historical_media": 7340,
+  "internal_potential_duplicates": [],
+  "method": "Original and cut SHA256; declared scene/source/canonical film groups;8 temporal pHash probes Hamming<=4 with>=2matching probes flags historical or internal derivatives. Current sources excluded from historical inventory.",
+  "limitations": "Prior media without cached pHashes are guarded by exact hash/source identity only. Sampled frames cannot prove absence of every derivative or unknown pretraining exposure."
+}

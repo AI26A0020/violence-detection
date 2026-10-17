@@ -1,0 +1,232 @@
+{
+  "videos": 25,
+  "processed": 25,
+  "report_folder": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020",
+  "results": [
+    {
+      "video": "01_play_goofing_hallway.mp4",
+      "decision": "Chưa đủ bằng chứng xô xát",
+      "risk": "low",
+      "visual_peak": 0.11899242997169496,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\01_play_goofing_hallway_a93278a7.json",
+      "error": ""
+    },
+    {
+      "video": "02_play_school_fooling.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 0.9891715049743652,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\02_play_school_fooling_e169946e.json",
+      "error": ""
+    },
+    {
+      "video": "03_play_hallway_shenanigans.mp4",
+      "decision": "Chưa đủ bằng chứng xô xát",
+      "risk": "low",
+      "visual_peak": 0.12398581246547984,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\03_play_hallway_shenanigans_02144d2d.json",
+      "error": ""
+    },
+    {
+      "video": "04_play_prank_hallway.mp4",
+      "decision": "Chưa đủ bằng chứng xô xát",
+      "risk": "review",
+      "visual_peak": 0.4154075115919113,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\04_play_prank_hallway_62ff12da.json",
+      "error": ""
+    },
+    {
+      "video": "05_play_hug_greeting.mp4",
+      "decision": "Chưa đủ bằng chứng xô xát",
+      "risk": "review",
+      "visual_peak": 0.3692013680934906,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\05_play_hug_greeting_b1eff5a3.json",
+      "error": ""
+    },
+    {
+      "video": "06_sports_basketball_training.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 0.9665658891201019,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\06_sports_basketball_training_22e81de2.json",
+      "error": ""
+    },
+    {
+      "video": "07_sports_basketball_dunks.mp4",
+      "decision": "Chưa đủ bằng chứng xô xát",
+      "risk": "low",
+      "visual_peak": 0.2288056389661506,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\07_sports_basketball_dunks_0fa36077.json",
+      "error": ""
+    },
+    {
+      "video": "08_sports_soccer_passing.mp4",
+      "decision": "Chưa đủ bằng chứng xô xát",
+      "risk": "low",
+      "visual_peak": 0.0414669787041579,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\08_sports_soccer_passing_91cfc557.json",
+      "error": ""
+    },
+    {
+      "video": "09_sports_shoot_ball.mp4",
+      "decision": "Chưa đủ bằng chứng xô xát",
+      "risk": "review",
+      "visual_peak": 0.3557102620601654,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\09_sports_shoot_ball_2d1997b7.json",
+      "error": ""
+    },
+    {
+      "video": "10_sports_dribble_practice.mp4",
+      "decision": "Chưa đủ bằng chứng xô xát",
+      "risk": "low",
+      "visual_peak": 0.07747486980563437,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\10_sports_dribble_practice_23d02b14.json",
+      "error": ""
+    },
+    {
+      "video": "11_crowd_hallway_passing.mp4",
+      "decision": "Chưa đủ bằng chứng xô xát",
+      "risk": "low",
+      "visual_peak": 0.32400250881910325,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\11_crowd_hallway_passing_3d36ce17.json",
+      "error": ""
+    },
+    {
+      "video": "12_crowd_medium_busy.mp4",
+      "decision": "Chưa đủ bằng chứng xô xát",
+      "risk": "low",
+      "visual_peak": 0.30114671189189723,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\12_crowd_medium_busy_c4a1215f.json",
+      "error": ""
+    },
+    {
+      "video": "13_crowd_rushing_class.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 0.9283842623233796,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\13_crowd_rushing_class_e49cd46d.json",
+      "error": ""
+    },
+    {
+      "video": "14_crowd_dense_walkway.mp4",
+      "decision": "Chưa đủ bằng chứng xô xát",
+      "risk": "low",
+      "visual_peak": 0.1039115109680381,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\14_crowd_dense_walkway_b61762dc.json",
+      "error": ""
+    },
+    {
+      "video": "15_crowd_pedestrian_rush.mp4",
+      "decision": "Chưa đủ bằng chứng xô xát",
+      "risk": "low",
+      "visual_peak": 0.275695888698101,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\15_crowd_pedestrian_rush_d74474cf.json",
+      "error": ""
+    },
+    {
+      "video": "16_fall_sportsmanship_help.mp4",
+      "decision": "Chưa đủ bằng chứng xô xát",
+      "risk": "low",
+      "visual_peak": 0.17580881256573236,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\16_fall_sportsmanship_help_2b8f8254.json",
+      "error": ""
+    },
+    {
+      "video": "17_fall_steven_adams_help.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 0.9208873867988586,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\17_fall_steven_adams_help_cb35999f.json",
+      "error": ""
+    },
+    {
+      "video": "18_fall_catch_and_assist.mp4",
+      "decision": "Chưa đủ bằng chứng xô xát",
+      "risk": "review",
+      "visual_peak": 0.38467822670936586,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\18_fall_catch_and_assist_9501e681.json",
+      "error": ""
+    },
+    {
+      "video": "19_fall_floor_slip_recovery.mp4",
+      "decision": "Chưa đủ bằng chứng xô xát",
+      "risk": "low",
+      "visual_peak": 0.12741458583623172,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\19_fall_floor_slip_recovery_212233f9.json",
+      "error": ""
+    },
+    {
+      "video": "20_fall_floor_tripping.mp4",
+      "decision": "AI nghi ngờ · chưa đủ bằng chứng tương tác để báo động",
+      "risk": "review",
+      "visual_peak": 0.902578341960907,
+      "automatic_alerts": 0,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\20_fall_floor_tripping_d105ddbf.json",
+      "error": ""
+    },
+    {
+      "video": "21_fight_school_hallway.mp4",
+      "decision": "Nghi có xô xát - cần người đến kiểm tra",
+      "risk": "high",
+      "visual_peak": 0.994914585351944,
+      "automatic_alerts": 1,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\21_fight_school_hallway_0d4bc647.json",
+      "error": ""
+    },
+    {
+      "video": "22_fight_airtlab_cam1_102.mp4",
+      "decision": "Nghi có xô xát - cần người đến kiểm tra",
+      "risk": "high",
+      "visual_peak": 0.8907365512019169,
+      "automatic_alerts": 1,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\22_fight_airtlab_cam1_102_5d903501.json",
+      "error": ""
+    },
+    {
+      "video": "23_fight_airtlab_cam1_103.mp4",
+      "decision": "Nghi có xô xát - cần người đến kiểm tra",
+      "risk": "high",
+      "visual_peak": 0.983073914051056,
+      "automatic_alerts": 1,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\23_fight_airtlab_cam1_103_aa326847.json",
+      "error": ""
+    },
+    {
+      "video": "24_fight_airtlab_cam1_104.mp4",
+      "decision": "Nghi có xô xát - cần người đến kiểm tra",
+      "risk": "high",
+      "visual_peak": 0.9724874734878541,
+      "automatic_alerts": 1,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\24_fight_airtlab_cam1_104_06a5b05d.json",
+      "error": ""
+    },
+    {
+      "video": "25_fight_airtlab_cam1_106.mp4",
+      "decision": "Nghi có xô xát - cần người đến kiểm tra",
+      "risk": "high",
+      "visual_peak": 0.9889266788959503,
+      "automatic_alerts": 1,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_65b55d4794b9496fa34165cb9de13020\\25_fight_airtlab_cam1_106_f478365d.json",
+      "error": ""
+    }
+  ]
+}

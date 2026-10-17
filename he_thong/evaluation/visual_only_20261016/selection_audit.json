@@ -1,0 +1,31 @@
+{
+  "selected": 22,
+  "category_counts": {
+    "crowd": 2,
+    "fall": 3,
+    "fight": 8,
+    "play": 3,
+    "sports": 6
+  },
+  "rejected": [
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\visual_only_20261016\\clips\\hmdb_Hand_Clapping_Game__Bim_Bum__clap_f_nm_np2_fr_med_0.avi",
+      "source_group": "HMDB51:Hand_Clapping_Game__Bim_Bum_",
+      "reason": "Same performers/clothes/room/source family as selected YouTube Slide lesson; retain longer explicit reciprocal game and exclude this related short source before inference."
+    }
+  ],
+  "failed_sources": [
+    {
+      "source_group": "YouTube:uqfNX9URQos",
+      "kind": "youtube",
+      "category": "crowd",
+      "label": false,
+      "source_url": "https://www.youtube.com/watch?v=uqfNX9URQos",
+      "filename": "uqfNX9URQos.mp4",
+      "id": "uqfNX9URQos"
+    }
+  ],
+  "no_model_inference": true,
+  "human_review_pending": true,
+  "missing_positive_strata": []
+}

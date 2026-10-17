@@ -1,0 +1,6 @@
+{
+  "source": "https://github.com/ultralytics/assets/releases/download/v8.3.0/yolov8s-pose.pt",
+  "sha256": "234314cd8baf62616791aceb9ea6ad5c19f26cf6c0d8f3a1bfce1e23b186cfb3",
+  "bytes": 23513657,
+  "purpose": "COCO pretrained person/pose candidates for development occlusion checks; not trained on school incidents"
+}

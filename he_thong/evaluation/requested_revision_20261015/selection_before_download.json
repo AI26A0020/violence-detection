@@ -1,0 +1,138 @@
+{
+  "created_at": "2026-10-15T15:29:57.489169+00:00",
+  "seed": 202610150731,
+  "no_model_inference": true,
+  "exposure_inventory_sha256": "4d26c4f3f1dff4386df7511d088423d61539a43af768aadbe07e709dcecd3de2",
+  "records": [
+    {
+      "source_action": "punch",
+      "source_group": "HMDB51:TrumanShow",
+      "archive_member": "punch/TrumanShow_punch_u_cm_np1_ba_bad_30.avi"
+    },
+    {
+      "source_action": "punch",
+      "source_group": "HMDB51:PracticingBoxingonaDoubleEndBag-LeadRightwithaHook",
+      "archive_member": "punch/PracticingBoxingonaDoubleEndBag-LeadRightwithaHook_punch_u_nm_np1_fr_med_3.avi"
+    },
+    {
+      "source_action": "punch",
+      "source_group": "HMDB51:BoxingTipsHowtoMakeKnucklesStronger",
+      "archive_member": "punch/BoxingTipsHowtoMakeKnucklesStronger_punch_u_cm_np1_ri_goo_4.avi"
+    },
+    {
+      "source_action": "punch",
+      "source_group": "HMDB51:HARD_FACE_SLAP_COMPILATION",
+      "archive_member": "punch/HARD_FACE_SLAP_COMPILATION_punch_u_cm_np1_ri_bad_2.avi"
+    },
+    {
+      "source_action": "punch",
+      "source_group": "HMDB51:The_Departed_-_Part_1",
+      "archive_member": "punch/The_Departed_-_Part_1_punch_h_cm_np1_fr_bad_3.avi"
+    },
+    {
+      "source_action": "punch",
+      "source_group": "HMDB51:The_Matrix_Revolutions_6",
+      "archive_member": "punch/The_Matrix_Revolutions_6_punch_u_nm_np2_ri_med_1.avi"
+    },
+    {
+      "source_action": "kick",
+      "source_group": "HMDB51:Best_fight_scene_in_history_of_movie",
+      "archive_member": "kick/Best_fight_scene_in_history_of_movie_kick_f_cm_np2_ri_bad_0.avi"
+    },
+    {
+      "source_action": "kick",
+      "source_group": "HMDB51:kick__Best_CHUCK_NORRIS",
+      "archive_member": "kick/kick__Best_CHUCK_NORRIS_kick_to_the_nuts!_kick_f_cm_np1_ba_goo_0.avi"
+    },
+    {
+      "source_action": "kick",
+      "source_group": "HMDB51:kick__Bruce_Lee_sidekick",
+      "archive_member": "kick/kick__Bruce_Lee_sidekick_kick_f_nm_np1_ri_med_0.avi"
+    },
+    {
+      "source_action": "kick",
+      "source_group": "HMDB51:RushHour2",
+      "archive_member": "kick/RushHour2_kick_l_cm_np1_le_med_2.avi"
+    },
+    {
+      "source_action": "kick",
+      "source_group": "HMDB51:50_FIRST_DATES",
+      "archive_member": "kick/50_FIRST_DATES_kick_f_cm_np1_ba_med_19.avi"
+    },
+    {
+      "source_action": "kick",
+      "source_group": "HMDB51:CharlieAndTheChocolateFactory",
+      "archive_member": "kick/CharlieAndTheChocolateFactory_kick_f_nm_np1_ri_med_19.avi"
+    },
+    {
+      "source_action": "hug",
+      "source_group": "HMDB51:Crazy_Fan!_Michael_Jackson_in_M_nchen",
+      "archive_member": "hug/Crazy_Fan!_Michael_Jackson_in_M_nchen_hug_f_cm_np2_ba_bad_2.avi"
+    },
+    {
+      "source_action": "hug",
+      "source_group": "HMDB51:A_Beautiful_Mind_3",
+      "archive_member": "hug/A_Beautiful_Mind_3_hug_u_cm_np2_ba_med_2.avi"
+    },
+    {
+      "source_action": "hug",
+      "source_group": "HMDB51:CSU_Cesar_Chavez_Day_Celebration_and_Award_Ceremony_2009_Part_7",
+      "archive_member": "hug/CSU_Cesar_Chavez_Day_Celebration_and_Award_Ceremony_2009_Part_7_hug_u_cm_np2_le_med_8.avi"
+    },
+    {
+      "source_action": "hug",
+      "source_group": "HMDB51:Cox_umarmt_JD!",
+      "archive_member": "hug/Cox_umarmt_JD!_hug_u_cm_np2_ba_med_0.avi"
+    },
+    {
+      "source_action": "hug",
+      "source_group": "HMDB51:Jay_Leno_-_17_years_of_Mel_Gibson_on_the_Tonight_Show",
+      "archive_member": "hug/Jay_Leno_-_17_years_of_Mel_Gibson_on_the_Tonight_Show_hug_u_cm_np2_le_med_1.avi"
+    },
+    {
+      "source_action": "hug",
+      "source_group": "HMDB51:Awards_Ceremony",
+      "archive_member": "hug/Awards_Ceremony_hug_u_cm_np2_le_med_0.avi"
+    },
+    {
+      "source_action": "shoot_ball",
+      "source_group": "HMDB51:ImprovingBasketballSkills-BasketballTurnaroundFadeAway",
+      "archive_member": "shoot_ball/ImprovingBasketballSkills-BasketballTurnaroundFadeAway_shoot_ball_f_nm_np1_ri_med_0.avi"
+    },
+    {
+      "source_action": "shoot_ball",
+      "source_group": "HMDB51:LearnToShootFromTheMaster",
+      "archive_member": "shoot_ball/LearnToShootFromTheMaster_shoot_ball_f_nm_np1_ba_med_4.avi"
+    },
+    {
+      "source_action": "dribble",
+      "source_group": "HMDB51:BasketballProdigy",
+      "archive_member": "dribble/BasketballProdigy_dribble_f_nm_np1_ri_med_0.avi"
+    },
+    {
+      "source_action": "dribble",
+      "source_group": "HMDB51:Explosive_Guard_Dribbling_Basketball_Workout_(Jason_Otter)",
+      "archive_member": "dribble/Explosive_Guard_Dribbling_Basketball_Workout_(Jason_Otter)_dribble_f_cm_np1_fr_med_0.avi"
+    },
+    {
+      "source_action": "kick_ball",
+      "source_group": "HMDB51:Dhan_Dhana_Dhan_Goal_(2007)_w__Eng_Sub_-_Watch_Online_-_3_16",
+      "archive_member": "kick_ball/Dhan_Dhana_Dhan_Goal_(2007)_w__Eng_Sub_-_Watch_Online_-_3_16_kick_ball_f_cm_np1_le_med_2.avi"
+    },
+    {
+      "source_action": "kick_ball",
+      "source_group": "HMDB51:metacafe_coolsoccer",
+      "archive_member": "kick_ball/metacafe_coolsoccer_kick_ball_u_cm_np1_ba_bad_9.avi"
+    },
+    {
+      "source_action": "fencing",
+      "source_group": "HMDB51:The_Avengers__Ralph_Fiennes_",
+      "archive_member": "fencing/The_Avengers__Ralph_Fiennes__fencing_scene_fencing_u_cm_np2_fr_med_2.avi"
+    },
+    {
+      "source_action": "fencing",
+      "source_group": "HMDB51:Hamlet_(1996)_Fencing_Scenes",
+      "archive_member": "fencing/Hamlet_(1996)_Fencing_Scenes_fencing_u_cm_np2_ri_med_4.avi"
+    }
+  ]
+}

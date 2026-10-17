@@ -1,0 +1,44 @@
+{
+  "selected": 25,
+  "rejected": [
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\requested_revision_20261015\\clips\\01_TrumanShow_punch_u_cm_np1_ba_bad_30.avi",
+      "reason": "Close-up review confirms this person punches a wall; no human target. Excluded rather than source-action relabelled as a fight."
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\requested_revision_20261015\\clips\\06_The_Matrix_Revolutions_6_punch_u_nm_np2_ri_med_1.avi",
+      "reason": "Matrix film-family already acquired historically; conservative source exclusion."
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\requested_revision_20261015\\clips\\09_kick__Bruce_Lee_sidekick_kick_f_nm_np1_ri_med_0.avi",
+      "reason": "Bruce Lee film footage may share original source with historical Bruce Lee vs Japanese clip."
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\requested_revision_20261015\\clips\\12_CharlieAndTheChocolateFactory_kick_f_nm_np1_ri_med_19.avi",
+      "reason": "Cut shows mostly talking and a kick without clear human target; insufficient fight evidence."
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\requested_revision_20261015\\clips\\19_ImprovingBasketballSkills-BasketballTurnaroundFadeAway_shoot_ball_f_nm_np1_ri_med_0.avi",
+      "reason": "Basketball tutorial belongs to same ImprovingBasketballSkills series as historical sources."
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\requested_revision_20261015\\clips\\25_The_Avengers__Ralph_Fiennes__fencing_scene_fencing_u_cm_np2_fr_med_2.avi",
+      "reason": "Movie fencing is ambiguous between scripted assault and sporting practice; exclude."
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\requested_revision_20261015\\clips\\26_Hamlet_(1996)_Fencing_Scenes_fencing_u_cm_np2_ri_med_4.avi",
+      "reason": "Theatrical fencing duel ambiguous as sports/assault without full dramatic context; exclude."
+    }
+  ],
+  "selection_before_inference": true,
+  "category_counts": {
+    "crowd": 2,
+    "fall": 2,
+    "fight": 7,
+    "play": 1,
+    "social_contact": 5,
+    "sports": 8
+  },
+  "staff_review_pending": true,
+  "no_model_inference": true
+}

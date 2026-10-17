@@ -1,0 +1,42 @@
+{
+  "records": [
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\mxzyquieTpQ_help.mp4",
+      "sha256": "39cb59c4ababf11bbb6d5704a541683711142684a682d0be650a407a4ecc5801",
+      "source_group": "YouTube:mxzyquieTpQ",
+      "source_url": "https://www.youtube.com/watch?v=mxzyquieTpQ",
+      "label": false,
+      "category": "fall",
+      "trim_start": 30,
+      "trim_end": 68,
+      "original_path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\help_mxzyquieTpQ.mp4",
+      "original_sha256": "e9d7695c600dac4f052c49ac2fac9e17b8bc2dfcfc5638eb0321fcafe4397b18",
+      "frames": 950,
+      "source_review": "Codex temporal montage: caregiver-assisted floor to chair transfer, no assault; human review pending",
+      "audio": "Video-only recoded from public HLS source; alerts are scored by the visual interaction pipeline.",
+      "duration_seconds": 38.0,
+      "fps": 25.0,
+      "timeline": "Rebuilt from zero at source rate; sequential decode, HLS PTS not reused"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\4egGPawVBFQ_help.mp4",
+      "sha256": "bb6bc6aa8a1ace7fbc98a935c8b38de6199c375a2939ebf9149c4528ea28fe60",
+      "source_group": "YouTube:4egGPawVBFQ",
+      "source_url": "https://www.youtube.com/watch?v=4egGPawVBFQ",
+      "label": false,
+      "category": "fall",
+      "trim_start": 30,
+      "trim_end": 68,
+      "original_path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\help_4egGPawVBFQ.mp4",
+      "original_sha256": "4e5840deccb2e4ce999fdaaa7b7b0ac40fced44f8fb777ec8c22face3968df1f",
+      "frames": 1140,
+      "source_review": "Codex temporal montage: caregiver-assisted floor to chair transfer, no assault; human review pending",
+      "audio": "Video-only recoded from public HLS source; alerts are scored by the visual interaction pipeline.",
+      "duration_seconds": 38.0,
+      "fps": 30.0,
+      "timeline": "Rebuilt from zero at source rate; sequential decode, HLS PTS not reused"
+    }
+  ],
+  "selected_before_inference": true,
+  "human_review_pending": true
+}

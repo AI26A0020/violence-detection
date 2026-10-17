@@ -1,0 +1,258 @@
+{
+  "seed": 20261015,
+  "selection_before_inference": true,
+  "dataset_home": "https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/",
+  "mirror": "https://huggingface.co/datasets/innat/HMDB51",
+  "records": [
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\01_punch_Two_Towers_6_punch_h_nm_np1_fr_med_10.avi",
+      "source_action": "punch",
+      "archive_member": "punch/Two_Towers_6_punch_h_nm_np1_fr_med_10.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:Two_Towers_6"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\02_punch_AdvancedBoxingTechniquesandExercises_punch_u_nm_np1_ri_med_9.avi",
+      "source_action": "punch",
+      "archive_member": "punch/AdvancedBoxingTechniquesandExercises_punch_u_nm_np1_ri_med_9.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:AdvancedBoxingTechniquesandExercises"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\03_punch_AdvancedBoxingTechniquesandExercises_punch_u_nm_np1_ri_med_6.avi",
+      "source_action": "punch",
+      "archive_member": "punch/AdvancedBoxingTechniquesandExercises_punch_u_nm_np1_ri_med_6.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:AdvancedBoxingTechniquesandExercises"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\04_punch_KUNG_FU_HUSTLE_punch_u_cm_np1_fr_med_14.avi",
+      "source_action": "punch",
+      "archive_member": "punch/KUNG_FU_HUSTLE_punch_u_cm_np1_fr_med_14.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:KUNG_FU_HUSTLE"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\05_punch_KUNG_FU_HUSTLE_punch_u_nm_np1_ri_med_51.avi",
+      "source_action": "punch",
+      "archive_member": "punch/KUNG_FU_HUSTLE_punch_u_nm_np1_ri_med_51.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:KUNG_FU_HUSTLE"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\06_kick_American_History_X_kick_l_cm_np1_le_med_33.avi",
+      "source_action": "kick",
+      "archive_member": "kick/American_History_X_kick_l_cm_np1_le_med_33.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:American_History_X"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\07_kick_KUNG_FU_HUSTLE_kick_f_cm_np1_fr_med_45.avi",
+      "source_action": "kick",
+      "archive_member": "kick/KUNG_FU_HUSTLE_kick_f_cm_np1_fr_med_45.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:KUNG_FU_HUSTLE"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\08_kick_KUNG_FU_HUSTLE_kick_f_cm_np1_fr_bad_9.avi",
+      "source_action": "kick",
+      "archive_member": "kick/KUNG_FU_HUSTLE_kick_f_cm_np1_fr_bad_9.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:KUNG_FU_HUSTLE"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\09_fall_floor_KUNG_FU_HUSTLE_fall_floor_f_nm_np1_ba_bad_23.avi",
+      "source_action": "fall_floor",
+      "archive_member": "fall_floor/KUNG_FU_HUSTLE_fall_floor_f_nm_np1_ba_bad_23.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:KUNG_FU_HUSTLE"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\10_fall_floor_Veoh_Alpha_Dog_1_fall_floor_f_cm_np1_fr_med_35.avi",
+      "source_action": "fall_floor",
+      "archive_member": "fall_floor/Veoh_Alpha_Dog_1_fall_floor_f_cm_np1_fr_med_35.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:Veoh_Alpha_Dog_1"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\11_fall_floor_THE_PROTECTOR_fall_floor_f_nm_np1_fr_med_61.avi",
+      "source_action": "fall_floor",
+      "archive_member": "fall_floor/THE_PROTECTOR_fall_floor_f_nm_np1_fr_med_61.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:THE_PROTECTOR"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\12_fall_floor_THE_PROTECTOR_fall_floor_f_nm_np1_ba_bad_65.avi",
+      "source_action": "fall_floor",
+      "archive_member": "fall_floor/THE_PROTECTOR_fall_floor_f_nm_np1_ba_bad_65.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:THE_PROTECTOR"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\13_hug_Free_Hugs_-_Gratis_umarmung_hug_u_cm_np2_le_med_14.avi",
+      "source_action": "hug",
+      "archive_member": "hug/Free_Hugs_-_Gratis_umarmung_hug_u_cm_np2_le_med_14.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:Free_Hugs_-_Gratis_umarmung"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\14_hug_Free_Hugs_-_Medellin_hug_f_cm_np2_ba_med_6.avi",
+      "source_action": "hug",
+      "archive_member": "hug/Free_Hugs_-_Medellin_hug_f_cm_np2_ba_med_6.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:Free_Hugs_-_Medellin"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\15_hug_Free_Hugs_-_Medellin_hug_f_cm_np2_le_med_11.avi",
+      "source_action": "hug",
+      "archive_member": "hug/Free_Hugs_-_Medellin_hug_f_cm_np2_le_med_11.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:Free_Hugs_-_Medellin"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\16_hug_Free_Hugs_-_Paris_www_calins-gratuits_com_hug_u_cm_np2_ba_med_6.avi",
+      "source_action": "hug",
+      "archive_member": "hug/Free_Hugs_-_Paris_www_calins-gratuits_com_hug_u_cm_np2_ba_med_6.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:Free_Hugs_-_Paris_www_calins-gratuits_com"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\17_shoot_ball_PlayingBasketball_shoot_ball_f_nm_np1_ri_med_5.avi",
+      "source_action": "shoot_ball",
+      "archive_member": "shoot_ball/PlayingBasketball_shoot_ball_f_nm_np1_ri_med_5.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:PlayingBasketball"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\18_shoot_ball_Finding_Forrester_3_shoot_ball_u_nm_np2_fr_med_2.avi",
+      "source_action": "shoot_ball",
+      "archive_member": "shoot_ball/Finding_Forrester_3_shoot_ball_u_nm_np2_fr_med_2.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:Finding_Forrester_3"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\19_shoot_ball_WeTheKingsplaying_shoot_ball_u_cm_np1_ba_med_5.avi",
+      "source_action": "shoot_ball",
+      "archive_member": "shoot_ball/WeTheKingsplaying_shoot_ball_u_cm_np1_ba_med_5.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:WeTheKingsplaying"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\20_shoot_ball_3PointJumpShotPractice-09_21_07_shoot_ball_f_nm_np1_ri_med_6.avi",
+      "source_action": "shoot_ball",
+      "archive_member": "shoot_ball/3PointJumpShotPractice-09_21_07_shoot_ball_f_nm_np1_ri_med_6.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:3PointJumpShotPractice-09_21_07"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\21_walk_Narcotic19672256kb_walk_f_cm_np1_ri_med_1.avi",
+      "source_action": "walk",
+      "archive_member": "walk/Narcotic19672256kb_walk_f_cm_np1_ri_med_1.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:Narcotic19672256kb"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\22_walk_Hitch_Part_1_walk_u_cm_np1_le_med_4.avi",
+      "source_action": "walk",
+      "archive_member": "walk/Hitch_Part_1_walk_u_cm_np1_le_med_4.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:Hitch_Part_1"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\23_walk_AmericanGangster_walk_f_cm_np1_fr_med_1.avi",
+      "source_action": "walk",
+      "archive_member": "walk/AmericanGangster_walk_f_cm_np1_fr_med_1.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:AmericanGangster"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\24_walk_RETURN_OF_THE_KING_walk_f_cm_np1_fr_med_45.avi",
+      "source_action": "walk",
+      "archive_member": "walk/RETURN_OF_THE_KING_walk_f_cm_np1_fr_med_45.avi",
+      "source_url": "https://huggingface.co/datasets/innat/HMDB51/resolve/abba17dd83623b62e62229f5b5185f6d98acc2b1/hmdb51_org.zip",
+      "repository_revision": "abba17dd83623b62e62229f5b5185f6d98acc2b1",
+      "source_group": "HMDB51:RETURN_OF_THE_KING"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\26_play_cam2_36.mp4",
+      "original_path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\source_videos\\AIRTLAB_YOLO_cam2_36.mp4",
+      "source_url": "https://huggingface.co/datasets/DanJoshua/AIRTLAB_YOLO/resolve/7cf6525a9c24e8e0e9db0709b4a613a8dd3bdb64/non-violent/cam2_36.mp4",
+      "repository_revision": "7cf6525a9c24e8e0e9db0709b4a613a8dd3bdb64",
+      "source_action": "play",
+      "source_group": "DanJoshua/AIRTLAB_YOLO:non-violent/cam2_36.mp4",
+      "trim_start": 0,
+      "trim_seconds": 8,
+      "repository": "https://huggingface.co/datasets/DanJoshua/AIRTLAB_YOLO"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\27_crowd_crowd01.mp4",
+      "original_path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\source_videos\\Small-Crowd-and-Traffic-Video-Footages_crowd01.mp4",
+      "source_url": "https://huggingface.co/datasets/parsafaramarzi/Small-Crowd-and-Traffic-Video-Footages/resolve/bb5dd5c1055dabcb87a3c6cb6edfdad25043ecf9/crowd01.mp4",
+      "repository_revision": "bb5dd5c1055dabcb87a3c6cb6edfdad25043ecf9",
+      "source_action": "crowd",
+      "source_group": "parsafaramarzi/Small-Crowd-and-Traffic-Video-Footages:crowd01.mp4",
+      "trim_start": 0,
+      "trim_seconds": 8,
+      "repository": "https://huggingface.co/datasets/parsafaramarzi/Small-Crowd-and-Traffic-Video-Footages"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\28_crowd_crowd02.mp4",
+      "original_path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\source_videos\\Small-Crowd-and-Traffic-Video-Footages_crowd02.mp4",
+      "source_url": "https://huggingface.co/datasets/parsafaramarzi/Small-Crowd-and-Traffic-Video-Footages/resolve/bb5dd5c1055dabcb87a3c6cb6edfdad25043ecf9/crowd02.mp4",
+      "repository_revision": "bb5dd5c1055dabcb87a3c6cb6edfdad25043ecf9",
+      "source_action": "crowd",
+      "source_group": "parsafaramarzi/Small-Crowd-and-Traffic-Video-Footages:crowd02.mp4",
+      "trim_start": 0,
+      "trim_seconds": 8,
+      "repository": "https://huggingface.co/datasets/parsafaramarzi/Small-Crowd-and-Traffic-Video-Footages"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\clips\\29_crowd_crowd03.mp4",
+      "original_path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\public_videos_20261015\\source_videos\\Small-Crowd-and-Traffic-Video-Footages_crowd03.mp4",
+      "source_url": "https://huggingface.co/datasets/parsafaramarzi/Small-Crowd-and-Traffic-Video-Footages/resolve/bb5dd5c1055dabcb87a3c6cb6edfdad25043ecf9/crowd03.mp4",
+      "repository_revision": "bb5dd5c1055dabcb87a3c6cb6edfdad25043ecf9",
+      "source_action": "crowd",
+      "source_group": "parsafaramarzi/Small-Crowd-and-Traffic-Video-Footages:crowd03.mp4",
+      "trim_start": 0,
+      "trim_seconds": 8,
+      "repository": "https://huggingface.co/datasets/parsafaramarzi/Small-Crowd-and-Traffic-Video-Footages"
+    }
+  ],
+  "failed_sources": [
+    {
+      "selection": [
+        25,
+        [
+          "DanJoshua/AIRTLAB_YOLO",
+          "7cf6525a9c24e8e0e9db0709b4a613a8dd3bdb64",
+          "non-violent/cam2_2.mp4",
+          "play"
+        ]
+      ],
+      "reason": "ValueError: Invalid source video"
+    }
+  ]
+}

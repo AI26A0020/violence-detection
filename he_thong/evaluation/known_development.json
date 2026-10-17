@@ -1,0 +1,65 @@
+{
+  "records": [
+    {
+      "sha256": "c41496255aa3666adf6d1947ba5d00bf4f28aa602e1a85b575b51b515d685066",
+      "group": "development:check9.mp4",
+      "relative_path": "check9.mp4"
+    },
+    {
+      "sha256": "019af1e88e5aaa4ebdc63a7b4a6dd8b3fbdba13cc278426a4118c3d0bcb7fb21",
+      "group": "development:check10.mp4",
+      "relative_path": "check10.mp4"
+    },
+    {
+      "sha256": "81f45eedb253451a920806b8235fcb4810ae8b0bf71d83dcab93e389ccf2ce79",
+      "group": "development:check1.mp4",
+      "relative_path": "check1.mp4"
+    },
+    {
+      "sha256": "20739d8ada7b76c913235fc2db864566faa1bdfce9b196ffb71e8830026fb9af",
+      "group": "development:check3.mp4",
+      "relative_path": "check3.mp4"
+    },
+    {
+      "sha256": "db0cf293bc5b1ef94b6911e31c7943c29cae0b87cf6856e3d67d8c7fee13d4bd",
+      "group": "development:check6.mp4",
+      "relative_path": "check6.mp4"
+    },
+    {
+      "sha256": "1d8c801d5399c1e60d13b284d89f072e8b77f70b31697b42923d5f1c7f0c58a2",
+      "group": "development:check7.mp4",
+      "relative_path": "check7.mp4"
+    },
+    {
+      "sha256": "808990a046910c08693fd3b1987c7f16a25e287717427ffd53d91eb51c8fade6",
+      "group": "development:check8.mp4",
+      "relative_path": "check8.mp4"
+    },
+    {
+      "sha256": "2bd78e7977ade7995eb38d416c4fbbca475ae6e772f607bd0a85f8cc4ee4780f",
+      "group": "development:check2.mp4",
+      "relative_path": "check2.mp4"
+    },
+    {
+      "sha256": "cfa3e3e5e6c6cdc39175dbb01506cc04b82d221f5db1ea3571be02be86d12007",
+      "group": "development:check4.mp4",
+      "relative_path": "check4.mp4"
+    },
+    {
+      "sha256": "deb4f103d9920f99564c33dc62ebdeea212ea4a45955f1396a6ad4152e077949",
+      "group": "development:check5.mp4",
+      "relative_path": "check5.mp4"
+    },
+    {
+      "sha256": "6c1bd55fbdc10c0c5f6c16c82fed765942607f105fcd55eb3f8a92e488ce9b4f",
+      "group": "development:hjqA9w23MGc.mp4",
+      "relative_path": "youtube_test_videos\\hjqA9w23MGc.mp4"
+    },
+    {
+      "sha256": "db0cf293bc5b1ef94b6911e31c7943c29cae0b87cf6856e3d67d8c7fee13d4bd",
+      "group": "development:tDSXPQcpybU.mp4",
+      "relative_path": "youtube_test_videos\\tDSXPQcpybU.mp4"
+    }
+  ],
+  "purpose": "known prior development media; never use as novel final test"
+}

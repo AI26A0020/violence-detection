@@ -1,0 +1,23 @@
+{
+  "started": "2026-10-11T14:43:30+07:00",
+  "ended": "2026-10-11T14:44:11+07:00",
+  "model": "violence_resnet18.pt:ac3caed23fa7",
+  "cameras": [
+    {
+      "camera": "NV_3 (video)",
+      "analyzed_frames": 29,
+      "skipped_frames": 98,
+      "visual_peak": 9.024380176470004e-08,
+      "average_latency_ms": 71.0,
+      "error": ""
+    },
+    {
+      "camera": "rtsp_record",
+      "analyzed_frames": 189,
+      "skipped_frames": 696,
+      "visual_peak": 1.0,
+      "average_latency_ms": 129.1,
+      "error": ""
+    }
+  ]
+}

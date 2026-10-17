@@ -1,0 +1,26 @@
+{
+  "folder": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\reports\\main1_demo_videos",
+  "results": [
+    {
+      "video": "NV_42.mp4",
+      "decision": "Chưa đủ bằng chứng bạo lực",
+      "risk": "low",
+      "visual_peak": 7.510363957408117e-06,
+      "distress_peak": 0.11319862284015512,
+      "laughter_peak": 0.2815999157904941,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_9853157365264f03b6d4fe852cc8d927\\NV_42_690d9814.json",
+      "error": ""
+    },
+    {
+      "video": "V_19.mp4",
+      "decision": "Hình ảnh nguy cơ cao · cần xác minh",
+      "risk": "high",
+      "visual_peak": 0.9999852180480957,
+      "distress_peak": 0.04545366399177887,
+      "laughter_peak": 0.1446292349826438,
+      "report": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\schoolguard_data\\reports\\folder_9853157365264f03b6d4fe852cc8d927\\V_19_c93db9c9.json",
+      "error": ""
+    }
+  ],
+  "cancelled": false
+}

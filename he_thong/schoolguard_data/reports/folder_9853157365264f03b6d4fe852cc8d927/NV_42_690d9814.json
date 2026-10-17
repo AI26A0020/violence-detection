@@ -1,0 +1,129 @@
+{
+  "file": "NV_42.mp4",
+  "created": "2026-10-11T14:36:35+07:00",
+  "model": "violence_resnet18.pt:ac3caed23fa7",
+  "duration_seconds": 3.5,
+  "visual_mean": 1.539087285272621e-06,
+  "visual_peak": 7.510363957408117e-06,
+  "audio_note": "Âm thanh và video đã ghép theo cửa sổ thời gian",
+  "audio_windows": [
+    {
+      "start": 0.009,
+      "end": 3.515,
+      "visual": 1.6269304291223067e-06,
+      "distress": 0.11319862284015512,
+      "laughter": 0.2815999157904941,
+      "other": 0.6052014613693507,
+      "words": [],
+      "note": "Âm thanh cùng cửa sổ video",
+      "speech_text": "",
+      "decision": {
+        "label": "Chưa đủ bằng chứng bạo lực",
+        "risk": "low",
+        "corroborated": false
+      }
+    }
+  ],
+  "timeline": [
+    {
+      "second": 0.0,
+      "visual": 4.575383982796666e-08,
+      "smooth": 4.575383982796666e-08
+    },
+    {
+      "second": 0.2,
+      "visual": 4.1191594135625564e-08,
+      "smooth": 4.392894155103022e-08
+    },
+    {
+      "second": 0.4,
+      "visual": 9.049044535913708e-08,
+      "smooth": 6.255354307427297e-08
+    },
+    {
+      "second": 0.6,
+      "visual": 1.6115660628202022e-07,
+      "smooth": 1.0199476835737187e-07
+    },
+    {
+      "second": 0.8,
+      "visual": 7.695197723478486e-07,
+      "smooth": 3.6900476995356256e-07
+    },
+    {
+      "second": 1.0,
+      "visual": 2.491458985787176e-07,
+      "smooth": 3.2106122140362457e-07
+    },
+    {
+      "second": 1.2,
+      "visual": 1.365678485854005e-07,
+      "smooth": 2.4726387227633494e-07
+    },
+    {
+      "second": 1.4,
+      "visual": 8.954032182373339e-08,
+      "smooth": 1.8417445209529432e-07
+    },
+    {
+      "second": 1.6,
+      "visual": 1.6393269675063493e-07,
+      "smooth": 1.7607774995743058e-07
+    },
+    {
+      "second": 1.8,
+      "visual": 4.653787186725822e-07,
+      "smooth": 2.9179813744349123e-07
+    },
+    {
+      "second": 2.0,
+      "visual": 6.169218522700248e-07,
+      "smooth": 4.218476233741047e-07
+    },
+    {
+      "second": 2.2,
+      "visual": 5.203998512115504e-07,
+      "smooth": 4.61268514509083e-07
+    },
+    {
+      "second": 2.4,
+      "visual": 1.763054797265795e-06,
+      "smooth": 9.819830276117679e-07
+    },
+    {
+      "second": 2.6,
+      "visual": 2.764186774584232e-06,
+      "smooth": 1.6948645264007534e-06
+    },
+    {
+      "second": 2.8,
+      "visual": 1.6308517842844594e-06,
+      "smooth": 1.669259429554236e-06
+    },
+    {
+      "second": 3.0,
+      "visual": 5.309337666403735e-06,
+      "smooth": 3.125290724294036e-06
+    },
+    {
+      "second": 3.2,
+      "visual": 7.510363957408117e-06,
+      "smooth": 4.8793200175396685e-06
+    },
+    {
+      "second": 3.4,
+      "visual": 5.375776709115598e-06,
+      "smooth": 5.077902694170041e-06
+    }
+  ],
+  "distress_peak": 0.11319862284015512,
+  "laughter_peak": 0.2815999157904941,
+  "speech": "Whisper + từ khóa; tín hiệu tham khảo, không phải bộ phân loại cầu cứu đã huấn luyện",
+  "cancelled": false,
+  "note": "Nhãn âm thanh không chứng minh ý định hay hành vi. Cần người xác minh bạo lực/nô đùa.",
+  "decision": {
+    "label": "Chưa đủ bằng chứng bạo lực",
+    "risk": "low",
+    "corroborated": false
+  }
+}

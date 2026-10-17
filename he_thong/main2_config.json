@@ -1,0 +1,73 @@
+{
+  "sources": [
+    {
+      "label": "Camera 1",
+      "source": 0,
+      "roi": null
+    }
+  ],
+  "model": {
+    "backend": "resnet",
+    "path": "models/violence_fresh_development_20261017.pt",
+    "keras_path": "model_gop.h5",
+    "input_size": 160,
+    "sequence_length": 10,
+    "feature_weights": "",
+    "device": "cpu",
+    "threads": 2
+  },
+  "detection": {
+    "threshold": 0.75,
+    "interaction_threshold": 0.5,
+    "release_threshold": 0.35,
+    "sustain_seconds": 0.6,
+    "max_gap_seconds": 0.25,
+    "release_seconds": 1.5,
+    "cooldown_seconds": 30,
+    "analysis_fps": 5,
+    "require_interaction": true,
+    "motion_threshold": 2.8,
+    "short_kicks_enabled": true,
+    "short_punches_enabled": true
+  },
+  "person": {
+    "enabled": true,
+    "path": "models/yolov8s-pose.pt",
+    "confidence": 0.2,
+    "imgsz": 640,
+    "body_occlusion": true,
+    "min_body_confidence": 0.1
+  },
+  "evidence": {
+    "enabled": true,
+    "pre_seconds": 5,
+    "post_seconds": 8,
+    "fps": 5,
+    "width": 854,
+    "buffer_mb": 32,
+    "min_free_mb": 250,
+    "continuous": false,
+    "segment_seconds": 900
+  },
+  "display": {
+    "boxes": true,
+    "heatmap": false,
+    "privacy": false,
+    "sound": true
+  },
+  "notifications": {
+    "enabled": true,
+    "discord_env": "SCHOOLGUARD_DISCORD_WEBHOOK",
+    "telegram_token_env": "SCHOOLGUARD_TELEGRAM_TOKEN",
+    "telegram_chat_env": "SCHOOLGUARD_TELEGRAM_CHAT_ID"
+  },
+  "storage": {
+    "folder": "schoolguard_data"
+  },
+  "feedback": {
+    "enabled": true,
+    "host": "127.0.0.1",
+    "port": 8765,
+    "public_base_url": ""
+  }
+}

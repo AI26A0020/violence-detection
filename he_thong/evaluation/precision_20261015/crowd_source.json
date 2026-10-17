@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\Od6EeCWytZo_crowd.mp4",
+      "sha256": "49cd2c60d22e24a25f44af4ca79d7a01794a813c0006cdb569927aa9c1787818",
+      "label": false,
+      "category": "crowd",
+      "source_group": "YouTube:Od6EeCWytZo",
+      "source_url": "https://www.youtube.com/watch?v=Od6EeCWytZo",
+      "original_path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\crowd_Od6EeCWytZo.mp4",
+      "original_sha256": "4949c42c5620d2dd22db697c800048fe9b12f3c0ae082ee5457f97a376bee976",
+      "trim_start": 20,
+      "trim_end": 40,
+      "frames": 500,
+      "duration_seconds": 20.0,
+      "fps": 25.0,
+      "annotation": "Public Shibuya crossing, temporal review pending; source chosen before model inference."
+    }
+  ],
+  "rejected_source": {
+    "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\precision_20261015\\holdout\\crowd05.mp4",
+    "reason": "Potential pHash source overlap with SCVD n190/n191; excluded before any new model inference"
+  },
+  "human_review_pending": true
+}

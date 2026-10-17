@@ -1,0 +1,10 @@
+{
+  "seconds": 3,
+  "fps": 10,
+  "encoded_frames": 30,
+  "captured_frames": 23,
+  "pre_captured": 11,
+  "post_captured": 12,
+  "coverage_seconds": 2.953,
+  "note": "Resampled capture timestamps; thiếu hình ở đầu/cuối nguồn được lặp, không phải bằng chứng mới."
+}

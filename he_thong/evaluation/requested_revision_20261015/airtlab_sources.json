@@ -1,0 +1,66 @@
+{
+  "records": [
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\requested_revision_20261015\\clips\\airtlab_violent_81.mp4",
+      "sha256": "6d8e7243e0eb19ae00725d5dd04b07597ea46a622ae4f8582905c2fb9884fff1",
+      "original_sha256": "6d8e7243e0eb19ae00725d5dd04b07597ea46a622ae4f8582905c2fb9884fff1",
+      "source_group": "AIRTLab:violent:scene81",
+      "source_url": "https://raw.githubusercontent.com/airtlab/A-Dataset-for-Automatic-Violence-Detection-in-Videos/1f7747e104301ccaa82ef5a2f6804b51ced1c398/violence-detection-dataset/violent/cam1/81.mp4",
+      "repository_revision": "1f7747e104301ccaa82ef5a2f6804b51ced1c398",
+      "source_action": "violent",
+      "label": true,
+      "category": "fight",
+      "strata": [],
+      "reviewed": true,
+      "previously_unused": true,
+      "annotation_status": "provisional_source_plus_codex_visual_review",
+      "human_review_pending": true,
+      "review_note": "Four-person staged interaction: repeated arm strikes and forceful pushing/pulling in close group; one participant partly hidden behind the others.",
+      "camera_sibling_exclusion": "Scene group covers both cam1 and cam2; neither scene number occurs in historical declared groups.",
+      "duration_seconds": 4.333333333333333,
+      "fps": 30.0,
+      "frames": 130,
+      "width": 1920,
+      "height": 1080,
+      "contact_sheet": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\reports\\requested_revision_20261015\\selection\\01_airtlab_violent_81.jpg",
+      "review_sample_count": 12,
+      "review_sample_range_seconds": [
+        0,
+        4.3
+      ],
+      "review_type": "Codex full-span temporal contact sheet visual review; staff confirmation pending"
+    },
+    {
+      "path": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\evaluation\\requested_revision_20261015\\clips\\airtlab_violent_82.mp4",
+      "sha256": "781521a53eab2d04646e4732092d549ae2d8cb40f08c91d3d49891f4092373c6",
+      "original_sha256": "781521a53eab2d04646e4732092d549ae2d8cb40f08c91d3d49891f4092373c6",
+      "source_group": "AIRTLab:violent:scene82",
+      "source_url": "https://raw.githubusercontent.com/airtlab/A-Dataset-for-Automatic-Violence-Detection-in-Videos/1f7747e104301ccaa82ef5a2f6804b51ced1c398/violence-detection-dataset/violent/cam1/82.mp4",
+      "repository_revision": "1f7747e104301ccaa82ef5a2f6804b51ced1c398",
+      "source_action": "violent",
+      "label": true,
+      "category": "fight",
+      "strata": [],
+      "reviewed": true,
+      "previously_unused": true,
+      "annotation_status": "provisional_source_plus_codex_visual_review",
+      "human_review_pending": true,
+      "review_note": "Staged room conflict: repeated kicks and arm strikes; person near back wall drops toward floor while others continue physical confrontation.",
+      "camera_sibling_exclusion": "Scene group covers both cam1 and cam2; neither scene number occurs in historical declared groups.",
+      "duration_seconds": 7.566666666666666,
+      "fps": 30.0,
+      "frames": 227,
+      "width": 1920,
+      "height": 1080,
+      "contact_sheet": "E:\\.gemini\\antigravity\\scratch\\violence_detection\\reports\\requested_revision_20261015\\selection\\02_airtlab_violent_82.jpg",
+      "review_sample_count": 16,
+      "review_sample_range_seconds": [
+        0,
+        7.533333333333333
+      ],
+      "review_type": "Codex full-span temporal contact sheet visual review; staff confirmation pending"
+    }
+  ],
+  "selected_before_inference": true,
+  "staff_review_pending": true
+}

@@ -1,0 +1,31 @@
+{
+  "started": "2026-10-17T12:10:30+07:00",
+  "ended": "2026-10-17T12:40:55+07:00",
+  "model": "violence_fresh_development_20261017.pt:a39c9d2ceaaa",
+  "notification_delivery": {
+    "Discord": {
+      "delivered": 4,
+      "failed": 0,
+      "dropped": 0,
+      "max_queue_delay_ms": 0.0,
+      "last_delivery_ms": 734.0
+    },
+    "Telegram": {
+      "delivered": 4,
+      "failed": 0,
+      "dropped": 0,
+      "max_queue_delay_ms": 281.0,
+      "last_delivery_ms": 1234.0
+    }
+  },
+  "cameras": [
+    {
+      "camera": "check9",
+      "analyzed_frames": 270,
+      "skipped_frames": 1164,
+      "visual_peak": 0.9391863286495209,
+      "average_latency_ms": 178.0,
+      "error": ""
+    }
+  ]
+}
